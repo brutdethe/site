@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% if page.url == "/" %}
+	{%- include summary.html -%}
+{% else %}
+	{%- include content.html -%}
+{% endif %}
+

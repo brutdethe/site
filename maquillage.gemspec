@@ -1,0 +1,21 @@
+# frozen_string_literal: true
+
+Gem::Specification.new do |spec|
+  spec.name          = "maquillage"
+  spec.version       = "0.2.0"
+  spec.authors       = ["pntbr"]
+  spec.email         = ["stephane.langlois@scopyleft.fr"]
+
+  spec.summary       = "A minimal theme for Daktary."
+  spec.homepage      = "https://github.com/daktary-team/maquillage"
+  spec.license       = "CCO-1.0"
+
+  spec.metadata["plugin_type"] = "theme"
+
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
+
+  spec.add_runtime_dependency "jekyll", "~> 3.7.3"
+
+  spec.add_development_dependency "bundler", "~> 1.16"
+  spec.add_development_dependency "rake", "~> 12.0"
+end

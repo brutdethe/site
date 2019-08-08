@@ -1,0 +1,25 @@
+
+title: Daktary
+author: daktary-team
+email: stephane.langlois@scopyleft.fr
+description: >
+  Daktary est un éco-système d'outils permmettant de faciliter l'édition et la 
+  publication de ressources *markdown* hébergées sur *github* ou *gitlab*.
+
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+
+plugins:
+- jekyll-gitlab-metadata
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
