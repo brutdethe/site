@@ -4,6 +4,11 @@ body {
   font-size: 1em;
 }
 
+h1 {
+  font-family: $police;
+  color: $couleur-titre;
+}
+
 .container {
   width: 845px;
 }
@@ -13,11 +18,11 @@ header .search-engine input[type="submit"] {
 }
 
 .blobContent h1 {
-  font-size: 2.65rem;
+  font-size: 2.3rem;
 }
 
 .blobContent h2 {
-  font-size: 2.3375rem;
+  font-size: 2rem;
 }
 
 .blobContent h3 {
