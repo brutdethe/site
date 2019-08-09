@@ -12,17 +12,17 @@
 
 <article class=blobContent data-title=content>
     {{ content }}
-    {% if  page.category %}
-        {{ page.category | to }}
+    {% if  page.type %}
+        {{ page.type | to }}
     {% endif %}
-    {% if  page.author %}
-        par {{ page.author }}, 
+    {% if  page.par %}
+        par {{ page.par }}, 
     {% endif %}
-    {% if  page.updated %}
-        le {{ page.updated }},
+    {% if  page.modification %}
+        le {{ page.modification }},
     {% endif %}
-    {% if  page.licence %}
-        sous licence {{page.licence}} 
+    {% if  page.metro %}
+        sous licence {{page.metro}} 
     {% endif %}
     
     {% if page.tags %}
@@ -34,4 +34,5 @@
         </ul>
     </div>
     {% endif %}
+    <h1>page.nom</h1>
 </article>
