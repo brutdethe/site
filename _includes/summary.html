@@ -9,13 +9,13 @@
         data-title="folderLink"
         href="{{ page.url | relative_url }}"
       >
-        {{ replace:'.md', '' | default: page.title }}
+        {{ page.nom }}
       </a>
     </h2>
     <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ page.description }}</p>
     <a
       class="ghTreeReadmore"
-      title="Lire la suite de la fiche : {{ replace:'.md', '' | default: page.title }}"
+      title="Lire la suite de la fiche : {{ page.nom }}"
       data-title="fileReadmoreLink"
       href="{{ page.url | relative_url }}"
       >Lire la suite de la fiche</a
