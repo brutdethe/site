@@ -14,20 +14,24 @@
     <div class=metas>
         <ul>
             {% if  page.type %}
-                <li>type : {{ page.type }}</li>
+                <li>Type : {{ page.type }}</li>
             {% endif %}
             {% if  page.par %}
-                <li>par : {{ page.par }}</li> 
+                <li>Par : {{ page.par }}</li> 
             {% endif %}
-            {% if  page.modification %}
-                <li>le : {{ page.modification }}</li>
+            {% if  page.adresse %}
+                <li>Adresse : {{ page.adresse }}</li>
             {% endif %}
             {% if  page.metro %}
-                <li>metro : {{ page.metro }}</li> 
+                <li>Métro : {{ page.metro }}</li> 
             {% endif %}
         </ul>
     </div>
     
+    <h1>{{ page.nom }}</h1>
+    
+    {{ content }}
+
     {% if page.tags %}
     <div class=tags>
         <ul>
@@ -37,6 +41,4 @@
         </ul>
     </div>
     {% endif %}
-    <h1>{{ page.nom }}</h1>
-    {{ content }}
 </article>
