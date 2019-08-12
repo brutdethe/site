@@ -11,6 +11,8 @@
 </aside>
 
 <article class=blobContent data-title=content>
+
+
     <div class=metas>
         <ul>
             {% if  page.type %}
@@ -19,16 +21,21 @@
             {% if  page.par %}
                 <li>Par : {{ page.par }}</li> 
             {% endif %}
-            {% if  page.adresse %}
-                <li>Adresse : <a href="https://www.openstreetmap.org/search?query={{ page.adresse }}, Montréal">{{ page.adresse }}</a></li>
+            {% if page.adresse %}
+                <li>Adresse : 
+                {% if page.OSM %}
+                    <a href="https://www.openstreetmap.org/search?node={{ page.OSM }}">
+                {% else %}
+                    <a href="https://www.openstreetmap.org/search?query={{ page.adresse }}, Montréal">
+                {% endif %}
+                    {{ page.adresse }}</a>
+                    </li>
             {% endif %}
             {% if  page.metro %}
                 <li>Métro : {{ page.metro }}</li> 
             {% endif %}
         </ul>
     </div>
-    
-    <h1>{{ page.nom }}</h1>
 
     {{ content }}
 
