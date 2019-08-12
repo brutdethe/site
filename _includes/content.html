@@ -11,6 +11,7 @@
 </aside>
 
 <article class=blobContent data-title=content>
+    <h1>{{ page.nom }}</h1>
     <div class=metas>
         <ul>
             {% if  page.type %}
@@ -27,8 +28,6 @@
             {% endif %}
         </ul>
     </div>
-    
-    <h1>{{ page.nom }}</h1>
 
     {{ content }}
 
