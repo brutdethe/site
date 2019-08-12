@@ -23,7 +23,7 @@
             {% if page.adresse %}
                 <li>Adresse : 
                 {% if page.osm %}
-                    <a href="https://www.openstreetmap.org/search?node={{ page.osm }}">
+                    <a href="https://www.openstreetmap.org/node/{{ page.osm }}">
                 {% else %}
                     <a href="https://www.openstreetmap.org/search?query={{ page.adresse }}, Montréal">
                 {% endif %}
