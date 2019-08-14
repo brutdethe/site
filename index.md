@@ -7,6 +7,6 @@
 
 ## Qui sommes-nous ?
 
-## Consulter les lieux préventants
+## Consulter les lieux prévenants
 
 - [Montréal](/montreal)
