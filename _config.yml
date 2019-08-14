@@ -1,5 +1,5 @@
 
-title: Daktary
+title: Dans la Jungle
 author: daktary-team
 email: stephane.langlois@scopyleft.fr
 description: >
@@ -14,12 +14,19 @@ future: true
 jailed: false
 gfm_quirks: paragraph_end
 
-plugins:
-- jekyll-gitlab-metadata
-
 defaults:
   -
     scope:
       path: ""
     values:
       layout: page
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-readme-index
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
