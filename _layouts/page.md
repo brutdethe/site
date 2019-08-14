@@ -2,7 +2,7 @@
 layout: default
 ---
 {% if page.name == 'README.md' %}
-    {%- include summary.html -%}
+    {%- include summary.md -%}
 {% else %}
-    {%- include content.html -%}
+    {%- include content.md -%}
 {% endif %}
