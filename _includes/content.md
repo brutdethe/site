@@ -18,7 +18,7 @@
                 <li>Type : {{ page.type }}</li>
             {% endif %}
             {% if  page.par %}
-                <li>Par : {{ page.par }}</li> 
+                <li>Par : <a href="https://github.com/{{ page.par }}">{{ page.par }}</a></li> 
             {% endif %}
             {% if page.adresse %}
                 <li>Adresse : 
