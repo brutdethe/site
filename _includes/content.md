@@ -1,11 +1,6 @@
 <aside class="blobTools">
-    {% if site.github.pages_hostname == "github.io" %}
     <a href={{ site.github.repository_url }}/blob/{{ site.github.source.branch }}/{{ page.path }} title="Voir sur Github" class="blobGhLink tooltip"></a>
     <a href={{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }} title="Éditer sur Github" class="blobGhEdit tooltip"></a>
-    {% elsif site.gitlab.pages_hostname == "gitlab.io" %}
-    <a href={{ site.gitlab.repository_url }}/blob/master/{{ page.path }} title="Voir sur Gitlab" class="blobGhLink tooltip"></a>
-    <a href={{ site.gitlab.repository_url }}/edit/master/{{ page.path }} title="Éditer sur Gitlab" class="blobGhEdit tooltip"></a>
-    {% endif %}
 
     <a href="#top" class="blobPageTop">Haut de page</a>
 </aside>
