@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Page d'accueil
 
 ## Présentation
