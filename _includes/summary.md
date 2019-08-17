@@ -1,3 +1,5 @@
+<h1>Liste des lieux à Montréal</h1>
+
 <section id="ghTree" class="ghTree" data-title="tree">
   {% for lieu in site.montreal %}
     {% unless lieu.url contains "index.html" %}
