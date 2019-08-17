@@ -1,25 +1,27 @@
+<h1>Liste des lieux à Montréal</h1>
+
 <section id="ghTree" class="ghTree" data-title="tree">
-  {% assign sorted-pages = site.html_pages | sort: 'title' %} {% for page in
-  sorted-pages %} {% if page.page-type != "info" and page.url != "/" and
-  page.url != "/404.html" %}
-  <article class="ghTreeItem ghTypeFile" data-title="dir">
-    <h2 class="ghTreeTitle">
-      <a
-        class="folderLink"
-        data-title="folderLink"
-        href="{{ page.url | relative_url }}"
-      >
-        {{ page.nom }}
-      </a>
-    </h2>
-    <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ page.description }}</p>
-    <a
-      class="ghTreeReadmore"
-      title="Lire la suite de la fiche : {{ page.nom }}"
-      data-title="fileReadmoreLink"
-      href="{{ page.url | relative_url }}"
-      >Lire la suite de la fiche</a
-    >
-  </article>
-  {% endif %} {% endfor %}
+  {% for lieu in site.montreal %}
+    {% unless lieu.url contains "index.html" %}
+      <article class="ghTreeItem ghTypeFile" data-title="dir">
+        <h2 class="ghTreeTitle">
+          <a
+            class="folderLink"
+            data-title="folderLink"
+            href="{{ lieu.url }}"
+          >
+            {{ lieu.nom }}
+          </a>
+        </h2>
+        <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ lieu.description }}</p>
+        <a
+          class="ghTreeReadmore"
+          title="Lire la suite de la fiche : {{ lieu.nom }}"
+          data-title="fileReadmoreLink"
+          href="{{ lieu.url }}"
+          >Lire la suite de la fiche</a
+        >
+      </article>
+    {% endunless %}
+  {% endfor %}
 </section>
