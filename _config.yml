@@ -21,10 +21,6 @@ defaults:
     values:
       layout: location
 
-collections:
-  montreal:
-    output: true
-
 plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
