@@ -42,3 +42,29 @@ header .search-engine input[type="submit"] {
   background: url('data:image/svg+xml,<svg height="16" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M6 5H2v-1h4v1zM2 8h7v-1H2v1z m0 2h7v-1H2v1z m0 2h7v-1H2v1z m10-7.5v9.5c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V2c0-0.55 0.45-1 1-1h7.5l3.5 3.5z m-1 0.5L8 2H1v12h10V5z" fill="rgba(115, 213, 107, 1)" /></svg>')
     0 0 no-repeat;
 }
+
+.danslajungle {
+  width: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 610px;
+  padding: 0;
+  margin-left: -89.5px;
+  color: #002920;
+  text-align: center;
+  background: url(/assets/danslajungle.png) center center no-repeat;
+}
+
+.danslajungle h1,
+.danslajungle p {
+  margin: 0;
+}
+
+.danslajungle h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 3.2em;
+  color: #002920;
+  text-transform: uppercase;
+}
