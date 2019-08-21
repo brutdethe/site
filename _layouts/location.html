@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{%- include aside.html -%}
+<article class="blobContent" data-title="content">
+  <h1>{{ page.nom }}</h1>
+  {%- include location-metas.html -%}
+  {{ content }}
+</article>

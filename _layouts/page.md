@@ -1,6 +1,0 @@
----
-layout: default
----
-<article class=blobContent data-title=content>
-    {{ content }}
-</article>
