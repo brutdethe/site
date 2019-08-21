@@ -5,4 +5,5 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.titlie | default: page.title | default: site.github.repository_name }}</title>
+    <script src="https://kit.fontawesome.com/1b1cd2239f.js"></script>
 </head>
