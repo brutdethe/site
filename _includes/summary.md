@@ -1,7 +1,7 @@
 <h1>Liste des lieux à Montréal</h1>
 
 <section id="ghTree" class="ghTree" data-title="tree">
-  {% for lieu in site.montreal %}
+  {% for lieu in site[page.collection] %}
     {% unless lieu.url contains "index.html" %}
       <article class="ghTreeItem ghTypeFile" data-title="dir">
         <h2 class="ghTreeTitle">
