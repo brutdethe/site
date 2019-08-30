@@ -1,7 +1,27 @@
 <div class=metas>
     <ul>
         {% if  page.type %}
-            <li>Type : {{ page.type }}</li>
+            <li>
+                {% for type in page.type %}
+                    {% if type == "pub" || type == "bar" %}
+                    <i class="fa fa-glass-cheers" title="{{ type }}"></i>
+                    {% elsif type == "restaurant" %}
+                    <i class="fas fa-utensils" title="{{ type }}"></i>
+                    {% elsif type == "jeux" %}
+                    <i class="fas fa-dice" title="{{ type }}"></i>
+                    {% elsif type == "végan" %}
+                    <i class="fas fa-seedling" title="{{ type }}"></i>
+                    {% elsif type == "littérature" %}
+                    <i class="fas fa-book" title="{{ type }}"></i>
+                    {% elsif type == "vélo" %}
+                    <i class="fas fa-bycicle" title="{{ type }}"></i>
+                    {% elsif type == "épicerie" %}
+                    <i class="fas fa-shopping-basket"
+                    {% else %}
+                    {{ type }}
+                    {% endif %}
+                {% endfor %}
+            </li>
         {% endif %}
         {% if  page.par %}
             <li>Par : <a href="https://github.com/{{ page.par }}">{{ page.par }}</a></li> 
