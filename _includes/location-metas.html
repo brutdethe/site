@@ -3,7 +3,7 @@
         {% if  page.type %}
             <li>
                 {% for type in page.type %}
-                    {% if type == "pub" || type == "bar" || type == "café" %}
+                    {% if type == "pub" or type == "bar" or type == "café" %}
                     <i class="fa fa-glass-cheers" title="{{ type }}"></i>
                     {% elsif type == "restaurant" %}
                     <i class="fas fa-utensils" title="{{ type }}"></i>
