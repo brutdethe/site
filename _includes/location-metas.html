@@ -21,6 +21,8 @@
                     <i class="fas fa-shopping-basket" title="{{ type }}"></i>
                     {% elsif type == "coworking" %}
                     <i class="fas fa-laptop" title="{{ type }}"></i>
+                    {% elsif type == "atelier" or type == "bricolage" %}
+                    <i class="fas fa-tools" title="{{ type }}"></i>
                     {% else %}
                     {{ type }}
                     {% endif %}
