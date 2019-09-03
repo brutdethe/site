@@ -3,8 +3,10 @@
         {% if  page.type %}
             <li>
                 {% for type in page.type %}
-                    {% if type == "pub" or type == "bar" or type == "café" %}
+                    {% if type == "pub" or type == "bar" %}
                     <i class="fa fa-glass-cheers" title="{{ type }}"></i>
+                    {% elsif type == "café" %}
+                    <i class="fas fa-mug-hot" title="{{ type }}"></i>
                     {% elsif type == "restaurant" %}
                     <i class="fas fa-utensils" title="{{ type }}"></i>
                     {% elsif type == "jeux" %}
@@ -17,6 +19,8 @@
                     <i class="fas fa-bycicle" title="{{ type }}"></i>
                     {% elsif type == "épicerie" %}
                     <i class="fas fa-shopping-basket" title="{{ type }}"></i>
+                    {% elsif type == "coworking" %}
+                    <i class="fas fa-laptop" title="{{ type }}"></i>
                     {% else %}
                     {{ type }}
                     {% endif %}
