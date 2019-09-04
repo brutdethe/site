@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Liste de lieux prévenants à Montréal
+title: Liste de lieux prévenants à Montpellier
 ---
 
 {% include summary.html %}

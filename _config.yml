@@ -1,4 +1,3 @@
-
 title: Dans la Jungle
 author: daktary-team
 email: stephane.langlois@scopyleft.fr
@@ -15,8 +14,7 @@ jailed: false
 gfm_quirks: paragraph_end
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: location
@@ -25,6 +23,10 @@ collections:
   montreal:
     output: true
   nantes:
+    output: true
+  bordeaux:
+    output: true
+  montpellier:
     output: true
 
 plugins:
