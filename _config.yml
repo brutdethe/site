@@ -24,10 +24,6 @@ collections:
     output: true
   nantes:
     output: true
-  bordeaux:
-    output: true
-  montpellier:
-    output: true
 
 plugins:
   - jekyll-remote-theme
