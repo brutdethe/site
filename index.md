@@ -2,9 +2,11 @@
 layout: page
 ---
 
+{% include danslajungle.html %}
+
 ## Consulter les lieux prévenants
 
-- [Montréal](/montreal)
+{% include location-nav.html %}
 
 ## Présentation
 
