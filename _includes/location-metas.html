@@ -5,6 +5,8 @@
                 {% for type in page.type %}
                     {% if type == "pub" or type == "bar" %}
                     <i class="fa fa-glass-cheers" title="{{ type }}"></i>
+                    {% elsif type == "boutique" %}
+                    <i class="fas fa-store" title="{{ type }}"></i>
                     {% elsif type == "supermarché" %}
                     <i class="fas fa-shopping-bag" title="{{ type }}"></i>
                     {% elsif type == "association" %}
