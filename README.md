@@ -1,7 +1,5 @@
 # Maquillage
 
-Un thème Jekyll pour publier des contributions issues de l'éco-système [Daktary](http://daktary.com).
-
 ## Utiliser le thème
 
 ### Contexte
