@@ -25,12 +25,22 @@
                     <i class="fas fa-book" title="{{ type }}"></i>
                     {% elsif type == "vélo" %}
                     <i class="fas fa-bycicle" title="{{ type }}"></i>
-                    {% elsif type == "épicerie" %}
+                    {% elsif type == "épicerie" or type == "shop" %}
                     <i class="fas fa-shopping-basket" title="{{ type }}"></i>
                     {% elsif type == "coworking" %}
                     <i class="fas fa-laptop" title="{{ type }}"></i>
                     {% elsif type == "atelier" or type == "bricolage" %}
                     <i class="fas fa-tools" title="{{ type }}"></i>
+                    {% elsif type == "chanvre" %}
+                    <i class="fas fa-cannabis" title="{{ type }}"></i>
+                    {% elsif type == "concert" %}
+                    <i class="fas fa-music" title="{{ type }}"></i>
+                    {% elsif type == "camping" %}
+                    <i class="fas fa-campground" title="{{ type }}"></i>
+                    {% elsif type == "salle de spectacle" %}
+                    <i class="fas fa-theater-masks" title="{{ type }}"></i>
+                    {% elsif type == "centre de loisirs" %}
+                    <i class="fas fa-child" title="{{ type }}"></i>
                     {% else %}
                     {{ type }}
                     {% endif %}
