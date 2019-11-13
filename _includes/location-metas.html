@@ -5,8 +5,12 @@
                 {% for type in page.type %}
                     {% if type == "pub" or type == "bar" %}
                     <i class="fa fa-glass-cheers" title="{{ type }}"></i>
+                    {% elsif type == "thé" %}
+                    <i class="fas fa-leaf" title="{{ type }}"></i>
                     {% elsif type == "boutique" %}
                     <i class="fas fa-store" title="{{ type }}"></i>
+                    {% elsif type == "glacier" %}
+                    <i class="fas fa-ice-cream" title="{{ type }}"></i>
                     {% elsif type == "galerie" %}
                     <i class="far fa-image" title="{{ type }}"></i>
                     {% elsif type == "supermarché" %}
