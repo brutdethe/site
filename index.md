@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% include danslajungle.html %}
+{% include banner.html %}
 
 ## Consulter les lieux prévenants
 

@@ -43,7 +43,7 @@ header .search-engine input[type="submit"] {
     0 0 no-repeat;
 }
 
-.danslajungle {
+.banner {
   width: 1024px;
   display: flex;
   align-items: center;
@@ -56,12 +56,12 @@ header .search-engine input[type="submit"] {
   background: url(/assets/danslajungle.png) center center no-repeat;
 }
 
-.danslajungle h1,
-.danslajungle p {
+.banner h1,
+.banner p {
   margin: 0;
 }
 
-.danslajungle h1 {
+.banner h1 {
   margin: 0;
   padding: 0;
   font-size: 3.2em;
