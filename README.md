@@ -103,13 +103,13 @@ Pour tester ce thème en local, lancer `bundle exec jekyll serve` dans un termin
 Pour utiliser ce thème dans un site utilisant _Jekyll_, vous pouvez ajouter cette ligne dans votre fichier `Gemfile`:
 
 ```ruby
-gem "maquillage"
+gem "maquillage-danslajungle"
 ```
 
 Et ajouter la ligne suivante `_config.yml`:
 
 ```yaml
-theme: maquillage
+theme: maquillage-danslajungle
 ```
 
 Puis exécuter :
@@ -121,7 +121,7 @@ bundle
 Ou bien, installer par vous même :
 
 ```bash
-gem install maquillage
+gem install maquillage-danslajungle
 ```
 
 ### License
