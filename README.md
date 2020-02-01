@@ -100,10 +100,22 @@ Pour tester ce thème en local, lancer `bundle exec jekyll serve` dans un termin
 
 ### Installation dans un site Jekyll
 
-Pour utiliser ce thème dans un site utilisant _Jekyll_, vous pouvez ajouter cette ligne dans votre fichier `Gemfile`:
+Pour utiliser ce thème dans un site utilisant _Jekyll_, vous pouvez créer un fichier `Gemfile`:
 
 ```ruby
-gem "maquillage-danslajungle"
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+gem "jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-github-metadata"
+gem "jekyll-relative-links"
+gem "jekyll-default-layout"
+gem "jekyll-titles-from-headings"
+
 ```
 
 Et ajouter la ligne suivante `_config.yml`:
