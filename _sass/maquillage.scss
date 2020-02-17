@@ -332,6 +332,29 @@ header .search-engine input[type="submit"] {
 .blobContent blockquote p {
   margin: 0;
 }
+.blobContent table > tbody > tr > td:first-child {
+  font-weight: bold;
+}
+.blobContent table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.blobContent table th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: $couleur-table-bordure;
+  text-align: left;
+}
+.blobContent table td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: $couleur-table-bordure;
+}
+.blobContent table tr:hover {
+  background-color: $couleur-table-survol;
+}
 
 /*
  * TAGS
