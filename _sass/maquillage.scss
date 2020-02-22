@@ -485,12 +485,16 @@ header .search-engine input[type="submit"] {
 /*
 notes
 */
-
 .footnotes ol li::before {
   position: absolute;
 }
 .footnotes p {
-  display: inline;
+  margin: 0;
+  font-size: 0.9em;
+  line-height: 1.6em;
+}
+.footnotes li {
+  margin: 1.5em;
 }
 
 /* 
