@@ -1,85 +1,88 @@
 <div class=metas>
     <ul>
         {% if  page.type %}
-            <li>
-                {% for type in page.type %}
-                    {% if type == "pub" or type == "bar" %}
-                    <i class="fa fa-glass-cheers" title="{{ type }}"></i>
-                    {% elsif type == "jardin partagé" %}
-                    <i class="fa fa-carrot" title="{{ type }}"></i>
-                    {% elsif type == "tiers-lieu" %}
-                    <i class="fas fa-map-signs" title="{{ type }}"></i>
-                    {% elsif type == "brocante" %}
-                    <i class="fa fa-camera-retro" title="{{ type }}"></i>
-                    <i class="fas fa-map-signs" title="{{ type }}"></i>
-                    {% elsif type == "thé" or type == "salon de thé" %}
-                    <i class="fas fa-leaf" title="{{ type }}"></i>
-                    {% elsif type == "boutique" %}
-                    <i class="fas fa-store" title="{{ type }}"></i>
-                    {% elsif type == "glacier" %}
-                    <i class="fas fa-ice-cream" title="{{ type }}"></i>
-                    {% elsif type == "boulangerie" %}
-                    <i class="fas fa-bread-slice" title="{{ type }}"></i>
-                    {% elsif type == "galerie" %}
-                    <i class="far fa-image" title="{{ type }}"></i>
-                    {% elsif type == "supermarché" %}
-                    <i class="fas fa-shopping-bag" title="{{ type }}"></i>
-                    {% elsif type == "association" %}
-                    <i class="far fa-address-book" title="{{ type }}"></i>
-                    {% elsif type == "café" %}
-                    <i class="fas fa-mug-hot" title="{{ type }}"></i>
-                    {% elsif type == "restaurant" %}
-                    <i class="fas fa-utensils" title="{{ type }}"></i>
-                    {% elsif type == "jeux" %}
-                    <i class="fas fa-dice" title="{{ type }}"></i>
-                    {% elsif type == "végan" or type == "végétarien" %}
-                    <i class="fas fa-seedling" title="{{ type }}"></i>
-                    {% elsif type == "librairie" %}
-                    <i class="fas fa-book" title="{{ type }}"></i>
-                    {% elsif type == "vélo" %}
-                    <i class="fas fa-bycicle" title="{{ type }}"></i>
-                    {% elsif type == "épicerie" or type == "shop" %}
-                    <i class="fas fa-shopping-basket" title="{{ type }}"></i>
-                    {% elsif type == "coworking" %}
-                    <i class="fas fa-laptop" title="{{ type }}"></i>
-                    {% elsif type == "garage" %}
-                    <i class="fas fa-car-battery" title="{{ type }}"></i>
-                    {% elsif type == "atelier" or type == "bricolage" %}
-                    <i class="fas fa-tools" title="{{ type }}"></i>
-                    {% elsif type == "chanvre" %}
-                    <i class="fas fa-cannabis" title="{{ type }}"></i>
-                    {% elsif type == "concert" %}
-                    <i class="fas fa-music" title="{{ type }}"></i>
-                    {% elsif type == "camping" %}
-                    <i class="fas fa-campground" title="{{ type }}"></i>
-                    {% elsif type == "salle de spectacle" %}
-                    <i class="fas fa-theater-masks" title="{{ type }}"></i>
-                    {% elsif type == "centre de loisirs" %}
-                    <i class="fas fa-child" title="{{ type }}"></i>
-                    {% else %}
-                    {{ type }}
-                    {% endif %}
-                {% endfor %}
-            </li>
+        <li>
+            {% for type in page.type %}
+            {% if type == "pub" or type == "bar" %}
+            <i class="fa fa-glass-cheers" title="{{ type }}"></i>
+            {% elsif type == "jardin partagé" %}
+            <i class="fa fa-carrot" title="{{ type }}"></i>
+            {% elsif type == "tiers-lieu" %}
+            <i class="fas fa-map-signs" title="{{ type }}"></i>
+            {% elsif type == "brocante" %}
+            <i class="fa fa-camera-retro" title="{{ type }}"></i>
+            <i class="fas fa-map-signs" title="{{ type }}"></i>
+            {% elsif type == "thé" or type == "salon de thé" %}
+            <i class="fas fa-leaf" title="{{ type }}"></i>
+            {% elsif type == "boutique" %}
+            <i class="fas fa-store" title="{{ type }}"></i>
+            {% elsif type == "glacier" %}
+            <i class="fas fa-ice-cream" title="{{ type }}"></i>
+            {% elsif type == "boulangerie" %}
+            <i class="fas fa-bread-slice" title="{{ type }}"></i>
+            {% elsif type == "galerie" %}
+            <i class="far fa-image" title="{{ type }}"></i>
+            {% elsif type == "supermarché" %}
+            <i class="fas fa-shopping-bag" title="{{ type }}"></i>
+            {% elsif type == "association" %}
+            <i class="far fa-address-book" title="{{ type }}"></i>
+            {% elsif type == "café" %}
+            <i class="fas fa-mug-hot" title="{{ type }}"></i>
+            {% elsif type == "restaurant" %}
+            <i class="fas fa-utensils" title="{{ type }}"></i>
+            {% elsif type == "jeux" %}
+            <i class="fas fa-dice" title="{{ type }}"></i>
+            {% elsif type == "végan" or type == "végétarien" %}
+            <i class="fas fa-seedling" title="{{ type }}"></i>
+            {% elsif type == "librairie" %}
+            <i class="fas fa-book" title="{{ type }}"></i>
+            {% elsif type == "vélo" %}
+            <i class="fas fa-bycicle" title="{{ type }}"></i>
+            {% elsif type == "épicerie" or type == "shop" %}
+            <i class="fas fa-shopping-basket" title="{{ type }}"></i>
+            {% elsif type == "coworking" %}
+            <i class="fas fa-laptop" title="{{ type }}"></i>
+            {% elsif type == "garage" %}
+            <i class="fas fa-car-battery" title="{{ type }}"></i>
+            {% elsif type == "atelier" or type == "bricolage" %}
+            <i class="fas fa-tools" title="{{ type }}"></i>
+            {% elsif type == "chanvre" %}
+            <i class="fas fa-cannabis" title="{{ type }}"></i>
+            {% elsif type == "concert" %}
+            <i class="fas fa-music" title="{{ type }}"></i>
+            {% elsif type == "camping" %}
+            <i class="fas fa-campground" title="{{ type }}"></i>
+            {% elsif type == "salle de spectacle" %}
+            <i class="fas fa-theater-masks" title="{{ type }}"></i>
+            {% elsif type == "centre de loisirs" %}
+            <i class="fas fa-child" title="{{ type }}"></i>
+            {% else %}
+            {{ type }}
+            {% endif %}
+            {% endfor %}
+        </li>
         {% endif %}
         {% if  page.par %}
-            <li>Par : <a href="https://github.com/{{ page.par }}">{{ page.par }}</a></li> 
+        <li>Par : <a href="https://github.com/{{ page.par }}">{{ page.par }}</a></li>
         {% endif %}
         {% if page.adresse %}
-            <li>Adresse : 
+        <li>Adresse :
             {% if page.osm %}
-                <a href="https://www.openstreetmap.org/node/{{ page.osm }}">
-            {% else %}
+            <a href="https://www.openstreetmap.org/node/{{ page.osm }}">
+                {% else %}
                 <a href="https://www.openstreetmap.org/search?query={{ page.adresse }}, Montréal">
-            {% endif %}
-                {{ page.adresse }}</a>
-                </li>
+                    {% endif %}
+                    {{ page.adresse }}</a>
+        </li>
         {% endif %}
         {% if  page.transport %}
-            <li>Transport : {{ page.transport }}</li> 
+        <li>Transport : {{ page.transport }}</li>
         {% endif %}
         {% if  page.site %}
-            <li>Site : <a href="{{ page.site }}">{{ page.site }}</a></li> 
+        <li>Site : <a href="{{ page.site }}">{{ page.site }}</a></li>
+        {% endif %}
+        {% if page.horaires %}
+        {%- include timesWindow.html -%}
         {% endif %}
     </ul>
 </div>
