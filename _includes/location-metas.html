@@ -75,6 +75,12 @@
                     {{ page.adresse }}</a>
         </li>
         {% endif %}
+        {% if  page.email or page.tel %}
+        <li>Contact : {{ page.email }} {% if  page.email and page.tel %} - {% endif %}{{ page.tel }}</li>
+        {% endif %}
+        {% if  page.responsable %}
+        <li>responsable{% if page.responsable contains "," %}s{% endif %} : {{ page.responsable }}</li>
+        {% endif %}
         {% if  page.transport %}
         <li>Transport : {{ page.transport }}</li>
         {% endif %}
