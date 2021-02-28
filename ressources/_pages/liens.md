@@ -1,7 +1,7 @@
 ---
 lien: lien
 titre: Lien sur les thés de Chine et de Taïwan
-catégorie: page
+
 ---
 
 ## Langue française

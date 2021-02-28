@@ -5,7 +5,7 @@ description: >
   L'infusion est la dernière étape de la vie des feuilles de thé. Et dans leur dernier acte,  elles se déploient et se défont lentement, créant une boisson qui raconte l'histoire de leur  origine.
   Ce contenu est un extrait du site de Tony Gebely : teaepicure.com
 par: Tony Gebely
-catégorie: traduction
+
 ---
 
 _Traduction de l'article original en anglais de Tony Gebely : https://teaepicure.com/kinetics-of-steeping-tea/_

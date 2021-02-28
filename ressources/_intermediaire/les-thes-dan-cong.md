@@ -4,7 +4,7 @@ titre: 單叢 - Les thés Dān Cóng
 par: ThaisThe
 description: >
   De plus en plus connu en Occident, les 單叢 _Dān Cóng_ sont restés discrets jusqu'à présent. Présentant un panel aromatique varié, il râvi les amateurs de thés chevronnés. 
-catégorie: intermediaire
+
 ---
 
 ![Les DanCong](/assets/media/infusion-dancong.jpg)

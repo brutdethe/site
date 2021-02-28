@@ -4,7 +4,7 @@ titre: Brunissement enzymatique
 description: >
   Différences entre l'oxydation et la fermentation et de la confusion qui entoure ces deux termes dans le monde du thé
 par: Eric R. Scott
-catégorie: traduction
+
 ---
 
 _Traduction de l'article original en anglais de [Eric R. Scott](http://www.ericrscott.com) :

@@ -4,7 +4,7 @@ titre: 茶杯泡法 - CháBēi Pào Fǎ - L'infusion en verre
 par: ThaisThe
 description: >
   On pratique généralement l'infusion d'un thé dans un verre pour les 綠茶 LǜChá (thés verts)
-catégorie: intermediaire
+
 ---
 
 Pour certains thés, et notamment les 綠茶 _LǜChá_ (thés verts), on préférera choisir une infusion dans un grand verre transparent: c'est la 茶杯泡法 _CháBēi Pào Fǎ_.

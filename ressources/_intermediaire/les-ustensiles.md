@@ -3,7 +3,7 @@ lien: les-ustensiles
 titre: Les ustensiles
 description: Description des 6+1 différents type de thé
 par: pntbr
-catégorie: intermediaire
+
 ---
 
 Je n'ai plus le nom du sage et la phrase exacte qu'il avait prononcée pour définir le thé, dans mes souvenirs ça ressemblait à :

@@ -1,7 +1,7 @@
 ---
 lien: contribuer
 titre: Aide mémoire pour contribuer
-catégorie: page
+
 ---
 
 Si vous souhaitez contribuer, vous trouverez ci-dessous quelques indications pour démarrer

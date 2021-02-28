@@ -1,7 +1,7 @@
 ---
 lien: faq
 titre: FAQ
-catégorie: page
+
 ---
 
 ### Qui sommes-nous ?

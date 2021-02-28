@@ -3,7 +3,7 @@ lien: le-rouge-ou-le-noir
 titre: Le rouge ou le noir ?
 description: Clarification thé rouge vs thé noir
 par: pntbr
-catégorie: expert
+
 ---
 
 ## Le 红 et le 黑

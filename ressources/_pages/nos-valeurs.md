@@ -1,7 +1,7 @@
 ---
 lien: nos-valeurs
 titre: Nos valeurs
-catégorie: page
+
 ---
 
 Ce site a pour ambition d’aborder autrement le thé. En effet, il nous paraît incohérent de déguster le thé avec une approche occidentale : nous souhaitons inclure autant que possible la philosophie chinoise dans notre manière de traiter nos différents sujets. Les thés présentés ici sont des thés authentiques de Chine et de Taïwan.

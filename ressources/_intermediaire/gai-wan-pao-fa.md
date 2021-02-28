@@ -4,7 +4,7 @@ titre: 蓋碗泡法 - GàiWǎn PàoFǎ - l'infusion au gaiwan
 par: ThaisThe
 description: >
   Bien qu'il existe une myriade d'appareils pour infuser le thé, le plus simple, et peut-être le plus élégant, est le GàiWǎn.
-catégorie: intermediaire
+
 ---
 
 ![Gaiwan JingdeZhen](/assets/media/gaiwan-paofa_jingdezhen.jpg)
