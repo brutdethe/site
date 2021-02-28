@@ -1,7 +1,7 @@
 ---
-lien: agenda
 titre: Agenda de nos actions
-catégorie: page
+description: >
+  Pour nous suivre ou nous rencontrer
 ---
 
 ## Les journées de cogitation sur le thé

@@ -1,7 +1,6 @@
 ---
-lien: geographie
 titre: Géographie des théiers
-catégorie: aide
+publié: 'non'
 ---
 
 ## Climats pour les théiers

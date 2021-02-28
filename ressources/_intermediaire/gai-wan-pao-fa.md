@@ -1,10 +1,8 @@
 ---
-lien: gai-wan-pao-fa
 titre: 蓋碗泡法 - GàiWǎn PàoFǎ - l'infusion au gaiwan
 par: ThaisThe
 description: >
   Bien qu'il existe une myriade d'appareils pour infuser le thé, le plus simple, et peut-être le plus élégant, est le GàiWǎn.
-catégorie: intermediaire
 ---
 
 ![Gaiwan JingdeZhen](/assets/media/gaiwan-paofa_jingdezhen.jpg)
@@ -27,9 +25,9 @@ Après avoir versé de l'eau bouillante sur et dans le _GàiWǎn_ pour le nettoy
 
 Secouez un peu les feuilles de manière à sentir les premiers arômes. La chaleur dégagée suffira à libérer les premiers arômes des feuilles.
 
-Verser l'eau chaude sur les feuilles directement ou sur le bord (pour éviter de trop brusquer les feuilles) et remplir le _GàiWǎn_ jusqu'aux 9/10 èmes.
+Verser l'eau chaude sur les feuilles directement ou sur le bord (pour éviter de trop brusquer les feuilles) et remplir le _GàiWǎn_ jusqu'aux 9/10 ème.
 
-Lorsque vous considérerez l'infusion terminée (cf. [table d'infusion](/ressources/table-d-infusion), créer un petit espace entre le *couvercle* et le *bol* du _GàiWǎn_ de manière à laisser la liqueur 茶湯 _Chá Tāng_ s'écouler sans les feuilles et verser dans un 公道杯 _GōngDào Bēi_ (aussi appelé 茶海 _Chá Hǎi_). 
+Lorsque vous considérerez l'infusion terminée (cf. [table d'infusion](../base/table-d-infusion), créer un petit espace entre le *couvercle* et le *bol* du _GàiWǎn_ de manière à laisser la liqueur 茶湯 _Chá Tāng_ s'écouler sans les feuilles et verser dans un 公道杯 _GōngDào Bēi_ (aussi appelé 茶海 _Chá Hǎi_). 
 Pour se faire, tenez les bords du *bol* avec votre pouce et votre majeur, et basculez franchement le _GàiWǎn_ en tenant le couvercle avec votre index.
 Pensez à verser jusqu'à la dernière goutte pour éviter que l'infusion ne continue et laisse apparaître de l'amertume sur les sessions suivantes.
 

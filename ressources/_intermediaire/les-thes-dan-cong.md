@@ -1,10 +1,8 @@
 ---
-lien: les-thes-dan-cong
 titre: 單叢 - Les thés Dān Cóng
 par: ThaisThe
 description: >
   De plus en plus connu en Occident, les 單叢 _Dān Cóng_ sont restés discrets jusqu'à présent. Présentant un panel aromatique varié, il râvi les amateurs de thés chevronnés. 
-catégorie: intermediaire
 ---
 
 ![Les DanCong](/assets/media/infusion-dancong.jpg)
@@ -40,19 +38,19 @@ Le Fènghuáng dān cóng est cultivé dans le district de 潮安 Cháo ān, sur
 ![FengHuang DanCong](/assets/media/infusion%20daancong.jpg)
 
 Au fur et à mesure de l'histoire, certains plans de théiers ont présenté des particularités aromatiques uniques, de canelle, d'orchidée, d'amande par exemple. Les agriculteurs les ayant identifiés, ils ont commmencé à répertorier ces "香型" Xiāng xíng en 10 catégories:
-    - 黄栀香 Huáng zhī xiāng ： c'est le premier variant identifié, il y a environ 600 ans. Le premier arbuste de ce variant est entré dans l'histoire pour sa longévité. Voici la liste de ses différents noms: 宋种， 东方红 Dōngfāng hóng en 1969， 宋茶 Sòng chá en 1980，老茶王 Lǎo chá wáng en 1990. 
-    - 蜜兰香型 Mì lán xiāng xíng : 
-    - 杏仁香型 Xìngrén xiāng xíng : le fameux "Duck Shit"....... no comments
-    - 桂花香型 Guìhuā xiāng xíng
-    - 玉兰香型 Yùlán xiāng xíng
-    - 芝兰香型 Zhīlán xiāng xíng
-    - 姜花香型 Jiāng huāxiāng xíng
-    - 夜来香型 Yèlái xiāng xíng
-    - 肉桂香型 Ròuguì xiāng xíng
-    - 柚花香型 Yòu huāxiāng xíng
+    - 黄栀香 Huáng zhī Xiāng ： c'est le premier variant identifié, il y a environ 600 ans. Le premier arbuste de ce variant est entré dans l'histoire pour sa longévité. Voici la liste de ses différents noms: 宋种， 东方红 _DōngFāng Hóng_ en 1969， 宋茶 _Sòng Chá_ en 1980，老茶王 _Lǎo Chá Wáng_ en 1990. 
+    - 蜜兰香型 _Mì Lán Xiāng Xíng_ : 
+    - 杏仁香型 _XìngRén Xiāng Xíng_ : le fameux "Duck Shit"
+    - 桂花香型 _GuìHuā Xiāng Xíng_
+    - 玉兰香型 _YùLán Xiāng Xíng_
+    - 芝兰香型 _ZhīLán Xiāng Xíng_
+    - 姜花香型 _Jiāng huāxiāng Xíng_
+    - 夜来香型 _YèLái Xiāng Xíng_
+    - 肉桂香型 _RòuGuì Xiāng Xíng_
+    - 柚花香型 _Yòu Huā Xiāng Xíng_
     
 
-## Les 岭头单丛 Lǐng tóu dān cóng
+## Les 岭头单丛 Lǐng Tóu Dān Cóng
 
 Le Lǐng tóu dān cóng est cultivé dans le district de 饶平 Ráo píng, dans le village de 岭头 Lǐng tóu. Il est aussi appelé 白叶单丛 Bái yè dān cóng。
 

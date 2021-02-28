@@ -1,10 +1,10 @@
 ---
-lien: maturation-microbienne-eric-scott
+
 titre: Maturation microbienne
 description: >
   Différences entre l'oxydation et la fermentation et de la confusion qui entoure ces deux termes dans le monde du thé
 par: Eric R. Scott
-catégorie: traduction
+
 ---
 
 _Traduction de l'article original en anglais de [Eric R. Scott](http://www.ericrscott.com) :
@@ -16,7 +16,7 @@ _Traduction de l'article original en anglais de [Eric R. Scott](http://www.ericr
 
 ### Partie 2 : maturation microbienne.
 
-Dans la [première partie](/ressources/brunissement-enzymatique-eric-scott) de cette série, j'ai abordé la question de l'une des deux étapes du traitement du thé, qui sont très différentes et pourtant appelées toutes deux _fermentation_. Dans cette partie, j'aborderai ce que l'on pourrait appeler la véritable _fermentation_.
+Dans la [première partie](./brunissement-enzymatique-eric-scott) de cette série, j'ai abordé la question de l'une des deux étapes du traitement du thé, qui sont très différentes et pourtant appelées toutes deux _fermentation_. Dans cette partie, j'aborderai ce que l'on pourrait appeler la véritable _fermentation_.
 
 Un type de thé chinois appelé 黑茶 - _HēiChá_ (littéralement "thé noir") est souvent décrit, de façon confuse, comme _post-fermenté_. Là encore, il s'agit d'une traduction littérale du terme chinois 後發酵 _Hòu FāXiào_ qui n'a aucun sens en anglais. Je ne connais pas beaucoup l'histoire de ce terme, mais ce type de thé est en fait _fermenté_, donc si vous appelez le _brunissement enzymatique_ _fermentation_, alors je suppose que vous devez appeler la _fermentation_ réelle quelque chose de différent ? Mais je m'avance...
 

@@ -1,7 +1,7 @@
 ---
-lien: lieux-prevenants
-titre: Quelques lieux de thés prévenants
-catégorie: page
+titre: Quelques lieux de thés
+description: >
+  Quelques lieux prévenants pour déguster des thés authentiques
 ---
 
 ## Nantes
@@ -16,4 +16,4 @@ catégorie: page
 ## Lille
 
 - [Unami](https://danslajungle.oisiflorus.com/lille/unami.html)
-Une boutique et slaon de thé authentique à deux pas des deux gares
+Une boutique et salon de thé authentique à deux pas des deux gares

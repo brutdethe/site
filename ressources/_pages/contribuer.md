@@ -1,7 +1,7 @@
 ---
-lien: contribuer
 titre: Aide mémoire pour contribuer
-catégorie: page
+description: >
+  Pour nous aider à étoffer ce site
 ---
 
 Si vous souhaitez contribuer, vous trouverez ci-dessous quelques indications pour démarrer
@@ -78,7 +78,7 @@ Les espaces utilisés pour formater sont important, c'est eux qui structurent le
 
 ```yaml
 ---
-lien: <l'adresse URL>
+
 titre: <le titre>
 description: >
   <une petite description>

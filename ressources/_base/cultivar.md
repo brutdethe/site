@@ -1,7 +1,6 @@
 ---
-lien: cultivar
 titre: Les cultivars de thé
-catégorie: aide
+publié: 'non'
 ---
 
 ## Le cultivar

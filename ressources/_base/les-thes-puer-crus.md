@@ -1,15 +1,13 @@
 ---
-lien: les-thes-puer-crus
 titre: 生普洱 - Shēng Pǔ'ěr - (thés Pǔ'ěr cru) 
 par: ThaisThe
 description: >
   Le 生普洱 Shēng Pǔ'ěr, nommé en français thé Pǔ'ěr cru se bonifie avec le temps, il est celui qui se rapproche le plus de l'esprit d'un vin, notamment grâce au fait qu'il soit désormais millésimé. 
-catégorie: base
 ---
 
 ## Généralités
 
-La province du 雲南 _YúnNán_, au Sud Ouest de la Chine, produit l'un des trésors de l'Empire du Milieu : un thé nommé 普洱 _Pǔ'ěr_. C'est un thé que l'on classe à part des [6 types de thé](/ressources/les-types-de-thes), issu d'arbres 喬木 _QiáoMù_ parfois centenaires voir millénaires. Il y a les [_Pǔ'ěr_ cuits](/ressources/les-thes-puer-cuits) et les _Pǔ'ěr_ crus. C'est de ces derniers dont nous parlerons dans cet article. 
+La province du 雲南 _YúnNán_, au Sud Ouest de la Chine, produit l'un des trésors de l'Empire du Milieu : un thé nommé 普洱 _Pǔ'ěr_. C'est un thé que l'on classe à part des [6 types de thé](./les-types-de-thes), issu d'arbres 喬木 _QiáoMù_ parfois centenaires voir millénaires. Il y a les [_Pǔ'ěr_ cuits](./les-thes-puer-cuits) et les _Pǔ'ěr_ crus. C'est de ces derniers dont nous parlerons dans cet article. 
 
 Souvent présentés en "galettes", le thé _Pǔ'ěr_ cru est très ancien, dans le sens où il constituait déjà une partie des tribus du _YúnNán_ envoyés aux empereurs de Chine à dos de mulet, cheval ou âne. Ils mettaient plusieurs mois pour rejoindre l'empereur. 
 
@@ -39,7 +37,7 @@ _Cháshān_ ont vu le jour. Ces montagnes se trouvent toutes dans le _YúnNán_,
 
 Ces montagnes s'étendent de part et d'autre d'un fleuve nommé 澜沧江 _LánCāngJiāng_. Ce fleuve, qui descend jusqu'au Laos où il est connu sous le nom de "Mékong". Les montagnes de thé _Pǔ'ěr_ sont en effet irriguées des eaux de ce grand fleuve. 
 
-![montagnes de théPǔ'ěr](assets/media/puer-crus_chashan.png)
+![montagnes de théPǔ'ěr](/assets/media/puer-crus_chashan.jpg)
 
 On distingue trois catégories de montagnes de thé _Pǔ'ěr_: les plus anciennes, les classiques, et les nouvelles. 
 
@@ -106,6 +104,6 @@ Parmi ces fabricants, certains se sont distingués. On verra ici les marques les
 
 Traditionnellement, on conservera les galettes de thé _Pǔ'ěr_:
 
-- **Dans un endroit aéré, en hauteur et sec**. Ceci pour éviter que la galette ne pourisse ou soit attaquée par des champignons, ce qui la rendrait non pas toxique ou mauvaise pour la santé, mais sans les qualités qu'on lui prêtait au départ.  
+- **Dans un endroit aéré, en hauteur et sec**. Ceci pour éviter que la galette ne pourrisse ou soit attaquée par des champignons, ce qui la rendrait non pas toxique ou mauvaise pour la santé, mais sans les qualités qu'on lui prêtait au départ.  
 - **À l'abris de la lumière directe du soleil**. Le thé _Pǔ'ěr_ est sensible à la lumière qui pourrait détruire une partie de ses éléments et le rendre ainsi moins intéressant. 
 - **Dans une environnement sans odeur extérieures**. Le thé _Pǔ'ěr_ comme tous les thés s'imprègne facilement des odeurs extérieures. En le protégeant de ces dernières, on évitera de modifier le goût originel du thé. 

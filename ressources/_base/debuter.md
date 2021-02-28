@@ -1,10 +1,8 @@
 ---
-lien: debuter
 titre: Débuter avec les thés de Chine et de Taïwan
 description: >
   Pour débuter dans le monde du thé, il faut en saisir les bases pratiques pour appréhender le monde du thé traditionnel. 
 par: ThaisThe
-catégorie: base
 ---
 
 ## Petit historique
@@ -31,7 +29,7 @@ Le thé que nous buvons peut être de 6 couleurs différentes : vert, blanc, jau
 ### La couleur d’un thé tient du travail de l’homme et non de l’espèce de thé cueillie
 
 Pour obtenir du thé, on cueille simplement une feuille d’un arbuste ou arbre à thé (_Camellia Sinensis_), et on la travaille (en la séchant, en la laissant fermenter, etc.) suivant le type de thé que l’on veut.
-Vous pouvez approfondir ce point en consultant la [méthode de fabrication du thé](/ressources/processus-de-fabrication-du-the) 
+Vous pouvez approfondir ce point en consultant la [méthode de fabrication du thé](./processus-de-fabrication-du-the) 
 
 C’est le processus de fabrication qui va déterminer la couleur du thé, et non le _cultivar_ (le cépage du thé). En effet peu importe le _cultivar_ que l’on cueille, c’est le travail de l’homme qui décidera si une feuille de théier deviendra "thé rouge" ou un "thé vert", etc. 
 Cependant certains _cultivars_ sont plus ou moins propice à un type de thé en particulier. Par exemple le thé _LóngJǐng_ n’est fait qu’avec un cultivar spécifique : le _LóngJǐng 43_.
@@ -63,15 +61,15 @@ Grâce à ces outils, l’amateur de thé va pouvoir infuser son thé de manièr
 
 Pour cela nous vous avons fait trois articles traitant de ces trois manières d’infuser un thé. 
 
-- [_GàiWǎn PàoFǎ_](/ressources/gai-wan-pao-fa) : l'infusion en Gaiwan
-- [_CháHu Pào Fǎ_](/ressources/gong-fu-cha-pao-fa/)  : l'infusion en théière
-- [_CháBēi Pào Fǎ_](/ressources/cha-bei-pao-fa/) : l'infusion en verre
+- [_GàiWǎn PàoFǎ_](../intermediaire/gai-wan-pao-fa) : l'infusion en Gaiwan
+- [_CháHu Pào Fǎ_](../intermediaire/gong-fu-cha-pao-fa/)  : l'infusion en théière
+- [_CháBēi Pào Fǎ_](../intermediaire/cha-bei-pao-fa/) : l'infusion en verre
 
 ### L’infusion
 
 Pour chaque type de thé, il y aura une infusion particulière. Le but est d’extraire au maximum les arômes tout en évitant le côté trop amer du thé qui est souvent gênant lorsqu’on commence à infuser. 
 
-Nous vous avons préparer une [table d’infusion](/ressources/table-d-infusion) pour cela
+Nous vous avons préparer une [table d’infusion](./table-d-infusion) pour cela
 
 ## De l'importance de l'eau dans la préparation du thé
 
@@ -90,4 +88,4 @@ Dans tous les cas l'eau du robinet est à proscrire, sauf si elle est filtrée.
 > Note : privilégiez les bouilloires en fonte ou en inox pour faire bouillir votre eau. 
 > Les bouilloires en plastique même alimentaire comportent des risques de dénaturation du goût de l'infusion et risque aussi de libérer dans votre thé des particules toxiques (plastiques, etc) qui ne sont clairement pas les bienvenues dans le monde du thé. 
 
-> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 degré, alors que les bouilloires en plastique ne le permettent pas. De plus la température de l'eau est conservée beaUcoup plus longtemps. 
+> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 degré, alors que les bouilloires en plastique ne le permettent pas. De plus la température de l'eau est conservée beaucoup plus longtemps. 

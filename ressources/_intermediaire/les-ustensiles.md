@@ -1,9 +1,8 @@
 ---
-lien: les-ustensiles
 titre: Les ustensiles
 description: Description des 6+1 différents type de thé
 par: pntbr
-catégorie: intermediaire
+publié: non
 ---
 
 Je n'ai plus le nom du sage et la phrase exacte qu'il avait prononcée pour définir le thé, dans mes souvenirs ça ressemblait à :
@@ -20,7 +19,7 @@ Les ustensiles vous permettrons peut-être d'explorer d'autres approches d'infus
 
 ![Gaiwan JingdeZhen](/assets/media/ustensiles_gaiwan.jpg)
 
-[Le 蓋碗  _GàiWǎn_](./ressources/gai-wan-pao-fa) est originaire de Chine, son design est apparu au 17e siècle. Le nom se traduit approximativement par "une tasse avec un couvercle". Le _GàiWǎn_ en porcelaine est applicable pour l'infusion de n'importe quel type de thé. La porcelaine est neutre et ne modifie pas les thés et l'eau ne reste pas longtemps très chaude ce qui protège les feuilles. Il est donc bien adaptée pour s'initier à la culture des thés de Chine et de Taïwan.
+[Le 蓋碗  _GàiWǎn_](../base/gai-wan-pao-fa) est originaire de Chine, son design est apparu au 17e siècle. Le nom se traduit approximativement par "une tasse avec un couvercle". Le _GàiWǎn_ en porcelaine est applicable pour l'infusion de n'importe quel type de thé. La porcelaine est neutre et ne modifie pas les thés et l'eau ne reste pas longtemps très chaude ce qui protège les feuilles. Il est donc bien adaptée pour s'initier à la culture des thés de Chine et de Taïwan.
 
 ![茶巾 tissus à thé](/assets/media/ustensiles_茶巾.jpg)
 

@@ -1,7 +1,7 @@
 ---
-lien: lien
-titre: Lien sur les thés de Chine et de Taïwan
-catégorie: page
+titre: Liens
+description: >
+  Une collection de liens vers des ressources 
 ---
 
 ## Langue française
@@ -44,5 +44,5 @@ Le site _d'Eric Scott_ étudiant diplômé de l'université de _Tufts_ qui étud
 
 ### Vidéos
 
-- [Chaîne de Mei Leaf](https://invidio.us/search?q=meileaf)
+- [Chaîne de Mei Leaf](https://youtube.com/search?q=meileaf)
 _Mei_ possède un [magasin à Camden (London)](https://meileaf.com) il propose des dizaines de vidéos passionnantes pour découvrir et approfondir la connaissance du thé.
