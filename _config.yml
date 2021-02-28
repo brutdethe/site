@@ -1,9 +1,6 @@
 titre: Brut de Thé
 author: pntbr
 email: pntbr@scopyleft.fr
-description: >
-  Daktary est un éco-système d'outils permmettant de faciliter l'édition et la 
-  publication de ressources *markdown* hébergées sur *github* ou *gitlab*.
 
 encoding: UTF-8
 kramdown:
