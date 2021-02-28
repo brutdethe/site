@@ -14,4 +14,4 @@ Le thé à plusieurs milliers d'années d'histoire en Chine et la france découv
 
 ### Quelle philosophie derrière ce projet ?
 
-Nous vous proposons de les consulter [ici](/ressources/nos-valeurs)
+Nous vous proposons de les consulter [ici](./nos-valeurs)
