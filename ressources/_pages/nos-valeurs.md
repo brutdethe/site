@@ -1,5 +1,5 @@
 ---
-lien: nos-valeurs
+
 titre: Nos valeurs
 
 ---

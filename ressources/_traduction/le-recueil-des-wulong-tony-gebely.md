@@ -1,5 +1,5 @@
 ---
-lien: le-recueil-des-wulong-tony-gebely
+
 titre: Le recueil du WūLóng
 description: >
  Ce contenu est un extrait du livre de Tony Gebely, Tea : A User's Guide. C'est un guide pour comprendre la famille des WūLóng

@@ -1,5 +1,5 @@
 ---
-lien: maturation-microbienne-eric-scott
+
 titre: Maturation microbienne
 description: >
   Différences entre l'oxydation et la fermentation et de la confusion qui entoure ces deux termes dans le monde du thé

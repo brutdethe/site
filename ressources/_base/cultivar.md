@@ -1,7 +1,5 @@
 ---
-lien: cultivar
 titre: Les cultivars de thé
-
 publié: 'non'
 ---
 

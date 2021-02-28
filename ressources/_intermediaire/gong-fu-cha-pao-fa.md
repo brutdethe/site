@@ -1,5 +1,5 @@
 ---
-lien: gong-fu-cha-pao-fa
+
 titre: 功夫茶泡法 - Gōng Fū Chá PàoFǎ - l'infusion en théière
 description: >
   Guide pour infuser avec l'approche Gōng Fū Chá

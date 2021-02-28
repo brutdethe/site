@@ -1,5 +1,5 @@
 ---
-lien: les-thes-puer-crus
+
 titre: 生普洱 - Shēng Pǔ'ěr - (thés Pǔ'ěr cru) 
 par: ThaisThe
 description: >

@@ -1,5 +1,5 @@
 ---
-lien: contribuer
+
 titre: Aide mémoire pour contribuer
 
 ---
@@ -78,7 +78,7 @@ Les espaces utilisés pour formater sont important, c'est eux qui structurent le
 
 ```yaml
 ---
-lien: <l'adresse URL>
+
 titre: <le titre>
 description: >
   <une petite description>

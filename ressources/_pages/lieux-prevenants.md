@@ -1,5 +1,5 @@
 ---
-lien: lieux-prevenants
+
 titre: Quelques lieux de thés prévenants
 
 ---

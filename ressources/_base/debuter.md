@@ -1,5 +1,5 @@
 ---
-lien: debuter
+
 titre: Débuter avec les thés de Chine et de Taïwan
 description: >
   Pour débuter dans le monde du thé, il faut en saisir les bases pratiques pour appréhender le monde du thé traditionnel. 

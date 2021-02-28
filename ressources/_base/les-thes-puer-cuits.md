@@ -1,5 +1,5 @@
 ---
-lien: les-thes-puer-cuits
+
 titre: 熟普洱 - Shú Pǔ'ěr - (thés Shú Pǔ'ěr) 
 par: ThaisThe
 description: >

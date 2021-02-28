@@ -1,5 +1,4 @@
 ---
-lien: geographie
 titre: Géographie des théiers
 publié: 'non'
 ---

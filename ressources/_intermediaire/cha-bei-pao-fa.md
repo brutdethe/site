@@ -1,5 +1,5 @@
 ---
-lien: cha-bei-pao-fa
+
 titre: 茶杯泡法 - CháBēi Pào Fǎ - L'infusion en verre
 par: ThaisThe
 description: >

@@ -1,5 +1,5 @@
 ---
-lien: cicadellidae-eric-scott
+
 titre: Pourquoi les cicadelles ne sont-elles que parfois une bonne chose ?
 description: >
  Ce contenu est un extrait du blog d'Eric R. Scott : teageek.com - 

@@ -1,5 +1,5 @@
 ---
-lien: gai-wan-pao-fa
+
 titre: 蓋碗泡法 - GàiWǎn PàoFǎ - l'infusion au gaiwan
 par: ThaisThe
 description: >
