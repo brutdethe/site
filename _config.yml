@@ -1,4 +1,4 @@
-title: Dans la Jungle
+titre: Brut de Thé
 author: pntbr
 email: pntbr@scopyleft.fr
 description: >
@@ -17,9 +17,21 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: location
+      layout: article
+
+collections_dir: ressources
 
 collections:
+  pages:
+    output: true
+  base:
+    output: true
+  expert:
+    output: true
+  intermediaire:
+    output: true
+  traduction:
+    output: true
 
 plugins:
   - jekyll-remote-theme
