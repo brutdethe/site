@@ -1,6 +1,7 @@
 titre: Brut de Thé
 author: pntbr
 email: pntbr@scopyleft.fr
+repository: brutdethe/wiki.git
 
 encoding: UTF-8
 kramdown:
@@ -22,12 +23,16 @@ collections:
   pages:
     output: true
   base:
+    description: Quelques articles pour se repérer et s'initier au monde du Thé
     output: true
   expert:
+    description: Vous trouverez là, des articles variés pour creuser des sujets spécifiques
     output: true
   intermediaire:
+    description: Pour aller plus loin
     output: true
   traduction:
+    description: Collection d'articles sélectionnés et traduits de l'anglais ou du chinois
     output: true
 
 plugins:
