@@ -6,7 +6,7 @@ catégorie: page
 
 ### Qui sommes-nous ?
 
-Le collectif est composé de trois personnes : Ya-Lin, Thaïs et Stéphane toutes trois passionnée par la culture et l'art Chinois du thé.
+Le collectif est composé de trois personnes : Ya-Lin, ThaisThe et Stéphane toutes trois passionnée par la culture et l'art Chinois du thé.
 
 ### Pourquoi les termes liés aux thés sont en Chinois ?
 

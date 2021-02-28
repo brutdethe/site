@@ -1,7 +1,7 @@
 ---
 lien: les-thes-puer-cuits
 titre: 熟普洱 - Shú Pǔ'ěr - (thés Shú Pǔ'ěr) 
-par: Thaïs
+par: ThaisThe
 description: >
   Le 熟普洱 _Shú Pǔ'ěr_ est le thé noir du 云南 _YúnNán_ par excellence. Particulièrement nouveau dans le monde du thé chinois, il est complexe et varié dans ses formes. 
 catégorie: base
