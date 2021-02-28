@@ -1,23 +1,16 @@
 <section id="ghTree" class="ghTree" data-title="tree">
-  <header>
-    <h1>{{ page.collection | capitalize }}</h1>
-  </header>
-  {% for lieu in site[page.collection] %} {% unless lieu.url contains
-  "index.html" %}
-  <article class="ghTreeItem ghTypeFile" data-title="dir">
-    <h2 class="ghTreeTitle">
-      <a class="folderLink" data-title="folderLink" href="{{ lieu.url }}">
-        {{ lieu.nom }}
+    <header>
+        <h1>{{ page.collection | capitalize }}</h1>
+    </header>
+    {% for article in site[page.collection] %} {% unless article.url contains "index.html" %}
+    <article class="ghTreeItem ghTypeFile" data-title="dir">
+        <h2 class="ghTreeTitle">
+            <a class="folderLink" data-title="folderLink" href="{{ article.url }}">
+        {{ article.titre }}
       </a>
-    </h2>
-    <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ lieu.description }}</p>
-    <a
-      class="ghTreeReadmore"
-      title="Lire la suite de la fiche : {{ lieu.nom }}"
-      data-title="fileReadmoreLink"
-      href="{{ lieu.url }}"
-      >Lire la suite de la fiche</a
-    >
-  </article>
-  {% endunless %} {% endfor %}
+        </h2>
+        <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ article.description }}</p>
+        <a class="ghTreeReadmore" title="Lire la suite de la fiche : {{ article.titre }}" data-title="fileReadmoreLink" href="{{ article.url }}">Lire la suite de la fiche</a>
+    </article>
+    {% endunless %} {% endfor %}
 </section>
