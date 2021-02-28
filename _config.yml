@@ -22,6 +22,13 @@ collections_dir: ressources
 collections:
   pages:
     output: true
+    order:
+      - nos-valeurs.md
+      - faq.md
+      - liens.md
+      - lieux-prevenants.md
+      - contribuer.md
+      - agenda.md
   base:
     description: Quelques articles pour se repérer et s'initier au monde du Thé
     output: true

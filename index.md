@@ -10,7 +10,5 @@ layout: page
 
 ## Présentation
 
-- pour qui ?
-- pour quoi ?
+{% include pages-list.html %}
 
-## Qui sommes-nous ?
