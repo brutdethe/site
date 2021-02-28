@@ -136,7 +136,7 @@ header .search-engine input[type="submit"] {
         padding: 0 20px;
     }
     img {
-        width: 100%;
+        max-width: 100%;
         height: auto;
     }
 }
@@ -337,7 +337,7 @@ header .search-engine input[type="submit"] {
 }
 
 .blobContent img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     display: block;
     padding: 4px;
