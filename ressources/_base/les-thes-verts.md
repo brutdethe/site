@@ -1,13 +1,11 @@
 ---
-
 titre: 绿茶 - LǜChá - (thés verts) 
 par: ThaisThe
 description: >
   Le Lǜ Chá (thé vert) est l'un des incontournables du monde du thé. Excellent pour la santé et plus rapide à fabriquer que les autres thés, il est consommé partout dans le monde, nature et quelque fois aromatisé. 
-
 ---
 
-Nous ne nous pencherons pas ici sur son procédé de fabrication, que vous trouverez [ici](/ressources/thes-verts), ni sur leur infusion (que vous trouverez dans chacune des fiches de thé). 
+Nous ne nous pencherons pas ici sur son procédé de fabrication, que vous trouverez [ici](./les-thes-verts), ni sur leur infusion (que vous trouverez dans chacune des fiches de thé). 
 
 ![_LóngJǐng_ infusé en GàiWǎn](/assets/media/the-vert_gaiwan.jpg)
 _LóngJǐng infusé en GàiWǎn_
@@ -94,4 +92,3 @@ En règle générale, les _HuāChá_ de qualités sont les _Xūn HuāChá_.
 L'exemple le plus parlant est le 茉莉花茶 _MòlìHuā Chá_ : le thé au jasmin chinois. Le plus prisé des _HuāChá_, il peut être vendu avec ou sans fleurs de jasmin. On remarque que les meilleurs _LǜChá_ sont réservés pour le _Xūn HuāChá_, le reste pour les _PīnHuā Chá_. 
 
 Comme autre thé au fleurs fameux, on peut citer : le thé aux orchidées 球蘭花茶 _Qiú LánHuā Chá_, le thé à la rose de Chine 玫瑰花茶 _MéiGuī HuāChá_, le thé aux chrysanthèmes 菊花茶 _JúHuā Chá_.
-

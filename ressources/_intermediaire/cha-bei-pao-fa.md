@@ -1,10 +1,8 @@
 ---
-
 titre: 茶杯泡法 - CháBēi Pào Fǎ - L'infusion en verre
 par: ThaisThe
 description: >
   On pratique généralement l'infusion d'un thé dans un verre pour les 綠茶 LǜChá (thés verts)
-
 ---
 
 Pour certains thés, et notamment les 綠茶 _LǜChá_ (thés verts), on préférera choisir une infusion dans un grand verre transparent: c'est la 茶杯泡法 _CháBēi Pào Fǎ_.
@@ -21,9 +19,9 @@ Le verre à _LǜChá_ (thés verts) basique est beaucoup plus grand que les tass
 ## La méthode
 
 Après avoir versé de l'eau bouillante dans le verre afin de stériliser le verre, vider cette première eau, puis mettre les feuilles directement dans le verre ainsi vide.  
-Verser l'eau chaude à température désirée [températures](/ressources/table-d-infusion) soit directement sur les feuilles soit sur les bords du verre.  
-Laisser infuser [le temps qu'il faut](/ressources/table-d-infusion), et déguster sans autre artifice : les feuilles se déposeront naturellement au fond du verre (on peut couvrir le buvant du verre avec un couvercle à la _Taiwanaise_, afin d'accélérer la précipitation au fond des feuilles de thé).
+Verser l'eau chaude à température désirée [températures](../base/table-d-infusion) soit directement sur les feuilles soit sur les bords du verre.  
+Laisser infuser [le temps qu'il faut](../base/table-d-infusion), et déguster sans autre artifice : les feuilles se déposeront naturellement au fond du verre (on peut couvrir le buvant du verre avec un couvercle à la _Taiwanaise_, afin d'accélérer la précipitation au fond des feuilles de thé).
 
 Réitérez l'opération autant de fois que les feuilles vous l'autorise. En général vous verserez au moins trois fois de l'eau chaude sur le même _LǜChá_ (thé vert), beaucoup plus sur les autres types de thés.
 
-![茶杯泡法](assets/media/chabeipaofa_paofa.jpg)
+![茶杯泡法](/assets/media/chabeipaofa_paofa.jpg)

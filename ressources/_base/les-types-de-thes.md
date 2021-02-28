@@ -34,7 +34,7 @@ En utilisant le système de répartition en 6 couleurs on reste consistant et en
 
 Avec cette 7ème catégorie ajouté on obtient le tableau ci-dessous :
 
-![types de thés](assets/media/types-de-the.svg)
+![types de thés](/assets/media/types-de-the.svg)
 
 ### 绿茶 - Lǜ Chá - thé vert
 
@@ -156,14 +156,14 @@ Conditionné sous forme compressée (galette, nid, champignon, etc.) et stocké 
 
 [^3]: ressources sur les types de thés :
 
-    \- [Mei Leaf : the 6 types of tea](https://invidio.us/watch?v=EUuw5rqWkZU)  
+    \- [Mei Leaf : the 6 types of tea](https://youtube.com/watch?v=EUuw5rqWkZU)  
     \- [wikipedia : types de thés et étapes de production](https://fr.wikipedia.org/wiki/Th%C3%A9#Types_de_th%C3%A9_et_%C3%A9tapes_de_production)
 
-[^4]: [_LóngJǐng_ tea reportage](https://invidio.us/watch?v=7DmnpLY-V68)
+[^4]: [_LóngJǐng_ tea reportage](https://youtube.com/watch?v=7DmnpLY-V68)
 
-[^5]: [5 green teas tasting](https://invidio.us/watch?v=0-H15W3g-ig)
+[^5]: [5 green teas tasting](https://youtube.com/watch?v=0-H15W3g-ig)
 
-[^6]: [White tea reportage](https://invidio.us/watch?v=GtDSfYq4sPg)
+[^6]: [White tea reportage](https://youtube.com/watch?v=GtDSfYq4sPg)
 
 [^7]: 一年茶，三年藥，七年寶 est un adage Chinois pour le thé blanc : 1 an thé, 3 ans médicament, 7 ans trésors
 
@@ -171,9 +171,9 @@ Conditionné sous forme compressée (galette, nid, champignon, etc.) et stocké 
 
 [^9]: vidéos reportage
 
-    \- [_Tiě GuānYīn_](https://invidio.us/watch?v=CS-KCBmY2pA)  
-    \- [Dan Cong](https://invidio.us/watch?v=jXYFbWHHRXs)
+    \- [_Tiě GuānYīn_](https://youtube.com/watch?v=CS-KCBmY2pA)  
+    \- [Dan Cong](https://youtube.com/watch?v=jXYFbWHHRXs)
 
-[^10]: [_QíMén_ reportage](https://invidio.us/watch?v=kk7fA1-t7YA)
+[^10]: [_QíMén_ reportage](https://youtube.com/watch?v=kk7fA1-t7YA)
 
-[^11]: [Making _Pǔ'ěr_ tea](https://invidio.us/d2BekCvAZqM)
+[^11]: [Making _Pǔ'ěr_ tea](https://youtube.com/d2BekCvAZqM)

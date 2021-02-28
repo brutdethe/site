@@ -1,14 +1,13 @@
 ---
-
 titre: Table d'infusion
-description: Table d'infusion par type de thé avec l'approche - Gōng Fū Chá
+description: >
+  Table d'infusion par type de thé avec l'approche - Gōng Fū Chá
 par: pntbr
-
 ---
 
 ## Table d'infusion pour _Gōng Fū Chá_ ou _GàiWǎn_
   
-Avec l'approche [Gōng Fū Chá](/ressources/gong-fu-cha-pao-fa) ou avec un [GàiWǎn](/ressources/gai-wan-pao-fa) vous infusez plusieurs fois votre thé.  
+Avec l'approche [Gōng Fū Chá](../intermediaire/gong-fu-cha-pao-fa) ou avec un [GàiWǎn](../intermediaire/gai-wan-pao-fa) vous infusez plusieurs fois votre thé.  
 La table indique le temps pour la première infusion et le temps à ajouter pour les suivantes pour une infusion avec 100ml d'eau.
 
 |               Type           | Qté*  | Température | 1ère infusion | Suivantes |

@@ -29,37 +29,37 @@ On l'a vu le millésime sur un _Shú Pǔ'ěr_ n'est important (il l'est sur les 
 
 Thé pressé en brique rectangulaire
 
-![饼茶](assets/media/puer-cuits_zhuancha.jpg)
+![饼茶](/assets/media/puer-cuits_zhuancha.jpg)
 
 ## 饼茶 _BǐngChá_
 
 Thé pressé en forme de gâteau
 
-![饼茶](assets/media/puer-cuits_bingcha.jpg)
+![饼茶](/assets/media/puer-cuits_bingcha.jpg)
 
 ## 沱茶 _TuóChá_
 
 Thé pressé en forme de nid d'oiseau
 
-![沱茶](assets/media/puer-cuits_nidoiseau.jpg)
+![沱茶](/assets/media/puer-cuits_nidoiseau.jpg)
 
 ## 小饼 _XiǎoBǐng_
 
 Thé pressé en forme de mini ni d'oiseau
 
-![小饼](assets/media/puer-cuits_minitou.jpg)
+![小饼](/assets/media/puer-cuits_minitou.jpg)
 
 ## 老茶头 _LǎoCháTóu_
 
 Thé provenant d'agglomérats produits durant la fabrication du thé _Shú Pǔ'ěr_, qui donne un finit crémeu dans la soupe.
 
-![老茶头](assets/media/puer-cuits_laochatou.jpg)
+![老茶头](/assets/media/puer-cuits_laochatou.jpg)
 
 ## 方茶 _FāngChá_
 
 Thé pressé en forme carrée.
 
-![方茶](assets/media/puer-cuits_fangcha.jpg)
+![方茶](/assets/media/puer-cuits_fangcha.jpg)
 
 ## 茶化石 _CháHuàshí_
 
@@ -73,13 +73,13 @@ La plupart des thés _Shú Pǔ'ěr_ sont pressés après leur fabrication, ce qu
 
 Ce sont les mêmes que celles du _Shēng Pǔ'ěr_.
 
-[Les montagnes de thé](/content/les-thes-puer-crus)
+[Les montagnes de thé](./les-thes-puer-crus)
 
 # les marques fameuses
 
 Ce sont les mêmes que le _Shēng Pǔ'ěr_
 
-[Les marques fameuses](/content/les-thes-puer-crus)
+[Les marques fameuses](./les-thes-puer-crus)
 
 # Les arômes types
 

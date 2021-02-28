@@ -1,7 +1,7 @@
 ---
-
 titre: FAQ
-
+description: >
+  Foire Aux Questions
 ---
 
 ### Qui sommes-nous ?

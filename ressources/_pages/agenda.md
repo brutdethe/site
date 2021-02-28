@@ -1,7 +1,7 @@
 ---
-
 titre: Agenda de nos actions
-
+description: >
+  Pour nous suivre ou nous rencontrer
 ---
 
 ## Les journées de cogitation sur le thé

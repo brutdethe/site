@@ -1,10 +1,8 @@
 ---
-
 titre: 煮泡法 - Zhǔ PàoFǎ
 description: >
   La methode pour infuser le thé à la bouilloire
 par: ya lin
-
 ---
 
 En utilisant une bouilloire ou une casserole avec un couvercle.

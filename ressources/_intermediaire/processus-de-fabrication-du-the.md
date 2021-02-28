@@ -1,9 +1,7 @@
 ---
-
 titre: Le processus de fabrication du thé
 description: Description des différentes étapes de fabrication du thé
 par: pntbr, thais
-
 ---
 
 ## Processus de fabrication du thé
@@ -18,11 +16,11 @@ La description des étapes proposée ici est très réductrice, elle généralis
 
 ### Les différentes étapes
 
-![types de thés](assets/media/types-de-the.svg) [^3]
+![types de thés](/assets/media/types-de-the.svg) [^3]
 
 - **Cueillette**{#picking} [^4] : Dans les jardins de thé, les bourgeons et/ou deux (ou quelques) jeunes feuilles sont cueillies sur les buissons de _Camellia Sinensis_ principalement au printemps et début de l'été et plus rarement en automne
 {:.foo}
-- **Flétrissage**{#withered} [^5] : Les feuilles de thé commencent à se flétrir peu après la cueillette, avec un début progressif d'oxydation enzymatique. Le flétrissage est utilisé pour éliminer l'excès d'eau des feuilles et permet une très légère oxydation. Les feuilles peuvent être soit mises au soleil, soit laissées dans une pièce fraîche et brillante. Les feuilles sont parfois cassées [^6] pour favoriser l'oxydation. Elles peuvent être simplement secouées ou bien elles sont abîmées en les pétrissant ou en les roulant par exemple [^7]. Elles sont ensuite laissées dans une pièce climatisée où elles deviennent progressivement plus foncées. Dans ce processus, la chlorophylle des feuilles est décomposée par les enzymes et ses tannins sont libérés ou transformés. Ce processus d'_oxydation enzymatique_ est parfois appelé à tort _fermentation_ dans l'industrie du thé. [en savoir plus](./ressources/oxydation-vs-fermentation)
+- **Flétrissage**{#withered} [^5] : Les feuilles de thé commencent à se flétrir peu après la cueillette, avec un début progressif d'oxydation enzymatique. Le flétrissage est utilisé pour éliminer l'excès d'eau des feuilles et permet une très légère oxydation. Les feuilles peuvent être soit mises au soleil, soit laissées dans une pièce fraîche et brillante. Les feuilles sont parfois cassées [^6] pour favoriser l'oxydation. Elles peuvent être simplement secouées ou bien elles sont abîmées en les pétrissant ou en les roulant par exemple [^7]. Elles sont ensuite laissées dans une pièce climatisée où elles deviennent progressivement plus foncées. Dans ce processus, la chlorophylle des feuilles est décomposée par les enzymes et ses tannins sont libérés ou transformés. Ce processus d'_oxydation enzymatique_ est parfois appelé à tort _fermentation_ dans l'industrie du thé. [en savoir plus](../expert/oxydation-vs-fermentation)
 
 - **Fixation**{#fixed} [^8] : La fixation ( 殺青 - _ShāQīng_ [^9]) est effectuée pour arrêter l'oxydation (brunissement enzymatique [^10]) des feuilles de thé à un niveau souhaité. Ce processus est accompli en chauffant les feuilles de thé à environ 65° (200°) ce qui désactive leurs enzymes oxydantes et élimine les odeurs indésirables dans les feuilles, sans endommager la saveur du thé. Les cuissons lentes favorisent la _réaction de Maillard_ [^11] (brunissement non-enzymatique) qui augmente la palette aromatique. Par exemple, les _Lǜ Chá_ qui sont cuits à la vapeur ont un aspect vert brillant et végétal caractéristiques et n'auront pas les notes de céréales grillées et la palette d'arômes élargie des thés cuient au wok.
 
@@ -38,9 +36,9 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 ---
 #### Notes
 
-[^1]: [Modern _WūLóng_](https://invidio.us/watch?v=CzkhqNjJ_Mg)
+[^1]: [Modern _WūLóng_](https://youtube.com/watch?v=CzkhqNjJ_Mg)
 
-[^2]: [Thé mordu par des insectes](/ressources/cicadellidae)
+[^2]: [Thé mordu par des insectes](../expert/cicadellidae)
 
 [^3]: [tea processing chart](https://teaepicure.com/tea-processing-chart/)
 
@@ -48,36 +46,36 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^5]: vidéos sur le flétrissage :
 
-    \- [red tea withering](https://invidio.us/kk7fA1-t7YA?t=345)  
-    \- [_Pǔ'ěr_ tea withering](https://invidio.us/ZAcpNMRY4LE?t=587)
+    \- [red tea withering](https://youtube.com/kk7fA1-t7YA?t=345)  
+    \- [_Pǔ'ěr_ tea withering](https://youtube.com/ZAcpNMRY4LE?t=587)
 
-[^6]: [_WūLóng_ tea oxydation](https://invidio.us/CS-KCBmY2pA?t=640)
+[^6]: [_WūLóng_ tea oxydation](https://youtube.com/CS-KCBmY2pA?t=640)
 
-[^7]: [red tea rolling machine](https://invidio.us/kk7fA1-t7YA?t=437)
+[^7]: [red tea rolling machine](https://youtube.com/kk7fA1-t7YA?t=437)
 
-[^8]: [green tea fixation](https://invidio.us/_KxwUpEEq64?t=614)
+[^8]: [green tea fixation](https://youtube.com/_KxwUpEEq64?t=614)
 
-[^9]: [_LóngJǐng_ tea reportage](https://invidio.us/watch?v=7DmnpLY-V68)
+[^9]: [_LóngJǐng_ tea reportage](https://youtube.com/watch?v=7DmnpLY-V68)
 
 [^10]: [Brunissement enzymatique](https://fr.wikipedia.org/wiki/Brunissement_enzymatique)
 
 [^11]: . [Réaction de Maillard](https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard)
 
-[^12]: . [sweltering](https://invidio.us/PhaeOHivt6s?t=342)
+[^12]: . [sweltering](https://youtube.com/PhaeOHivt6s?t=342)
   
 [^13]: . vidéos de façonnage :
 
-    \- [_WūLóng_ tea rolling](https://invidio.us/CS-KCBmY2pA?t=745)  
-    \- [_Pǔ'ěr_ tea cake](https://invidio.us/syDZMKuU1tY?t=22)
+    \- [_WūLóng_ tea rolling](https://youtube.com/CS-KCBmY2pA?t=745)  
+    \- [_Pǔ'ěr_ tea cake](https://youtube.com/syDZMKuU1tY?t=22)
 
 [^14]: . vidéos de séchage :
 
-    \- [white tea drying](https://invidio.us/GtDSfYq4sPg?t=1981)  
-    \- [four de séchage industriel](https://invidio.us/ftMU1J-4Jvg)
+    \- [white tea drying](https://youtube.com/GtDSfYq4sPg?t=1981)  
+    \- [four de séchage industriel](https://youtube.com/ftMU1J-4Jvg)
 
-[^15]: . [_WūLóng_ roasting](https://invidio.us/CS-KCBmY2pA?t=1711)
+[^15]: . [_WūLóng_ roasting](https://youtube.com/CS-KCBmY2pA?t=1711)
 
 [^16]: . vidéos sur la fermentation
 
-    \- [_Shēng Chá_ fermentation](https://invidio.us/d2BekCvAZqM?t=448)  
-    \- [_Shú Chá_ fermentation](https://invidio.us/oI4yDyH1oUM)
+    \- [_Shēng Chá_ fermentation](https://youtube.com/d2BekCvAZqM?t=448)  
+    \- [_Shú Chá_ fermentation](https://youtube.com/oI4yDyH1oUM)

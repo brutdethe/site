@@ -1,7 +1,7 @@
 ---
-
 titre: Aide mémoire pour contribuer
-
+description: >
+  Pour nous aider à étoffer ce site
 ---
 
 Si vous souhaitez contribuer, vous trouverez ci-dessous quelques indications pour démarrer

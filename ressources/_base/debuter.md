@@ -1,5 +1,4 @@
 ---
-
 titre: Débuter avec les thés de Chine et de Taïwan
 description: >
   Pour débuter dans le monde du thé, il faut en saisir les bases pratiques pour appréhender le monde du thé traditionnel. 
@@ -62,15 +61,15 @@ Grâce à ces outils, l’amateur de thé va pouvoir infuser son thé de manièr
 
 Pour cela nous vous avons fait trois articles traitant de ces trois manières d’infuser un thé. 
 
-- [_GàiWǎn PàoFǎ_](/ressources/gai-wan-pao-fa) : l'infusion en Gaiwan
-- [_CháHu Pào Fǎ_](/ressources/gong-fu-cha-pao-fa/)  : l'infusion en théière
-- [_CháBēi Pào Fǎ_](/ressources/cha-bei-pao-fa/) : l'infusion en verre
+- [_GàiWǎn PàoFǎ_](../intermediaire/gai-wan-pao-fa) : l'infusion en Gaiwan
+- [_CháHu Pào Fǎ_](../intermediaire/gong-fu-cha-pao-fa/)  : l'infusion en théière
+- [_CháBēi Pào Fǎ_](../intermediaire/cha-bei-pao-fa/) : l'infusion en verre
 
 ### L’infusion
 
 Pour chaque type de thé, il y aura une infusion particulière. Le but est d’extraire au maximum les arômes tout en évitant le côté trop amer du thé qui est souvent gênant lorsqu’on commence à infuser. 
 
-Nous vous avons préparer une [table d’infusion](/ressources/table-d-infusion) pour cela
+Nous vous avons préparer une [table d’infusion](./table-d-infusion) pour cela
 
 ## De l'importance de l'eau dans la préparation du thé
 
@@ -89,4 +88,4 @@ Dans tous les cas l'eau du robinet est à proscrire, sauf si elle est filtrée.
 > Note : privilégiez les bouilloires en fonte ou en inox pour faire bouillir votre eau. 
 > Les bouilloires en plastique même alimentaire comportent des risques de dénaturation du goût de l'infusion et risque aussi de libérer dans votre thé des particules toxiques (plastiques, etc) qui ne sont clairement pas les bienvenues dans le monde du thé. 
 
-> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 degré, alors que les bouilloires en plastique ne le permettent pas. De plus la température de l'eau est conservée beaUcoup plus longtemps. 
+> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 degré, alors que les bouilloires en plastique ne le permettent pas. De plus la température de l'eau est conservée beaucoup plus longtemps. 
