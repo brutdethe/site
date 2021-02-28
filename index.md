@@ -6,7 +6,7 @@ layout: page
 
 ## Consulter les lieux prévenants
 
-{% include location-nav.html %}
+{% include collections-nav.html %}
 
 ## Présentation
 

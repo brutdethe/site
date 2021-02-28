@@ -1,0 +1,9 @@
+{% if site.collections.size > 1 %}
+<ul class="location">
+    {%- for article in site.collections -%} {%- unless article.label == 'posts' or article.label == 'pages' %}
+    <li>
+        <a href="/{{ article.label }}">{{ article.label | capitalize }}</a>
+    </li>
+    {%- endunless %} {%- endfor %}
+</ul>
+{% endif %}
