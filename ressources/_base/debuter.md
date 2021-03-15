@@ -1,91 +1,92 @@
 ---
 titre: Débuter avec les thés de Chine et de Taïwan
 description: >
-  Pour débuter dans le monde du thé, il faut en saisir les bases pratiques pour appréhender le monde du thé traditionnel. 
+  Une vue d'ensemble pour découvrir l'univers du thé et en saisir les bases pratiques 
 par: ThaisThe
 ---
+<!-- À nos thés
 
+Mettre l’eau à bouillir, choisir son compagnon de voyage en fonction de l’heure, de son humeur, de son envie... Placer quelques pincées de feuilles, verser l’eau, compter, se concentrer sur la danse du temps qui égrène les secondes, comme une méditation fugace, laisser passer les pensées. Servir, s’asseoir, fermer les yeux, déguster et se laisser transporter par les arômes et les parfums qui, à chaque gorgée, racontent une nouvelle histoire.
+
+Un peu d’eau, quelques feuilles, un monde insoupçonné qui s’offre en toute simplicit[h]é...
+-->
 ## Petit historique
 
 L’histoire du thé commence par une légende chinoise. 
 
 ![Shennong](/assets/media/debuter_shennong.jpg)
 
-Aux alentours de 2730 av. è.c., le mythique empereur chinois 神農 _ShénNóng_ a déjà inventé l’agriculture, et conseillait à ses sujets de faire bouillir l’eau avant de la boire. C’était aussi un savant, qui testait les plantes afin d’en connaître les secrets médicinaux. 
-Il s’empoisonnait souvent avec.
+Aux alentours de 2730 av. è.c., vivait l'empereur 神農 *ShénNóng*, l'un des trois Augustes de la mythologie chinoise. Selon certains folklores, il serait né avec une tête de bovidé et aurait également un tronc en partie transparent ce qui lui permettait d'étudier en direct l'action des simples qu'il ingérait sur les différents organes du corps. Surnommé l'*Agriculteur divin*, le *Divin Laboureur* ou encore le *Laboureur céleste*, on lui prête l'invention de l'agriculture, de la houe et de l'araire, sans oublier du tissage des étoffes, du luth à cinq cordes, de l’arc, de la poterie... Il conseillait à ses sujets de faire bouillir l'eau avant de la consommer afin de la purifier et de lutter contre les épidémies de l'époque.  *ShénNóng* serait également à l'origine de l’ouvrage chinois le plus ancien traitant des drogues végétales, animales et minérales : le Classique de la matière médicale du Laboureur Céleste (神农本草经 *shénnóng běncǎojīng*). La version initiale de ce livre, compilation de savoirs oraux anciens, contenait les notices de 365 produits possédant des vertus médicinales. 
 
-Un jour qu’il s’empoisonnait, il s’allongea sous un arbre pour se reposer. L’eau bouillait à côté de lui, quand un coup de vent fit tomber une feuille du théier dans la marmite.   L’empereur bu cette eau, et se trouva guérit de son empoisonnement. De là la culture du thé fut répandue en tant que plante médicinale dans toute la Chine. 
+Passionné par les plantes, il les testait sur lui-même afin d'en découvrir les secrets médicinaux et il lui arrivait régulièrement de s'empoisonner avec. La légende raconte qu'un jour, après avoir absorbé quelque plante toxique, il fit bouillir de l'eau au pied d'un théier. Une brise légère fit tomber quelques feuilles dans sa tasse, qui teintèrent et parfumèrent le liquide. Intrigué, l'empereur but ce breuvage et guérit de son empoisennement. Le thé était né et les bienfaits de cette plante se répandirent dans toutes la Chine.
 
-D’un point de vue historique et archéologique, on sait que le thé est déjà partie intégrante de la pharmacopée chinoise en 1000 av. è.c. 
-
-Quoi qu’il en soit, les origines du thé viennent de Chine, et plus particulièrement dans les provinces du _GuìZhōu_, _YúnNán_ et _SìChuān_, où l’on a retrouvé les plus anciennes traces archéologiques de théier (_GuìZhōu_) et les plus anciens théiers encore vivants, plus que millénaires (_YúnNán_). 
+D’un point de vue historique et archéologique, les origines du thé viennent de Chine, plus particulièrement des provinces de *SìChuān*, du *YúnNán* où l'on peut de nos jours observer des théiers plus que millénaires et du *GuìZhōu* où l’on a retrouvé les plus anciennes traces archéologiques de théier. D'un point de vue médicinal, le thé fait déjà partie intégrante de la pharmacopée chinoise en 1000 av. è.c.
 
 ## Le thé
 
-Le thé que nous buvons peut être de 6 couleurs différentes : vert, blanc, jaune, bleu, rouge, ou noir. C’est du moins les 6 couleurs « officielles » en Chine, berceau de la culture du thé. 
+En Chine, berceau de sa culture, et à Taïwan, le thé se décline en six couleurs "officielles" :
+  綠茶 - LǜChá - thé vert
+  白茶 - BáiChá - thé blanc
+  黃茶 - HuángChá - thé jaune
+  青茶 - QīngChá - thé bleu-vert
+  紅茶 - HóngChá - thé rouge
+  黑茶 - HēiChá - thé noir
+
+À ces six couleurs, on peut ajouter une septième, le thé Pǔ'ěr, 普洱生茶 Pǔ’ěr ShēngChá, dont la méthode de fabrication est plus complexe et qui, comme certains vins, se bonifie avec le temps. 
 
 ![Le thé](/assets/media/debuter_cueillette.jpg)
 
-### La couleur d’un thé tient du travail de l’homme et non de l’espèce de thé cueillie
+### Une espèce pour plusieurs couleurs 
 
-Pour obtenir du thé, on cueille simplement une feuille d’un arbuste ou arbre à thé (_Camellia Sinensis_), et on la travaille (en la séchant, en la laissant fermenter, etc.) suivant le type de thé que l’on veut.
-Vous pouvez approfondir ce point en consultant la [méthode de fabrication du thé](./processus-de-fabrication-du-the) 
+Contrairement à ce que l'on pourrait croire, tous les types de thé proviennent du même arbuste ou arbre à thé, le *Camellia Sinensis*, peu importe le *cultivar* ou cépage. C'est ensuite le travail de l'homme et le processus de fabrication qui va déterminer sa couleur. Ramassage, flétrissage, façonage, séchage, fermentation..., les différentes étapes de préparation permettent ainsi de varier les couleurs, les goûts et les plaisirs.  
+Certains _cultivars_ sont, cependant, plus ou moins propices à un type de thé en particulier. Le thé *LóngJǐng*, par exemple, n’est obtenu qu’à partir d'un cultivar spécifique : le *LóngJǐng 43*.
 
-C’est le processus de fabrication qui va déterminer la couleur du thé, et non le _cultivar_ (le cépage du thé). En effet peu importe le _cultivar_ que l’on cueille, c’est le travail de l’homme qui décidera si une feuille de théier deviendra "thé rouge" ou un "thé vert", etc. 
-Cependant certains _cultivars_ sont plus ou moins propice à un type de thé en particulier. Par exemple le thé _LóngJǐng_ n’est fait qu’avec un cultivar spécifique : le _LóngJǐng 43_.
+N'hésitez pas à consulter la [méthode de fabrication du thé](./processus-de-fabrication-du-the) pour approfondir le sujet.
+### Des infusions à répétition 
 
-### Les mêmes feuilles de thé peuvent être infusé à répétition 
+Bien loin des sachets à usage unique, le thé sous sa forme traditionnelle, en *vrac* ou en *galette*, peut être infusé à plusieurs reprises, jusqu'à plus de cinquante fois pour certains types, comme les Pǔ'ěr. Chaque infusion révèle alors des parfums et des senstaions différentes.   
+   
+Le thé est donc une boisson résiliente et économe, entre autres bienfaits surprenants. 
+### Les bienfaits du thé
 
-Contrairement à ce qu’on pourrait penser, le thé dans sa forme traditionnelle, c’est à dire _en vrac_ ou en _galette_, n’est pas une denrée à usage unique. Autrement dit le thé ne s’infuse pas qu’une seule fois comme on le fait souvent avec les sachets, mais on peut l’infuser plusieurs fois selon le type de thé (de trois à 50 fois voir plus). 
+Le thé fait partie intégrante de la pharmacopée chinoise.
 
-Par exemple, on pourra infuser des feuilles de thé vert environ trois fois, c’est à dire qu’on versera de l’eau chaude trois fois sur les feuilles après avoir bu le thé. 
-Autre exemple, on pourra infuser des dizaines de fois le même thé pu er, jusqu’à cinquante théières la plupart du temps. 
-Le thé dans sa forme traditionnelle est donc une boisson résiliente et économe, entre autres bienfaits surprenants. 
+Il contient des antioxydants qui participent au développement des défenses immunitaires et agissent contre le vieillissement. 
 
-### Le thé est un aliment médicament
+Il a aussi une action diurétique, réduisant ainsi la pression artérielle. 
 
-Le thé contient des antioxydants, qui participent au développement des défenses immunitaires, et agissent contre le vieillissement . 
+Le thé vert facilite en plus la perte de graisses viscérales et donc la perte de poids.
 
-Le thé a aussi une action diurétique, et donc réduit la pression artérielle. 
+Le thé stimule également l'attention et l'éveil. Cela serait dû non seulement à la caféine libérée lors de l'infusion, mais aussi à d'autres molécules comme les *polyphénols* et la *L-théanine*.
 
-Le thé vert facilite en plus la perte de graisses viscérales : donc la perte de poids.
+<!-- ### Caféine ou théine ?
+-->
 
-Le thé stimule l'attention et l'éveil. Ce serait dû non seulement à la caféine, mais aussi à d'autres molécules : des _polyphénols_ et de la _L-théanine_.
-
-## Techniques d'infusion
+## Les techniques d'infusion
 
 ### Les outils
 
-Pour saisir les arômes et les goûts d’un thé de manière précise, il existe trois méthodes traditionnelles : avec une théière, avec un _GàiWǎn_, avec un verre. 
-Grâce à ces outils, l’amateur de thé va pouvoir infuser son thé de manière exacte, c’est à dire en contrôlant l’ensemble des facteurs pour obtenir un thé selon ses goûts. 
+Pour saisir les arômes et les goûts d’un thé, il existe trois méthodes traditionnelles : avec une théière, un *GàiWǎn* ou encore un verre. 
+Grâce à ces différents outils, l’amateur de thé va pouvoir infuser son thé de manière exacte, en contrôlant l’ensemble des facteurs et ainsi optimiser son infusion. 
 
-Pour cela nous vous avons fait trois articles traitant de ces trois manières d’infuser un thé. 
+Chacune de ces techniques est expliquée de manière détaillée dans les articles suivant : 
 
-- [_GàiWǎn PàoFǎ_](../intermediaire/gai-wan-pao-fa) : l'infusion en Gaiwan
 - [_CháHu Pào Fǎ_](../intermediaire/gong-fu-cha-pao-fa/)  : l'infusion en théière
+- [_GàiWǎn PàoFǎ_](../intermediaire/gai-wan-pao-fa) : l'infusion en Gaiwan
 - [_CháBēi Pào Fǎ_](../intermediaire/cha-bei-pao-fa/) : l'infusion en verre
+### Les temps d'infusion
 
-### L’infusion
+À chaque type de thé, son infusion ! Il est en effet important de trouver le parfait équilibre pour extraire au maximum les arômes tout en évitant le côté trop amer, qui peut être désagréable lorsqu’on découvre les plaisirs du thé traditionnel. 
 
-Pour chaque type de thé, il y aura une infusion particulière. Le but est d’extraire au maximum les arômes tout en évitant le côté trop amer du thé qui est souvent gênant lorsqu’on commence à infuser. 
+Découvrez notre [table d’infusion](./table-d-infusion) pour vous aiguiller. 
+## De l'importance de l'eau
 
-Nous vous avons préparer une [table d’infusion](./table-d-infusion) pour cela
+Pour profiter au maximum de toutes les nuances, les saveurs et les bienfaits du thé, il est indispensable d'utiliser une eau de la meilleure qualité possible.
 
-## De l'importance de l'eau dans la préparation du thé
+Déjà, dans la Chine antique, les amateurs de thé classifiaient l'eau en fonction de sa provenance. En haut de la pyramide, on trouvait l'eau des sources, celle qui, tombée Ciel, était filtrée par les montagnes. Juste après venait l'eau des rivières et des fleuves, le plus souvent de bonne qualité, mais qui pouvait être altérée par les rejets des villes et des villages. Enfin, l'eau des puits était considérée comme la moins qualitative. En plus de ces trois eaux, il existait une eau à part, rare et exceptionnelle, déposée par la pluie ou la rosée sur les feuilles et les fleurs de lotus. Très recherchée à l'époque, on la disait parfumée et capable de transformer un thé classique en un thé d'exception. 
 
-Un détail important concernant l'infusion consiste à choisir une eau compatible avec la préparation du thé.
+Aujourd'hui, entre la pollution des eaux, des sols, des pluies et la surconsommation de plastiques, il n'est pas évident de trouver le bon compromis pour boire une eau de qualité sans remplir son bac de recyclage de bouteilles en plastique. L'eau du robinet, même si elle est bien évidemment consommable, n'en demeure pas moins souvent chlorée, peu agréable à boire et dénaturant le goût du thé. Il existe différents systèmes de filtres (osmose inverse, charbon...) qui permettent de pallier ces inconvénients et de continuer à boire l'eau proposée par les réseaux de distribution. Si vous optez pour l'achat de bouteilles, choisissez de préférence une eau riche en oligo-éléments et pauvre en minéraux. Pensez à regarder le taux de résidus à sec qui doit être, de préférence, inférieur à 100mg/l. Parmi les plus adaptées, vous trouverez la *Mont Roucous™*, la *Montcalm™*, la *Rosée de la Reine™* (marques le plus souvent proposées en magasin Bio) ou encore la *Volvic™* (disponible dans les réseaux de grande distribution).
 
-Cette problématique a déjà été abordée dans la Chine antique. En effet la Chine traditionnelle classifiait la qualité des eaux pour infuser les thés.  
-Dans l'ordre, on retrouve en haut de la pyramide l'eau des montagnes, autrement dit l'eau des sources. En effet c'est selon les anciens l'eau la plus pure, qui tombe du Ciel et est filtrée par les montagnes.  
-Vient juste après l'eau des rivières et des fleuves. Qualitative mais parfois viciée par les rejets des villes et des villages. Aujourd'hui on n'envisagerait pas d'utiliser cette eau, à part si elle est parfaitement filtrée.  
-Enfin, on retrouve l'eau des puits, qui est la moins qualitative.  
-À côté de ces trois eaux, la Chine traditionnelle voyait une eau à part, rare, et exceptionnelle. C'est l'eau qui se dépose par la pluie ou la rosée sur les feuilles et fleurs de lotus. Très recherchée à l'époque, on la disait parfumée et faisait de l'infusion d'un thé classique un thé d'exception. 
+> Note : privilégiez les bouilloires en fonte non émaillée ou en inox pour faire bouillir votre eau. À défaut de bouilloire, une simple casserole peut bien évidemment faire l'affaire. Si vous optez pour une bouilloire électrique, préférez l'inox au plastique qui, même alimentaire, comporte des risques de dénaturation du goût de l'eau et risque aussi de libérer des particules toxiques (plastiques, etc) qui ne sont pas les bienvenues dans le monde du thé. De plus, de nombreuses bouilloires électriques en inox permettent de choisir la température exacte de l'eau, ce qui s'avère des plus pratiques lorsque l'on aime varier les plaisirs et les couleurs de thé. 
 
-Aujourd'hui, à cause de la pollution des eaux, des sols, et des pluies, l'eau pour préparer le thé doit être choisit avec attention. En France, nous vous conseillons la _Volvic_ et la _Mont Roucous_. En effet ces deux eaux sont riches en oligo-éléments, et pauvres en minéraux : l'idéal pour conserver les bienfaits d'une eau et conserver le goût original du thé. 
-
-Dans tous les cas l'eau du robinet est à proscrire, sauf si elle est filtrée. 
-
-> Note : privilégiez les bouilloires en fonte ou en inox pour faire bouillir votre eau. 
-> Les bouilloires en plastique même alimentaire comportent des risques de dénaturation du goût de l'infusion et risque aussi de libérer dans votre thé des particules toxiques (plastiques, etc) qui ne sont clairement pas les bienvenues dans le monde du thé. 
-
-> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 degré, alors que les bouilloires en plastique ne le permettent pas. De plus la température de l'eau est conservée beaucoup plus longtemps. 
+> Petite astuce : les bouilloires en fonte permettent de porter une eau à 100 °C, contrairement à celles en plastique. La température de l'eau y est conservée beaucoup plus longtemps, avantage non négligeable quand on est un grand consommateur de thé. 
