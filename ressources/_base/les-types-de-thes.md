@@ -47,7 +47,7 @@ Quelques _Lǜ Chá_ connus [^5] :
 - 碧螺春 - _BìLuóChūn_
 - 湄潭翠芽 - _MéiTánCuìYá_
 - 黄山毛峰 - _HuángShān MáoFēng_
-- 龍井茶 - _LóngJǐng_
+- 龍井 - _LóngJǐng_
 - 都勻毛尖 - _DūYún MáoJiān_
 - 信阳毛尖 - _XìnYáng MáoJiān_
 - 竹葉青 - _ZhúYèGīng_
