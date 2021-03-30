@@ -2,7 +2,7 @@
 titre: Débuter avec les thés de Chine et de Taïwan
 description: >
   Une vue d'ensemble pour découvrir l'univers du thé et en saisir les bases pratiques 
-par: ThaisThe
+par: ThaisThe, violaine-web
 ---
 <!-- À nos thés
 
@@ -16,51 +16,50 @@ L’histoire du thé commence par une légende chinoise.
 
 ![Shennong](/assets/media/debuter_shennong.jpg)
 
-Aux alentours de 2730 av. è.c., vivait l'empereur 神農 *ShénNóng*, l'un des trois Augustes de la mythologie chinoise. Selon certains folklores, il serait né avec une tête de bovidé et aurait également un tronc en partie transparent ce qui lui permettait d'étudier en direct l'action des simples qu'il ingérait sur les différents organes du corps. Surnommé l'*Agriculteur divin*, le *Divin Laboureur* ou encore le *Laboureur céleste*, on lui prête l'invention de l'agriculture, de la houe et de l'araire, sans oublier du tissage des étoffes, du luth à cinq cordes, de l’arc, de la poterie... Il conseillait à ses sujets de faire bouillir l'eau avant de la consommer afin de la purifier et de lutter contre les épidémies de l'époque.  *ShénNóng* serait également à l'origine de l’ouvrage chinois le plus ancien traitant des drogues végétales, animales et minérales : le Classique de la matière médicale du Laboureur Céleste (神农本草经 *shénnóng běncǎojīng*). La version initiale de ce livre, compilation de savoirs oraux anciens, contenait les notices de 365 produits possédant des vertus médicinales. 
+Aux alentours de 2730 AEC., vivait l'empereur 神農 - *ShénNóng*, l'un des trois Augustes de la mythologie chinoise. Selon certains folklores, il serait né avec une tête de bovidé et aurait également un tronc en partie transparent ce qui lui permettait d'étudier en direct l'action des aliments qu'il ingérait sur les différents organes du corps. Surnommé l'*Agriculteur divin*, le *Divin Laboureur* ou encore le *Laboureur céleste*, on lui prête l'invention de l'agriculture, de la houe et de l'araire, sans oublier du tissage des étoffes, du luth à cinq cordes, de l’arc, de la poterie... Il conseillait à ses sujets de faire bouillir l'eau avant de la consommer afin de la purifier et de lutter contre les épidémies de l'époque. *ShénNóng* serait également à l'origine de l’ouvrage chinois le plus ancien traitant des drogues végétales, animales et minérales : le Classique de la matière médicale du Laboureur Céleste (神农本草经 *ShénNóng BěnCǎo Jīng*). La version initiale de ce livre, compilation de savoirs oraux anciens, contenait les notices de 365 produits possédant des vertus médicinales. 
 
-Passionné par les plantes, il les testait sur lui-même afin d'en découvrir les secrets médicinaux et il lui arrivait régulièrement de s'empoisonner avec. La légende raconte qu'un jour, après avoir absorbé quelque plante toxique, il fit bouillir de l'eau au pied d'un théier. Une brise légère fit tomber quelques feuilles dans sa tasse, qui teintèrent et parfumèrent le liquide. Intrigué, l'empereur but ce breuvage et guérit de son empoisennement. Le thé était né et les bienfaits de cette plante se répandirent dans toutes la Chine.
+Passionné par les plantes, il les testait sur lui-même afin d'en découvrir les secrets médicinaux et il lui arrivait régulièrement de s'empoisonner avec. La légende raconte qu'un jour, après avoir absorbé quelque plante toxique, il fit bouillir de l'eau au pied d'un théier. Une brise légère fit tomber quelques feuilles dans sa tasse, qui teintèrent et parfumèrent le liquide. Intrigué, l'empereur but ce breuvage et guérit de son empoisonnement. Le thé était né et les bienfaits de cette plante se répandirent dans toutes la Chine.
 
-D’un point de vue historique et archéologique, les origines du thé viennent de Chine, plus particulièrement des provinces de *SìChuān*, du *YúnNán* où l'on peut de nos jours observer des théiers plus que millénaires et du *GuìZhōu* où l’on a retrouvé les plus anciennes traces archéologiques de théier. D'un point de vue médicinal, le thé fait déjà partie intégrante de la pharmacopée chinoise en 1000 av. è.c.
+D’un point de vue historique et archéologique, les origines du thé viennent de Chine, plus particulièrement des provinces du 四川 _SìChuān_ ou du 雲南 _YúnNán_ où l'on peut de nos jours observer des théiers plus que millénaires et du 貴州 - _GuìZhōu_ où l’on a retrouvé les plus anciennes traces archéologiques de théier. D'un point de vue médicinal, le thé fait déjà partie intégrante de la pharmacopée chinoise en 1000 AEC.
 
 ## Le thé
 
 En Chine, berceau de sa culture, et à Taïwan, le thé se décline en six couleurs "officielles" :
-  綠茶 - LǜChá - thé vert
-  白茶 - BáiChá - thé blanc
-  黃茶 - HuángChá - thé jaune
-  青茶 - QīngChá - thé bleu-vert
-  紅茶 - HóngChá - thé rouge
-  黑茶 - HēiChá - thé noir
+- 綠茶 - *LǜChá* - thé vert
+- 白茶 - *BáiChá* - thé blanc
+- 黃茶 - *HuángChá* - thé jaune
+- 青茶 - *QīngChá* - thé bleu-vert
+- 紅茶 - *HóngChá* - thé rouge
+- 黑茶 - *HēiChá* - thé noir
 
-À ces six couleurs, on peut ajouter une septième, le thé Pǔ'ěr, 普洱生茶 Pǔ’ěr ShēngChá, dont la méthode de fabrication est plus complexe et qui, comme certains vins, se bonifie avec le temps. 
+À ces six couleurs, on peut ajouter une septième, le thé 普洱生茶 - *Pǔ’ěr ShēngChá*, dont la méthode de fabrication est plus complexe et qui, comme les vins de garde, se bonifie avec le temps. 
 
 ![Le thé](/assets/media/debuter_cueillette.jpg)
 
 ### Une espèce pour plusieurs couleurs 
 
-Contrairement à ce que l'on pourrait croire, tous les types de thé proviennent du même arbuste ou arbre à thé, le *Camellia Sinensis*, peu importe le *cultivar* ou cépage. C'est ensuite le travail de l'homme et le processus de fabrication qui va déterminer sa couleur. Ramassage, flétrissage, façonage, séchage, fermentation..., les différentes étapes de préparation permettent ainsi de varier les couleurs, les goûts et les plaisirs.  
-Certains _cultivars_ sont, cependant, plus ou moins propices à un type de thé en particulier. Le thé *LóngJǐng*, par exemple, n’est obtenu qu’à partir d'un cultivar spécifique : le *LóngJǐng 43*.
+Contrairement à ce que l'on pourrait croire, tous les types de thé proviennent du même arbuste ou arbre à thé, le *Camellia Sinensis*, peu importe le *cultivar* ou cépage. C'est ensuite le travail de l'homme et le processus de fabrication qui va déterminer sa couleur. Ramassage, flétrissage, façonnage, séchage, fermentation, etc. les différentes étapes de préparation permettent ainsi de varier les couleurs, les goûts et les plaisirs.  
+Certains _cultivars_ sont, cependant, plus ou moins propices à un type de thé en particulier. Le thé 龍井 - _LóngJǐng_, par exemple, n’est obtenu qu’à partir d'un cultivar spécifique : le *LóngJǐng 43*.
 
-N'hésitez pas à consulter la [méthode de fabrication du thé](./processus-de-fabrication-du-the) pour approfondir le sujet.
+N'hésitez pas à consulter la [méthode de fabrication du thé](/intermediaire/processus-de-fabrication-du-the.html) pour approfondir le sujet.
+
 ### Des infusions à répétition 
 
-Bien loin des sachets à usage unique, le thé sous sa forme traditionnelle, en *vrac* ou en *galette*, peut être infusé à plusieurs reprises, jusqu'à plus de cinquante fois pour certains types, comme les Pǔ'ěr. Chaque infusion révèle alors des parfums et des senstaions différentes.   
+Bien loin des sachets à usage unique, le thé sous sa forme traditionnelle, en *vrac* ou en *galette*, peut être infusé à plusieurs reprises, jusqu'à plus de cinquante fois pour certains types, comme les _Pǔ'ěr_. Chaque infusion révèle alors des parfums et des sensations différentes.   
    
 Le thé est donc une boisson résiliente et économe, entre autres bienfaits surprenants. 
+
 ### Les bienfaits du thé
 
 Le thé fait partie intégrante de la pharmacopée chinoise.
 
-Il contient des antioxydants qui participent au développement des défenses immunitaires et agissent contre le vieillissement. 
+Il contient des *antioxydants* qui participent au développement des défenses immunitaires et agissent contre le vieillissement. 
 
 Il a aussi une action diurétique, réduisant ainsi la pression artérielle. 
 
 Le thé vert facilite en plus la perte de graisses viscérales et donc la perte de poids.
 
-Le thé stimule également l'attention et l'éveil. Cela serait dû non seulement à la caféine libérée lors de l'infusion, mais aussi à d'autres molécules comme les *polyphénols* et la *L-théanine*.
-
-<!-- ### Caféine ou théine ?
--->
+Le thé stimule également l'attention et l'éveil. Cela serait dû non seulement à la *caféine* libérée lors de l'infusion, mais aussi à d'autres molécules comme les *polyphénols* et la *L-théanine*.
 
 ## Les techniques d'infusion
 
