@@ -2,7 +2,6 @@
 layout: page
 ---
 
-{% include banner.html %}
 
 ## Pourquoi ce site ?
 
