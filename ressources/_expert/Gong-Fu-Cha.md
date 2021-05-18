@@ -35,16 +35,18 @@ Traditionnellement, les Cantonais consomment des thés WuLong "rouges": les thé
 
 ## La sémantique du terme GongFuCha
 
-Le terme 工夫茶 Gōngfūchá, avant qu'il n'ait pour signification cette technique particulière d'infusion du thé décrite plus haut, était le diminutif du terme 工夫红茶 Gōngfū hóngchá. Un Gōngfū hóngchá signifie à l'heure actuelle un type de thé rouge (滇红工夫 Diān hóng gōngfū，祁门工夫 Qí mén gōngfū，宁红工夫 Níng hóng gōngfū）. A l'origine, il signifiait aussi les thés de roches du Fujian: 大红袍 Dàhóng páo，水仙 Shuǐxiān，肉桂 Ròuguì. C'était également une marque de thé de WuYiShan. Ce n'est plus le cas actuellement en ce qui concerne les thés de roches. 
+Le terme 工夫茶 Gōngfūchá, avant qu'il n'ait pour signification cette technique particulière d'infusion du thé décrite plus haut, était le diminutif du terme 工夫红茶 Gōngfū hóngchá. Un Gōngfū hóngchá signifie à l'heure actuelle un type de thé rouge (滇红工夫 Diān hóng gōngfū，祁门工夫 Qí mén gōngfū，宁红工夫 Níng hóng gōngfū）. A l'origine, il signifiait aussi les thés de roches du Fujian: 大红袍 Dàhóng páo，水仙 Shuǐxiān，肉桂 Ròuguì. C'était également une marque de thé de WuYiShan. Ce terme désignait les thés de roche car le temps qu'il fallait pour les produire était exceptionnelement long, et la qualité dépassait souvent celle des autres thés. 
 
-D'un point de vu plus linguistique, le terme 工夫 a plusieurs significations. La liste est longue:
+En effet d'un point de vu plus linguistique, le terme 工夫 a plusieurs significations :
 - Prendre son temps
 - Dépenser de l'énergie
 - Réfléchir (concentration)
 - Méticuleux
 - Etre attentif
 
-On peut ainsi dire que, pour réaliser le gongfucha, il faut posséder toutes ces qualités. Cette signification est à mettre en corrélation avec la recherche des saveurs primaires du thé de roche ou du DanCong utilisé pour cette technique d'infusion. L'extraire n'est pas facile: pour se faire, il faut respecter plusieurs règles, celles du thé GongFu.
+On peut ainsi dire que, pour réaliser le gongfucha, il faut posséder toutes ces qualités. Mais le résultat est un thé particulièrement remarquable. 
+
+Cette signification est aussi à mettre en corrélation avec la recherche des saveurs primaires délicates du thé de roche ou du DanCong utilisé pour cette technique d'infusion. L'extraire n'est pas facile: mais si l'on respecte les règles du thé GongFu, alors l'extraction se fait correctement.
 
 # La signification du terme Gōngfūchá à Taiwan
 
@@ -61,3 +63,13 @@ A noter: aujourd'hui en Chine continentale, on voit beaucoup de marchands ou de 
 
 # 工夫茶 ou 功夫茶
 
+Voici une autre question cruciale pour bien comprendre le terme GongFuCha. 
+
+工夫茶, 功夫茶, on voit souvent les deux formules utilisées pour décrire la même chose, en l'occurence le Gōngfūchá expliqué plus haut. Mais seulement une seule de ces deux formules est la bonne. Cette confusion s'explique par le fait qu'en chinois, les mots 工 et 功 se prononcent exactement de la même manière ( Gōng ). Leurs significations elles même sont assez semblables. Ces deux points expliquent que même en chine la confusion règne chez les amateurs de thés. Alors quelle est la bonne? 
+
+La bonne réponse est: 工. 
+
+En effet il n'y a qu'à regarder le dictionnaire 辞源, spécialisé dans les termes de la Chine ancienne. L'édition de 1979 a intégré le terme “工夫茶” en lui donnant pour définition: [工夫茶] 广东潮州地方品茶的一种风尚，其烹治方法本于唐陆羽《茶经》。细白泥炉，形如截筒，高尺二三。壶用宜兴瓷，杯小而盘如满月。烹时先将泉水贮铛，用细炭煎至初沸，投闽茶入壶内冲之，盖上壶盖，再遍浇其上，然后斟而细呷，气味芬芳清烈. La première phrase, la plus importante, parle du style d'infusion propre à ChaoZhou dans le Canton. 
+
+Pour les sceptiques, voici une mini enquête qui devrait mettre fin à tout débat. 
+En dialecte local de ChaoZhou, le GongFuCha se prononce "GangFuCha", et non "GongFuCha". Or les mots 工 et 功 se prononcent respectivement dans ce dialecte Gang et Gong. Ainsi les personnes de ChaoZhou en parlant de leur "GangFuCha" parlent de 工夫茶 et non de 功夫茶.
