@@ -53,12 +53,15 @@ Cette signification est aussi à mettre en corrélation avec la recherche des sa
 
 Nous l'avons vu, le terme Gōngfūchá en Chine continentale désigne une technique d'infusion propre à la province du Canton, et plus précisément à la ville de Cháozhōu. Mais lorsqu'on traverse la mer et que nous nous rendons à Taiwan, ce terme a une toute autre signification. 
 
-A Taiwan, le Gōngfūchá désigne simplement l'infusion traditionnelle à la chinoise. Se traduisant par 泡茶 Pào chá en chinois, cette technique utilise l'ensemble des ustensiles possibles pour la préparation du thé (inlcuant les verseuses, les tables à thés, etc). 
+A Taiwan, le Gōngfūchá désigne simplement la technique infusion traditionnelle à la chinoise comme elle se fait dans les maisons de thé, les marchés de thé, chez les particuliers eux mêmes en Chine continentale. Se traduisant par 泡茶 Pào chá en chinois, cette technique utilise l'ensemble des ustensiles possibles pour la préparation du thé (inlcuant les verseuses, les tables à thés, etc)， avec pour spécificité de n'utiliser que théière comme outil verseur (et non un Gaiwan par exemple). 
 Cette technique d'infusion est de plus extrêment libre: aucune règle n'est figée, bien qu'un standard dans les étapes d'infusion est la plupart du temps utilisé. 
 
 On voit donc ici la différence fondamentale entre les deux même mots utilisés dans deux pays différents. 
 
-En Europe, nous avons surtout été inspiré par Taiwan en matière de tradition du thé, ce qui explique que pour les Européens le Gōngfūchá est la technique traditionnelle chinoise d'infusion utilisant une théière comme elle se fait à Taiwan.
+Comment en est on arrivé là? 
+Cette différence entre la Chine continentale et Taiwan s'explique par le fait que suite à l'immigration massive des Chinois à Taiwan après la deuxième guerre mondiale, les traditions du Gōngfūchá ont été elles aussi importées par les habitants de Cháozhōu. Au fur et à mesure des années, les Taiwaniais développèrent cet art en y incluant le 公道杯 Gōngdào bēi (verseuse)，et les 闻香杯 Wén xiāng bēi. Ce style se distinguat de ce fait du traditionnel Gōngfūchá de Cháozhōu, expliquant la différence entre les deux pays.
+
+En Europe, nous avons surtout été inspiré par Taiwan en matière de tradition du thé, ce qui explique que pour les Européens le Gōngfūchá est la technique traditionnelle chinoise d'infusion utilisant une théière, un Gōngdào bēi, et le reste des ustensiles comme elle se fait à Taiwan.
 
 A noter: aujourd'hui en Chine continentale, on voit beaucoup de marchands ou de sites proposant des set "Gōngfūchá" de style Taiwanais, et non de style Cháozhōu.   
 
@@ -75,3 +78,8 @@ En effet il n'y a qu'à regarder le dictionnaire 辞源 Cíyuán, spécialisé d
 
 Pour les sceptiques, voici une mini enquête qui devrait mettre fin à tout débat. 
 En dialecte de Cháozhōu, la technique d'infusion locale de Cháozhōu du Gōngfūchá se prononce "GangFuCha", et non "GongFuCha". Or les mots 工 et 功 se prononcent respectivement dans ce dialecte Gang et Gong. Ainsi les personnes de ChaoZhou en parlant de leur "GangFuCha" parlent de 工夫茶 et non de 功夫茶.
+
+ATTENTION: il existe un "功夫茶". 
+On appelle "功夫茶" un style de présentation du thé (versement du thé en particulier) propre à la province du Sìchuān. Cette technique est impressionnante, et demande un grand savoir faire, rappellant le célèbre KungFu chinois. Rien à voir donc avec le 工夫茶 Gōngfūchá que nous avons détaillé dans cet article, mais cela vaut le coup d'oeil!
+
+Thaïs
