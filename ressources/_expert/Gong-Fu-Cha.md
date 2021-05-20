@@ -95,7 +95,7 @@ Pour les sceptiques, voici une mini enquête qui devrait mettre fin à tout déb
 En dialecte de Cháozhōu, la technique d'infusion locale de Cháozhōu du Gōngfūchá se prononce "GangFuCha", et non "GongFuCha". Or les mots 工 et 功 se prononcent respectivement dans ce dialecte Gang et Gong. Ainsi les personnes de ChaoZhou en parlant de leur "GangFuCha" parlent de 工夫茶 et non de 功夫茶.
 
 ATTENTION: il existe un "功夫茶". 
-On appelle "功夫茶" un style de présentation du thé (versement du thé en particulier) propre à la province du Sìchuān. Cette technique est impressionnante, et demande un grand savoir faire, rappellant le célèbre KungFu chinois. Rien à voir donc avec le 工夫茶 Gōngfūchá que nous avons détaillé dans cet article, mais cela vaut le coup d'oeil!
+On appelle "功夫茶" un style de présentation du thé (versement du thé en particulier) propre à la province du Sìchuān. Cette technique est impressionnante, et demande un grand savoir faire, rappellant le célèbre KungFu chinois. Les performers utilisent des grandes théières de métal à long bec et exécutent des chorégraphies millimétrées. Rien à voir donc avec le 工夫茶 Gōngfūchá que nous avons détaillé dans cet article, mais cela vaut le coup d'oeil!
 
 ![四川功夫茶](//assets/media/gongfucha%20sichuan.jpeg)
 
