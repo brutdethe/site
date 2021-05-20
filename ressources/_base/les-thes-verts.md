@@ -1,6 +1,6 @@
 ---
 titre: 绿茶 - LǜChá - (thés verts) 
-par: ThaisThe
+par: Thaïs
 description: >
   Le Lǜ Chá (thé vert) est l'un des incontournables du monde du thé. Excellent pour la santé et plus rapide à fabriquer que les autres thés, il est consommé partout dans le monde, nature et quelque fois aromatisé. 
 ---
