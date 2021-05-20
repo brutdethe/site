@@ -97,7 +97,7 @@ En dialecte de Cháozhōu, la technique d'infusion locale de Cháozhōu du Gōng
 ATTENTION: il existe un "功夫茶". 
 On appelle "功夫茶" un style de présentation du thé (versement du thé en particulier) propre à la province du Sìchuān. Cette technique est impressionnante, et demande un grand savoir faire, rappellant le célèbre KungFu chinois. Les performers utilisent des grandes théières de métal à long bec et exécutent des chorégraphies millimétrées. Rien à voir donc avec le 工夫茶 Gōngfūchá que nous avons détaillé dans cet article, mais cela vaut le coup d'oeil!
 
-![四川功夫茶](//assets/media/gongfucha%20sichuan.jpeg)
+![四川功夫茶](/assets/media/gongfucha%20sichuan.jpeg)
 
 
 Thaïs
