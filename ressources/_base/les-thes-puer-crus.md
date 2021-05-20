@@ -1,6 +1,6 @@
 ---
 titre: 生普洱 - Shēng Pǔ'ěr - (thés Pǔ'ěr cru) 
-par: ThaisThe
+par: Thaïs
 description: >
   Le 生普洱 Shēng Pǔ'ěr, nommé en français thé Pǔ'ěr cru se bonifie avec le temps, il est celui qui se rapproche le plus de l'esprit d'un vin, notamment grâce au fait qu'il soit désormais millésimé. 
 ---
