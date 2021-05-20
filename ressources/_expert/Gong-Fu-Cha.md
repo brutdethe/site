@@ -99,5 +99,3 @@ On appelle "功夫茶" un style de présentation du thé (versement du thé en p
 
 ![SiChuanGongFuCha](assets/media/gongfucha%20sichuan.jpeg)
 
-
-Thaïs
