@@ -2,7 +2,7 @@
 titre: L'infusion en théière
 description: >
   Les théières sont, avec le gaiwan et le verre à thé, un des outils permettant d’infuser le thé. Elles sont combinées avec un Chahai ainsi qu’une ou plusieurs tasse à thé. Ces trois outils sont indissociables pour préparer un thé à la théière.  
-par: ThaisThe
+par: Thaïs
 ---
 
 # Les types de théières
