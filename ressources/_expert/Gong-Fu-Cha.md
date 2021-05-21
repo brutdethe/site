@@ -67,7 +67,7 @@ Nous l'avons vu, le terme Gōngfūchá en Chine continentale désigne une techni
 A Taiwan, le Gōngfūchá désigne simplement la technique infusion traditionnelle à la chinoise comme elle se fait dans les maisons de thé, les marchés de thé, chez les particuliers eux mêmes en Chine continentale à l'heure actuelle. Se traduisant par 泡茶 Pào chá en chinois, cette technique utilise l'ensemble des ustensiles possibles pour la préparation du thé (inlcuant les verseuses, les tables à thés, etc)， avec pour spécificité de n'utiliser que théière comme outil verseur (et non un Gaiwan par exemple). 
 Cette technique d'infusion est de plus extrêment libre: aucune règle n'est figée, bien qu'un standard dans les étapes d'infusion est la plupart du temps utilisé. 
 
-![GongFuChaTaiWan](/assets/media/gongfucha%20taiwan.JPG)
+![GongFuChaTaiWan](/assets/media/gongfucha-taiwan1.jpg)
 
 On voit donc ici la différence fondamentale entre les deux même mots utilisés dans deux pays différents. 
 
