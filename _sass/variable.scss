@@ -1,32 +1,45 @@
 /* réglages géneraux  */
-$police: "Lexend Deca", Arial, sans-serif;
+
+$police: "Lexend Deca",
+Arial,
+sans-serif;
 $couleur-texte: #002920;
 $couleur-fond: rgb(252, 249, 255);
-$couleur-bordure: #73d56b;
+$couleur-bordure: #897853;
 
 /* les liens  */
-$couleur-lien: #73d56b;
+
+$couleur-lien: #897853;
 
 /* les titres  */
-$couleur-titre: #73d56b;
-$police-titre: "Lexend Deca", Arial, sans-serif;
-$couleur-titre-lien: #002920;
-$couleur-titre-span: #73d56b;
 
-/* en-tete */
-$couleur-bordure-entete: #002920;
+$couleur-titre: #897853;
+$police-titre: "Lexend Deca",
+Arial,
+sans-serif;
+$couleur-titre-lien: #002920;
+$couleur-titre-span: #897853;
 
 /* contenu */
-$police-contenu: "Lexend Deca", "Times New Roman", Times, serif;
+
+$police-contenu: "Lexend Deca",
+"Times New Roman",
+Times,
+serif;
 $couleur-contenu: rgba(0, 0, 0, 0.7);
-$couleur-bordure-image: #73d56b;
+$couleur-bordure-image: #897853;
 $couleur-contenu-lien: #002920;
 $couleur-fond-citation: #fff;
 $couleur-bordure-contenu-lien: #002920;
-$couleur-contenu-lien-survol: #73d56b;
-$couleur-contenu-lien-bordure-survol: #73d56b;
-$couleur-bordure-citation: #73d56b;
+$couleur-contenu-lien-survol: #897853;
+$couleur-contenu-lien-bordure-survol: #897853;
+$couleur-bordure-citation: #897853;
 
 /* table */
+
 $couleur-table-bordure: rgba(0, 0, 0, 0.7);
 $couleur-table-survol: #fff;
+
+/* footer */
+
+$couleur-footer: #897853;

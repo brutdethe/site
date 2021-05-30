@@ -1,7 +1,7 @@
 titre: Brut de Thé
 author: pntbr
 email: pntbr@scopyleft.fr
-repository: brutdethe/wiki.git
+repository: brutdethe/site.git
 
 encoding: UTF-8
 kramdown:

@@ -1,16 +1,18 @@
 ---
 layout: page
+title: Brut de thé
 ---
 
+![](/assets/media/bandeau.jpg)
 
-## Pourquoi ce site ?
+# Explorer la tradition chinoise du Thé
 
-L'objectif est de proposer des ressources pour vous inviter à découvrir ou approfondir vos connaissances sur les thés de Chine et de Taïwan et à explorer une approche traditionnelle et artisanale des thés.
+> Nous vous proposons d'oublier totalement ce que vous avez construit derrière le mot thé, de venir avec nous à la source, sans nuage de lait, ni arômes ajoutés.
+> Des feuilles de thé, de l'eau chaude, un peu de savoir faire, c'est tout.
 
+## Foire aux devinettes 
 
-## Consulter les lieux prévenants
-
-{% include collections-list.html %}
+{% include faq.md %}
 
 ## Présentation
 

@@ -99,9 +99,9 @@ h1 span {
 header {
     display: table;
     width: 100%;
-    padding: 20px 0 30px;
+    padding: 20px 0 15px;
     margin-bottom: 30px;
-    border-bottom: 1px solid $couleur-bordure-entete;
+    border-bottom: 1px solid $couleur-bordure;
 }
 
 
@@ -123,9 +123,7 @@ header .search-engine input[type="text"] {
 
 header .search-engine input[type="submit"] {
     padding: 5px;
-    color: #fff;
     font-size: 0.8rem;
-    background-color: #29abe2;
     border: none;
     cursor: pointer;
 }
@@ -446,8 +444,6 @@ header .search-engine input[type="submit"] {
 
 
 /*list of article*/
-
-.ghTree {}
 
 .ghTreeItem {
     position: relative;

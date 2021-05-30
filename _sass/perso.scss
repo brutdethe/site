@@ -12,12 +12,39 @@ h1 {
 .container {
     width: 100%;
     max-width: 845px;
-    padding-right: 1em;
-    padding-left: 1em;
+}
+
+header,
+footer {
+    display: flex;
+    justify-content: space-between;
 }
 
 header .search-engine input[type="submit"] {
     font-size: 1.1rem;
+}
+
+header .logo {
+    width: 7rem;
+    margin-left: -.4em;
+}
+
+header .navigation {
+    margin-top: 5rem;
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+}
+
+.navigation li {
+    padding: 0 .5rem;
+}
+
+.navigation li a {
+    text-decoration: none;
+    font-weight: 600;
 }
 
 .blobContent h1 {
@@ -39,4 +66,53 @@ header .search-engine input[type="submit"] {
 
 .ghTypeFile h2:before {
     background: url('data:image/svg+xml,<svg height="16" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M6 5H2v-1h4v1zM2 8h7v-1H2v1z m0 2h7v-1H2v1z m0 2h7v-1H2v1z m10-7.5v9.5c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V2c0-0.55 0.45-1 1-1h7.5l3.5 3.5z m-1 0.5L8 2H1v12h10V5z" fill="rgba(115, 213, 107, 1)" /></svg>') 0 0 no-repeat;
+}
+
+dl {
+    font-size: 1.1rem;
+}
+
+dt::before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f0da";
+    padding-right: .5rem;
+}
+
+dt.visible::before {
+    content: "\f0d7";
+}
+
+dt {
+    border: .05rem solid #dadee4;
+    border-radius: .1rem;
+    box-shadow: 0 0.25rem 1rem rgba(48, 55, 66, 0.15);
+    font-weight: 800;
+    background: white;
+    padding: 1rem;
+    margin: 1rem 0;
+    cursor: pointer;
+}
+
+dd {
+    display: none;
+    margin: 0.9rem;
+}
+
+dd.visible {
+    display: block;
+}
+
+footer {
+    background: $couleur-footer;
+    padding: 0 5rem;
+}
+
+footer .navigation li a {
+    line-height: 5rem;
+    color: $couleur-fond;
+}
+
+footer .mention {
+    line-height: 5rem;
+    color: $couleur-fond;
 }
