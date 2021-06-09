@@ -3,7 +3,7 @@ layout: page
 title: Brut de thé
 ---
 
-![](/assets/media/bandeau.jpg)
+![](/assets/media/accueil_1.jpg)
 
 # Explorer la tradition chinoise du Thé
 
