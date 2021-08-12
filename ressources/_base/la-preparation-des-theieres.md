@@ -25,3 +25,5 @@ Deux méthodes existent: la méthode traditionnelle et la méthode "forte". Dans
 Votre théière est prête à être utilisée avec le type de thé que vous avez choisi, et seulement avec lui.
 
 > Astuce: pour une performance optimale, utilisez la méthode forte puis, à l'issue du processus, effectuez la phase 3 de la méthode traditionnelle. La mémoire de votre théière sera boosté. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=ZW-Cos_MVF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
