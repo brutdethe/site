@@ -2,7 +2,7 @@
 titre: 生普洱 - Shēng Pǔ'ěr - (thés Pǔ'ěr cru) 
 par: Thaïs
 description: >
-  Le 生普洱 Shēng Pǔ'ěr, nommé en français thé Pǔ'ěr cru se bonifie avec le temps, il est celui qui se rapproche le plus de l'esprit d'un vin, notamment grâce au fait qu'il soit désormais millésimé. 
+  Le 生普洱 Shēng Pǔ'ěr, nommé en français thé Pǔ'ěr cru se bonifie avec le temps, il est celui qui se rapproche le plus de l'esprit d'un vin, notamment parce qu'il est désormais millésimé. 
 ---
 
 ## Généralités
@@ -106,4 +106,4 @@ Traditionnellement, on conservera les galettes de thé _Pǔ'ěr_:
 
 - **Dans un endroit aéré, en hauteur et sec**. Ceci pour éviter que la galette ne pourrisse ou soit attaquée par des champignons, ce qui la rendrait non pas toxique ou mauvaise pour la santé, mais sans les qualités qu'on lui prêtait au départ.  
 - **À l'abri de la lumière directe du soleil**. Le thé _Pǔ'ěr_ est sensible à la lumière qui pourrait détruire une partie de ses éléments et le rendre ainsi moins intéressant. 
-- **Dans un environnement sans odeur extérieure**. Le thé _Pǔ'ěr_ comme tous les thés s'imprègne facilement des odeurs extérieures. En le protégeant de ces dernières, on évitera de modifier le goût originel du thé. 
+- **Dans un environnement sans odeurs extérieures**. Le thé _Pǔ'ěr_ comme tous les thés s'imprègne facilement des odeurs extérieures. En le protégeant de ces dernières, on évitera de modifier le goût originel du thé. 
