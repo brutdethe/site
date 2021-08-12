@@ -2,7 +2,7 @@
 titre: Comment préparer une théière en grès - 開壺 - KāiHú 
 par: Thaïs
 description: >
-  Les théières en grès non émaillé achetées neuves ne doivent pas être utilisées telles quelles sans préparation initiale.
+  Les théières en grès non émaillé achetées neuves ne doivent pas être utilisées sans préparation initiale.
 ---
 
 Nous vous proposons deux méthodes, dans les deux cas il faudra préalablement choisir un type de thé qui sera exclusivement réservé à la théière. 
