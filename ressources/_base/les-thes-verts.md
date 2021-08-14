@@ -12,13 +12,13 @@ _LóngJǐng infusé en GàiWǎn_
 
 # Généralités
 
-Par définition, le 绿茶 _LǜChá_ (thé vert) est le seul type de thé qui n'est pas oxydé ou très peu (moins de 5%). C'est cet état de fait lui donne ses qualités bienfaisantes et médicinales. Il est entre autre stimulant (caféine et vitamine C), antioxidant (_polyphénols_), stimule les défenses immunitaires, parmi nombre d'autres bienfaits. 
+Par définition, le 绿茶 _LǜChá_ (thé vert) est le seul type de thé qui n'est pas oxydé ou très peu (moins de 5%). C'est cet état de fait qui lui donne ses qualités bienfaisantes et médicinales. Il est entre autres stimulant (caféine et vitamine C), antioxydant (_polyphénols_),il stimule les défenses immunitaires, parmi nombre d'autres bienfaits. 
 
 Pour le thé vert, les fabricants utiliseront soit les feuilles de thé, soit les bourgeons, soit les deux ensemble. Si le fabricant décide d'utiliser cette dernière technique de sélection, alors il y aura toujours un seul bourgeon, et une ou plusieurs feuilles, mais jamais plusieurs bourgeons. 
-Les "AOP" du thé, c'est à dire les thés reconnus tels le 信阳毛尖 - _XìnYáng MáoJiān_, auront dans leur cahier des charges de fabrication un nombre précis de feuilles/bourgeons sur chaque tige à respecter pour donner l'appelation voulu. 
+Les "AOP" du thé, c'est à dire les thés reconnus tels le 信阳毛尖 - _XìnYáng MáoJiān_, auront dans leur cahier des charges de fabrication un nombre précis de feuilles/bourgeons sur chaque tige à respecter pour donner l'appelation voulue. 
 Exemlpe: le 竹葉青 - _ZhúYèGīng_ devra obligatoirement être fait avec un bourgeon et une feuille ensemble. Autrement dit, les cueilleuses, pour faire ce thé en particulier, cueilleront sur les arbres à thé une tige contenant un bourgeon et une feuille ensemble. 
 
-Le thé vert est principalement fourni par de petits arbustes à thé (灌木 Guànmù), ne dépassant pas 1,5 mètre en général et n'ayant pas une espérance de vie longue, alors que les thés noirs par exemple sont fourni essentiellement par des arbres à thés (乔木 Qiáomù），pouvant vivre pendant plusieurs centaines voir plusieurs milliers d'années. 
+Le thé vert est principalement fourni par de petits arbustes à thé (灌木 Guànmù), ne dépassant pas 1,50 mètre en général et n'ayant pas une espérance de vie très longue, alors que les thés noirs par exemple sont fournis essentiellement par des arbres à thé (乔木 Qiáomù），pouvant vivre pendant plusieurs centaines voire plusieurs milliers d'années. 
 
 ![灌木 Guànmù](/assets/media/the-vert_arbuste.jpg)
 
@@ -33,7 +33,7 @@ Les 炒青綠茶 _Chǎo Qīng LǜChá_ : ce sont les _LǜChá_ dont le 杀青 _S
 
 On distinguera trois sous catégories :
 
- - 長炒青 _Zhǎng Chǎo Qīng_ : les feuilles du thé finit sont en forme de sourcil. On y trouve le 湄潭翠芽 _MéiTán CuìYá_ par exemple.
+ - 長炒青 _Zhǎng Chǎo Qīng_ : les feuilles du thé fini sont en forme de sourcil. On y trouve le 湄潭翠芽 _MéiTán CuìYá_ par exemple.
  - 圓炒青 _Yuán Chǎo Qīng_ : la forme finale est en perle. On y trouve les 綠寶石 _Lǜ BǎoShí_ par exemple.
  - 扁炒青 _Biǎn Chǎo Qīng_ : façonné en feuille plate. On y trouve le 西湖龍井 _Xīhú LóngJǐng_ par exemple. 
 
@@ -78,17 +78,17 @@ En Chine, certains _LǜChá_ sont plus connus que d'autres. Voici une liste non 
 La tradition chinoise veut qu'on boive le thé pur, sans apport extérieur autre que la feuille de thé elle même. 
 Cette règle est compensée par une exception : les _HuāChá_ (littéralement "thés aux fleurs").
 
-Les _HuāChá_ en effet sont des thés généralement verts (on retrouve aussi des thés aromatisés rouges) aromatisés à l'aide de fleurs le plus souvent. Le plus connu est sûrement le thé au jasmin 茉莉花茶 _MòLìHuā Chá_. On appelle aussi quelquefois _HuāChá_ une infusion de fleurs sans qu'il y ait de feuilles de thés mis avec, mais, n'étant pas à proprement parlé du thé, il n'en sera pas question dans cet article. 
+Les _HuāChá_ en effet sont des thés généralement verts (on retrouve aussi des thés aromatisés rouges) aromatisés à l'aide de fleurs le plus souvent. Le plus connu est sûrement le thé au jasmin 茉莉花茶 _MòLìHuā Chá_. On appelle aussi quelquefois _HuāChá_ une infusion de fleurs sans qu'il y ait de feuilles de thé mises avec, mais, n'étant pas à proprement parlé du thé, il n'en sera pas question dans cet article. 
 
 Aux 6 types de thés en Chine (Vert, Blanc, Jaune, Bleu, Rouge, Noir), la classification chinoise  rajoute une sorte d'annexe : les 再加工茶 _Zài JiāGōng Chá_. C'est dans celle ci que se placent les _HuāChá_. Ainsi on ne peut pas dire que les _HuāChá_ sont des _LǜChá_ ou des _HóngChá_ : ils appartiennent à cette catégorie annexe. 
 
 Il existe deux catégories de _HuāChá_ : les 窨花茶 _Xūn HuāChá_ et les 拼花茶 _PīnHuā Chá_.
 
-Les _Xūn HuāChá_ sont des thés (_LǜChá_ la plupart du temps), infusés avec des fleurs ou d'autres aromates, afin que ces derniers lui transfère leurs arômes. Après plusieurs semaines ou mois d'infusion à sec, les additifs odorants sont retirés du _LǜChá_. Le thé garde ainsi la saveur transmise par ces fleurs et plantes, sans que l'on voit les fleurs utilisées lorsqu'on l'achète. 
+Les _Xūn HuāChá_ sont des thés (_LǜChá_ la plupart du temps), infusés avec des fleurs ou d'autres aromates, afin que ces derniers lui transfèrent leurs arômes. Après plusieurs semaines ou mois d'infusion à sec, les additifs odorants sont retirés du _LǜChá_. Le thé garde ainsi la saveur transmise par ces fleurs et plantes, sans que l'on voie les fleurs utilisées lorsqu'on l'achète. 
 
 Au contraire, le _PīnHuā Chá_ est un thé auquel on a bien rajouté ces additifs mais ces derniers ne sont pas retirés avant mise sur le marché. Un _PīnHuā Chá_ est donc un thé aux fleurs avec de réelles fleurs lorsqu'il est vendu, alors que le _Xūn HuāChá_ ne les a plus. 
 
-En règle générale, les _HuāChá_ de qualités sont les _Xūn HuāChá_. 
+En règle générale, les _HuāChá_ de qualité sont les _Xūn HuāChá_. 
 L'exemple le plus parlant est le 茉莉花茶 _MòlìHuā Chá_ : le thé au jasmin chinois. Le plus prisé des _HuāChá_, il peut être vendu avec ou sans fleurs de jasmin. On remarque que les meilleurs _LǜChá_ sont réservés pour le _Xūn HuāChá_, le reste pour les _PīnHuā Chá_. 
 
-Comme autre thé au fleurs fameux, on peut citer : le thé aux orchidées 球蘭花茶 _Qiú LánHuā Chá_, le thé à la rose de Chine 玫瑰花茶 _MéiGuī HuāChá_, le thé aux chrysanthèmes 菊花茶 _JúHuā Chá_.
+Comme autre thé aux fleurs fameux, on peut citer : le thé aux orchidées 球蘭花茶 _Qiú LánHuā Chá_, le thé à la rose de Chine 玫瑰花茶 _MéiGuī HuāChá_ et le thé aux chrysanthèmes 菊花茶 _JúHuā Chá_.
