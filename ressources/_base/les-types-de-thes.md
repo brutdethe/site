@@ -1,7 +1,7 @@
 ---
 
 titre: Les types de thé
-description: Description des 6+1 différents type de thé
+description: Description des 6+1 différents types de thé
 par: pntbr, Thaïs
 
 ---
@@ -11,6 +11,7 @@ par: pntbr, Thaïs
 Catégoriser les thés qui partagent des caractéristiques communes permet de réduire la complexité en dépassant les spécificités au profit de la généralité.  
   
 Tous les thés sont le produit d'une même plante le théier ou _Camellia Sinensis_.  
+
 Cette définition a l'avantage d'exclure des plantes qui pourraient sembler voisines. Les rooibos surnommés en France "thés rouges" sont par exemple totalement distincts.  
 
 En Chine et à TáiWān, les thés sont traditionnellement classés en 6 types :   

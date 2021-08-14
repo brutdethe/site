@@ -24,9 +24,9 @@ _inspiration [^1]_
 
 > Conseils :
 
-> Pour nettoyer et ouvrir les feuilles, vous pouvez rincer à la même température que l'infusion pendant quelques secondes.
+> Pour nettoyer et ouvrir les feuilles, vous pouvez les rincer à la même température que l'infusion pendant quelques secondes.
 
-> Les eaux minérales Volvic™ ou Mont Roucous™ sont les plus adaptées en France pour vos infusions. L'eau du robinet est déconseillé.
+> Les eaux minérales Volvic™ ou Mont Roucous™ sont les plus adaptées en France pour vos infusions. L'eau du robinet est déconseillée.
 
 > Nous vous conseillons de ne pas trop vous accrocher à cette table, elle peut servir de point de départ pour vos infusions.  
 > Nous imaginons qu'avec le temps vous apprendrez à ajuster ces valeurs à votre contexte, à vos goûts, aux spécificités des thés et à vos ustensiles.
