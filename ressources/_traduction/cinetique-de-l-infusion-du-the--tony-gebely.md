@@ -1,6 +1,6 @@
 ---
 
-titre: Cinétique de l'infusion du thé
+title: Cinétique de l'infusion du thé
 description: >
   L'infusion est la dernière étape de la vie des feuilles de thé. Et dans leur dernier acte,  elles se déploient et se défont lentement, créant une boisson qui raconte l'histoire de leur  origine.
   Ce contenu est un extrait du site de Tony Gebely : teaepicure.com

@@ -1,5 +1,5 @@
 ---
-titre: Nos valeurs
+title: Nos valeurs
 description: >
   Les valeurs qui nous animent
 ---

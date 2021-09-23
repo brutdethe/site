@@ -7,8 +7,7 @@ title: Brut de thé
 
 # Explorer la tradition chinoise du Thé
 
-> Nous vous proposons d'oublier totalement ce que vous avez construit derrière le mot thé, de venir avec nous à la source, sans nuage de lait, ni arômes ajoutés.
-> Des feuilles de thé, de l'eau chaude, un peu de savoir faire, c'est tout.
+{% include uvp.md %}
 
 ## Foire aux devinettes 
 

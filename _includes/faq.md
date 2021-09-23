@@ -1,16 +1,16 @@
 <script>
     window.addEventListener("load", function(event) {
+        // display the first answer
+        document.querySelector("dd").classList.toggle('visible')
         const dts = document.querySelectorAll("dt")
         dts.forEach(dt => dt.addEventListener('click', event => {
-            event.currentTarget.classList.toggle('visible')
             event.currentTarget.nextElementSibling.classList.toggle('visible')
         }))
     });
 </script>
 
-J'ai remarqué que vos thés étaient tous au même prix. Est-ce politique ?  
-: On imagine que ce serait dommage de focaliser sur le prix pour faire son choix.Nous avons choisi de proposer un prix unique pour ne pas hiérarchiser les thés.
-Dans l'absolu, on croit qu'il n'y a pas de bon ou de mauvais thé, tout dépend de la saison, du contexte, de l'heure et surtout de vous. Il faut avant tout s'écouter pour laisser la chance à un thé de s'inviter dans votre tasse. Ça pourrait être un thé Pu'Er pour mieux supporter la rigueur de l'hiver ; un thé vert, Pour bien démarrer la journée ; un WuLong, pour déguster avec une amie retrouvée ; ce thé blanc, fidèle compagnon, de vos instants lecture ; ou encore un thé inconnu pour se laisser surprendre.
+J'ai remarqué que vos thés étaient tous au même prix. C'est un peu n'importe quoi, non ?  
+: Dans l'absolu, on croit qu'il n'y a pas de bon ou de mauvais thé. Ça dépend de la saison, du contexte, de l'heure et surtout de vos envies. On imagine que le prix influence le choix et nous avons choisi de proposer un prix unique pour ne pas hiérarchiser les thés. Peut-être vous laisser inviter un thé dans votre tasse. Ça pourrait être un thé Pu'Er pour mieux supporter la rigueur de l'hiver ; un thé vert, Pour bien démarrer la journée ; un WuLong, pour déguster avec une amie retrouvée ; ce thé blanc, fidèle compagnon, de vos instants lecture ; ou encore un thé inconnu pour vous laisser surprendre.
 
 Je ne retrouve pas les notes aromatiques décrites habituellement ?
 : En circulant sur ce site, vous trouverez très peu de descriptions sur les parfums, les arômes des thés. En Chine et à Taïwan, ce qui nous incite à acheter un thé pour la première fois n’est pas tant l’appréciation des arômes que la curiosité de découvrir ce nouveau thé. En nous fiant seulement aux arômes indiqués, nous pouvons rater de belles surprises. Par ailleurs, le thé est tellement complexe et le ressenti de chacun tellement différent, qu’il en devient dérisoire de décrire des arômes. Nous vous invitons à nous suivre dans cette démarche et à prendre le risque de découvrir des thés que vous n’oseriez pas tester autrement.
@@ -24,7 +24,7 @@ Je suis *tea sommelier*, *tea master* et fréquente le *Camellia sinensis* depui
 Je n'arrive pas à trouver mon thé préféré *Le duo des Amants (mangue-artichaud) des Sœurs Pacsées ©*. Ne vendez-vous pas de vrais thés ?
 : Pour nous, le thé arômatisé s'apparente au rosé-pamplemousse, quant aux sachets de thé, nous les comparons volontier à ce que le surimi est au poisson. Sur ce site, nous avons fait le choix de ne proposer que des thés et des ustensiles issus de la culture traditionnelle chinoise. 
 
-Vos thés sont-ils Bio ? Savez-vous s'ils ne sont pas produits dans de mauvaises conditions ?
+Vos thés sont-ils Bio ? Savez-vous s'ils ne sont pas élevés dans de mauvaises conditions ?
 : Nous ne comprenons pas encore très bien les normes Bio et leurs applications en Chine continentale. 
 Nous avons fait le choix de n'acheter qu'à des producteurs et productrices artisanaux <!-- que nous connaissons personnellement --> pour garantir les conditions de productions et la qualité des thés qui vous sont proposés. Nous privilégions également les thés en provenance de Taïwan pour leur nature artisanale et pour la qualité de l'air sur l'île. 
 
@@ -35,7 +35,7 @@ Je ne comprends pas très bien si vous faites ça pour les communs ou si c'est p
 : Nous contribuons aux [communs](https://fr.wikipedia.org/wiki/Communs) dans différents domaines depuis de nombreuses années. Tous ce que nous souhaitons faire avec _Brut de Thé_ sera également libéré des copyrights. Notre [boutique en ligne](https://github.com/brutdethe/boutique) est _open-source_ et les articles sont en licence libre [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr), nous constituons une base de données sur les thés et les cultivars de Chine et de Taïwan disponible pour les humains comme pour les machines. Nous avons également en projet de créer des jardins de thé pour expérimenter et documenter la culture des théiers en France.
 Pour pouvoir faire tout ça et nous consacrer pleinement à ces activités, nous essaierons de développer un modèle économique raisonnable et éthique.
 
-Faire venir du thé et des poteries de l'autre bout de la planète c'est tellement écologique - uhuh! , vous vous sentez comment avec ça ?
+Faire venir du thé et des poteries de l'autre bout de la planète c'est pas tellement écologique, vous vous sentez comment avec ça ?
 : Beh, pas très bien, merci. C'est une question qui nous taraude et aujourd'hui, pour le thé, nous n'avons pas beaucoup d'alternatives en Europe. Nous sommes à l'affut et serions ravi de trouver des solutions pour éviter des transports inutiles, en attendant on fait juste attention à privilégier les solutions artisanales et les options les moins polluantes. Concernant les poteries, c'est un plus facile, de nombreuses personnes en France produisent des pièces dans l'esprit du thé authentique et nous les rencontrons pour travailler à leur côté.
 
 Faire une cérémonie du thé à chaque fois que l'on souhaite boire une tasse, c'est pas un peu lourd ?

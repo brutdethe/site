@@ -1,5 +1,5 @@
 ---
-titre: Liens
+title: Liens
 description: >
   Une collection de liens vers des ressources 
 ---

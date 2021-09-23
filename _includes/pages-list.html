@@ -1,11 +1,9 @@
 {% if site.pages.size > 1 %}
 <ul class="location">
-    {%- for page in site.pages -%} 
-        {%- unless page.url contains "index.html" or page.["publié"] == 'non' %}
-        <li>
-            <a href="{{ page.url }}">{{ page.titre }}</a> : {{ page.description }}
-        </li>
-        {%- endunless %}
-    {%- endfor %}
+    {%- for page in site.pages -%} {%- unless page.url contains "index.html" or page.["publié"] == 'non' %}
+    <li>
+        <a href="{{ page.url }}">{{ page.title }}</a> : {{ page.description }}
+    </li>
+    {%- endunless %} {%- endfor %}
 </ul>
 {% endif %}

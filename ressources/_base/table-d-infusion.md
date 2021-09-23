@@ -1,5 +1,5 @@
 ---
-titre: Table d'infusion
+title: Table d'infusion
 description: >
   Table d'infusion par type de thé avec l'approche - Gōng Fū Chá
 par: pntbr

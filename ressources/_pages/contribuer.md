@@ -1,5 +1,5 @@
 ---
-titre: Aide mémoire pour contribuer
+title: Aide mémoire pour contribuer
 description: >
   Pour nous aider à étoffer ce site
 ---
@@ -79,7 +79,7 @@ Les espaces utilisés pour formater sont important, c'est eux qui structurent le
 ```yaml
 ---
 
-titre: <le titre>
+title: <le titre>
 description: >
   <une petite description>
 ---

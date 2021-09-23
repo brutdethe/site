@@ -1,6 +1,6 @@
 ---
 
-titre: Les types de thé
+title: Les types de thé
 description: Description des 6+1 différents types de thé
 par: pntbr, Thaïs
 

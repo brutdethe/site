@@ -1,5 +1,5 @@
 ---
-titre: Débuter avec les thés de Chine et de Taïwan
+title: Débuter avec les thés de Chine et de Taïwan
 description: >
   Une vue d'ensemble pour découvrir l'univers du thé et en saisir les bases pratiques 
 par: ThaisThe, violaine-web

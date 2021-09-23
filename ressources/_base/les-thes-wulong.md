@@ -1,5 +1,5 @@
 ---
-titre: 烏龍茶 - les WūLóng - (thés bleus)
+title: 烏龍茶 - les WūLóng - (thés bleus)
 description: >
   Un article pour comprendre les WūLóng, découvrir les différentes familles et soigner l'infusion
 ---

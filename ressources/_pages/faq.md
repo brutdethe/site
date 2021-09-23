@@ -1,5 +1,5 @@
 ---
-titre: FAQ
+title: FAQ
 description: >
   Foire Aux Questions
 ---

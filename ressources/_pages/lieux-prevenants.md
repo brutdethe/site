@@ -1,5 +1,5 @@
 ---
-titre: Quelques lieux de thés
+title: Quelques lieux de thés
 description: >
   Quelques lieux prévenants pour déguster des thés authentiques
 ---

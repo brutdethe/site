@@ -1,5 +1,5 @@
 ---
-titre: 工夫茶 - Gōngfūchá - Précisions sur le terme
+title: 工夫茶 - Gōngfūchá - Précisions sur le terme
 par: Thaïs
 description: >
   Dans les pays occidentaux, le terme "GongFuCha" est de plus en plus utilisé. Mais qu'en est il véritablement de ce terme aux multiples facettes. Précisions dans cet article. 

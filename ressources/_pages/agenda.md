@@ -1,5 +1,5 @@
 ---
-titre: Agenda de nos actions
+title: Agenda de nos actions
 description: >
   Pour nous suivre ou nous rencontrer
 ---
