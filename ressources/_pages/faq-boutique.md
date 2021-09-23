@@ -1,5 +1,5 @@
 ---
-title: Boutique
+title: FAQ boutique
 description: >
   Foire Aux Questions concernant la boutique
 layout: page
