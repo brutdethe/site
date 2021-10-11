@@ -65,4 +65,4 @@ Découvrir le thé, c’est se promener dans l’histoire de la Chine par la ter
 Pauline Miranda  
 Praticienne en médecine chinoise  
 10 rue de la Méditerranée 34070 Montpellier  
-https://www.montpellier-acupuncture.fr  
+[https://www.montpellier-acupuncture.fr](https://www.montpellier-acupuncture.fr)   
