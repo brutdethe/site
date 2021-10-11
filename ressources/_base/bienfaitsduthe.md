@@ -36,19 +36,19 @@ Enfin l’usage du thé, selon ses différents modes préparatoires (thé vert, 
 ### Le thé vert
 
 1. Harmonise l’Estomac, régule le Qi à contrecourant, arrête les diarrhées
-2.	Traite l’humidité
-3.	En cas de Qi de l’Estomac déficient, il est recommandé de ne pas consommer de thé vert qui pourrait l’attaquer (comme évoqué dans le bencaogangmu)
+2. Traite l’humidité
+3. En cas de Qi de l’Estomac déficient, il est recommandé de ne pas consommer de thé vert qui pourrait l’attaquer (comme évoqué dans le bencaogangmu)
 
 ### Thé wulong / oolong
 
-1.	Clarifier la chaleur et détoxifie
-2.	Promeut la diurèse : utilisé dans les cas d’œdèmes
-3.	Clarifie l’esprit
+1. Clarifier la chaleur et détoxifie
+2. Promeut la diurèse : utilisé dans les cas d’œdèmes
+3. Clarifie l’esprit
 
 ### Les thés Pu er 
 
-1.	Favorise la digestion 
-2.	Régule les mouvements de montée et descente du Qi
+1. Favorise la digestion 
+2. Régule les mouvements de montée et descente du Qi
 
 ## Conclusion
 
@@ -62,7 +62,7 @@ Enfin l’expérience d’un temps autour du thé est particulière, différente
 
 Découvrir le thé, c’est se promener dans l’histoire de la Chine par la terre, à travers l’homme et jusqu’au ciel.
 
-Pauline Miranda
-Praticienne en médecine chinoise
-10 rue de la Méditerranée 34070 Montpellier
-https://www.montpellier-acupuncture.fr
+Pauline Miranda  
+Praticienne en médecine chinoise  
+10 rue de la Méditerranée 34070 Montpellier  
+https://www.montpellier-acupuncture.fr  
