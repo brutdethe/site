@@ -1,6 +1,5 @@
 ---
 title: Le thé dans l’histoire de la médecine chinoise et ses applications
-publié: 'non'
 ---
 
 # Introduction
