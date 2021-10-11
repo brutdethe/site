@@ -1,9 +1,11 @@
 ---
 title: Le thé dans l’histoire de la médecine chinoise et ses applications
-publié: 'non'
+description: >
+  Base mythologiques, historiques et scientifiques des bienfaits du thé dans la culture chinoise
+par: PaulineMiranda
 ---
 
-# Introduction
+## Introduction
 
 L’histoire et la mythologie se confondent et s’entremêlent souvent dans l’histoire de la Chine ancienne. Il n’est pas rare de constater dans un récit que certains des faits décrits aient vraiment eu lieu et dans le même temps que certaines aventures deviennent totalement fantastiques à un certain moment de la narration. Il en est de même avec l’origine du thé.
 
@@ -29,26 +31,26 @@ On parle aussi des effets secondaires du thé :
 *D’autres articles se réfèrent au thé, et en version anglaise je recommande la version de Paul Ulrich Unschuld qui a délivré un travail considérable.
 Enfin l’usage du thé, selon ses différents modes préparatoires (thé vert, blanc oolong, pu erh, rouge) s’est naturellement intégré en diététique traditionnelle chinoise en se faisant classer comme les substances de shennong. ( température, toxicité, indication, orientation parmi les méridiens)
 
-# Les effets des différents thés
+## Les effets des différents thés
 
-## Le thé vert
+### Le thé vert
 
-1)	Harmonise l’Estomac, régule le Qi à contrecourant, arrête les diarrhées
-2)	Traite l’humidité
-3)	En cas de Qi de l’Estomac déficient, il est recommandé de ne pas consommer de thé vert qui pourrait l’attaquer (comme évoqué dans le bencaogangmu)
+1. Harmonise l’Estomac, régule le Qi à contrecourant, arrête les diarrhées
+2. Traite l’humidité
+3. En cas de Qi de l’Estomac déficient, il est recommandé de ne pas consommer de thé vert qui pourrait l’attaquer (comme évoqué dans le bencaogangmu)
 
-## Thé wulong / oolong
+### Thé wulong / oolong
 
-1)	Clarifier la chaleur et détoxifie
-2)	Promeut la diurèse : utilisé dans les cas d’œdèmes
-3)	Clarifie l’esprit
+1. Clarifier la chaleur et détoxifie
+2. Promeut la diurèse : utilisé dans les cas d’œdèmes
+3. Clarifie l’esprit
 
-## Les thés Pu er 
+### Les thés Pu er 
 
-1)	Favorise la digestion 
-2)	Régule les mouvements de montée et descente du Qi
+1. Favorise la digestion 
+2. Régule les mouvements de montée et descente du Qi
 
-# Conclusion
+## Conclusion
 
 Le thé n’est pas proprement dit une plante médicinale, mais plutôt un ingrédient de la diététique, signifiant que sa consommation ne pourrait pas réguler notre terrain à lui seul en en buvant une seule fois. Les aliments de la diététique produisent les effets escomptés lorsqu’on les prend sur un temps long et fréquemment., ou abondamment sur un temps court pour certains, tout en excluant d’autres. Le thé reste une plante bonne pour la santé, mais trop en consommer restera toujours de l’excès, et cela peut endommager la terre en médecine chinoise ou l’estomac. Encore une fois, et comme toute substance sur terre, la modération prime.
 
@@ -60,7 +62,7 @@ Enfin l’expérience d’un temps autour du thé est particulière, différente
 
 Découvrir le thé, c’est se promener dans l’histoire de la Chine par la terre, à travers l’homme et jusqu’au ciel.
 
-Pauline Miranda
-Praticienne en médecine chinoise
-10 rue de la Méditerranée 34070 Montpellier
-https://www.montpellier-acupuncture.fr/
+Pauline Miranda  
+Praticienne en médecine chinoise  
+10 rue de la Méditerranée 34070 Montpellier  
+[https://www.montpellier-acupuncture.fr](https://www.montpellier-acupuncture.fr)   
