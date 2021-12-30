@@ -3,7 +3,7 @@
         <h1>{{ page.collection | capitalize }}</h1>
     </header>
     {% for article in site[page.collection] %} {% unless article.url contains "index.html" or article["publié"] == 'non' %}
-    <article class="ghTreeItem ghTypeFile" data-title="dir">
+    <article class="ghTreeItem" data-title="dir">
         <h2 class="ghTreeTitle">
             <a class="folderLink" data-title="folderLink" href="{{ article.url }}">
                 {{ article.title }}
