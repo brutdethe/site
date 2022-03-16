@@ -22,7 +22,9 @@ Le thé _Pǔ'ěr_ cru est le thé fermenté par excellence. De là, on comprend 
 
 ## La constitution d'une galette de thé _Pǔ'ěr_
 
-Une galette de thé _Pǔ'ěr_ est constituée exclusivement de feuilles de thés provenant du cultivar 雲南大葉種 _YúnNán DàYè Zhòng_, traduit par "arbres à grandes feuilles du YúnNán". Ces feuilles de thé sont cueillies sur des arbres à thé 喬木 _QiáoMù_ (et non sur des arbustes). La plupart des galettes de thé _Pǔ'ěr_ sont faites avec des arbres ne dépassant pas cent ans. 
+Une galette de thé _Pǔ'ěr_ est constituée exclusivement de feuilles de thés provenant de l'espèce Camellia Assamica (mast) Chang, 普洱茶 _Pǔ'ěr chá_en chinois*. Ces feuilles de thé sont cueillies sur des arbres à thé 喬木 _QiáoMù_ (et non sur des arbustes). La plupart des galettes de thé _Pǔ'ěr_ sont faites avec des arbres ne dépassant pas cent ans, mais il en est contenant des feuilles d'arbres plus que centenaires.  
+*En Occident, on considère le Camellia Assamica non pas comme une espèce, mais comme une variété de Camellia Sinensis. On la nomme dans nos pays d'ailleurs Camellia Sinensis Var Assamica. Nous acceptons donc le fait que l'assamica est un dérivé de sinensis. Hors en Chine, depuis le célèbre taxonomiste 張宏達 _Zhāng hóngdá_, on ne fait plus descendre l'assamica du sinensis, mais on le considère comme une espèce à part entière. Pour marquer cette différence de point de vue scientifique entre la Chine et l'Occident, M. Zhang a modifié le nom d'assamica, pour Pǔ'ěr. 
+Ces Pu er sont constitués par les 雲南大葉種 _Yúnnán dàyè zhòng_, les feuilles contenus dans une galette de Pǔ'ěr.
 
 Les fabricants peuvent utiliser les feuilles d'un même millésime pour réaliser l'ensemble de la galette. Cependant, souvent, on verra plutôt des _blend_, c'est à dire des galettes composées de plusieurs feuilles de plusieurs millésimes différents. Comme un champagne, ces recettes font souvent la renommée des fabricants, qui savent composer leurs thés en fonction des années. 
 
