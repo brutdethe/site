@@ -9,9 +9,13 @@ title: Brut de thé
 
 {% include uvp.md %}
 
+Ne rater pas la [première édition](https://gongfucha.xn--brutdeth-i1a.fr) du festival - Nous contacter : coucou[@]brutdethe.fr :
+
+[![Festival GongFuCha](https://gongfucha.xn--brutdeth-i1a.fr/assets/images/visuel-gongfucha.jpg)](https://gongfucha.xn--brutdeth-i1a.fr)
+
 ## Foire aux devinettes 
 
-{% include faq.md %}
+{% include faq-accueil.md %}
 
 ## Présentation
 

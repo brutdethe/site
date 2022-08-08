@@ -1,9 +1,7 @@
 ---
-
 title: Les types de thé
 description: Description des 6+1 différents types de thé
 par: pntbr, Thaïs
-
 ---
 
 ## Les 6 ou 6+1 types de thés ?
@@ -25,7 +23,7 @@ En Chine et à TáiWān, les thés sont traditionnellement classés en 6 types :
 
 En France, ce classement est très librement interprété par les enseignes qui y ajoutent le Maté et les Rooibos et renomment les thés rouges en thés noirs et les thés noirs en thés sombres [^1]. Ce n'est peut-être pas facile de s'y retrouver.  
   
-Pour classer les centaines de thés, on pourrait se servir de la couleur des feuilles après traitement, du pourcentage de fermentation, du terroir ou de la robe de la _liqueur_. C'est envisageable, mais ça ne permet pas d'obtenir un classement consistant. La classification selon les étapes de fabrication semble être une meilleure piste [^2]. Pour en savoir plus sur [les étapes de fabrication du thé](./processus-de-fabrication).    
+Pour classer les centaines de thés, on pourrait se servir de la couleur des feuilles après traitement, du pourcentage de fermentation, du terroir ou de la robe de la _liqueur_. C'est envisageable, mais ça ne permet pas d'obtenir un classement consistant. La classification selon les étapes de fabrication semble être une meilleure piste [^2]. Pour en savoir plus sur [les étapes de fabrication du thé](/intermediaire/processus-de-fabrication-du-the).    
 
 Malgré la disparité des thés, en utilisant les "principales" étapes de fabrication on arrive à les regrouper assez élégamment dans ces 6 catégories [^3].  
   
@@ -39,7 +37,7 @@ Quand on ajoute cette 7ème catégorie on obtient le tableau ci-dessous :
 
 ### 绿茶 - Lǜ Chá - thé vert
 
-Le _Lǜ Chá_ est la forme la plus ancienne et la plus populaire dans les types de thé. Il est fabriqué à partir des jeunes feuilles et des jeunes bourgeons. Dès que l'on cueille les feuilles la réaction d'oxydation (_brunissement enzymatique_) démarre. Pour ce type de thé le producteur stoppe le processus (  殺青 - _ShāQīng_ [^4] ) afin d'obtenir un thé très peu oxydé, entre 0% et 5%. Cette étape de _[fixation](./ressources/processus-de-fabrication-du-the#fixed)_ consiste à chauffer les feuilles pour altérer les enzymes responsables : la _polyphénol oxydase_ et la _peroxydase_.
+Le _Lǜ Chá_ est la forme la plus ancienne et la plus populaire dans les types de thé. Il est fabriqué à partir des jeunes feuilles et des jeunes bourgeons. Dès que l'on cueille les feuilles la réaction d'oxydation (_brunissement enzymatique_) démarre. Pour ce type de thé le producteur stoppe le processus (  殺青 - _ShāQīng_ [^4] ) afin d'obtenir un thé très peu oxydé, entre 0% et 5%. Cette étape de _[fixation](/intermediaire/processus-de-fabrication-du-the#fixed)_ consiste à chauffer les feuilles pour altérer les enzymes responsables : la _polyphénol oxydase_ et la _peroxydase_.
 
 Les principales provinces qui produisent se situent à 浙江 _ZhèJiāng_, 海南 _HǎiNán_, 安徽 _ĀnHuī_ et 江蘇 _JiāngSū_.
 
@@ -111,7 +109,7 @@ Quelques thés _Qīng Chá_ [^9] connus :
 
 ### 红茶 - Hóng Chá - thé rouge
 
-Le _Hóng Chá_[^10] ([thé noir en occident](./le-rouge-ou-le-noir)) est un thé presque oxydé à 100%. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et était peu consommée en Chine.  
+Le _Hóng Chá_[^10] ([thé noir en occident](/expert/le-rouge-ou-le-noir)) est un thé presque oxydé à 100%. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et était peu consommée en Chine.  
 
 Depuis la fin de la Seconde Guerre mondiale, la popularité des _Hóng Chá_ n'a cessé de croître et au cours des vingt dernières années, une série de cultivars hybrides ont été créés qui ont grandement amélioré la diversité et le goût de cette famille. Les feuilles de _Hóng Chá_ proviennent souvent de la sous-variété _Assam_ : le _Camellia Sinensis Assamica_ ou de nouveaux hybrides.
 
@@ -177,4 +175,4 @@ Conditionné sous forme compressée (galette, nid, champignon, etc.) et stocké 
 
 [^10]: [_QíMén_ reportage](https://youtube.com/watch?v=kk7fA1-t7YA)
 
-[^11]: [Making _Pǔ'ěr_ tea](https://youtube.com/d2BekCvAZqM)
+[^11]: [Making _Pǔ'ěr_ tea](https://youtube.com/watch?v=d2BekCvAZqM)

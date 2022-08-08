@@ -6,7 +6,7 @@ description: >
 
 ## Nantes
 
-- [Ôjacaranda](https://danslajungle.oisiflorus.com/nantes/ojacaranda.html) : Un salon de thé authentique
+- ~~[Ôjacaranda](https://danslajungle.oisiflorus.com/nantes/ojacaranda.html)~~ : Un salon de thé authentique
 - [Théine](https://danslajungle.oisiflorus.com/nantes/theine-maison-de-the.html) : Petite boutique dans le coeur de ville qui propose des thés et des céramiques de Chine
 
 ## Montpellier

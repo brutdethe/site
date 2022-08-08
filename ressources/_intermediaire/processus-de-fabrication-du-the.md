@@ -38,22 +38,22 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^1]: [Modern _WūLóng_](https://youtube.com/watch?v=CzkhqNjJ_Mg)
 
-[^2]: [Thé mordu par des insectes](../expert/cicadellidae)
+[^2]: [Thé mordu par des insectes](/traduction/cicadellidae-eric-scott)
 
 [^3]: [tea processing chart](https://teaepicure.com/tea-processing-chart/)
 
-[^4]: [white tea picking](https://www.youtube.com/GtDSfYq4sPg?t=765)
+[^4]: [white tea picking](https://www.youtube.com/watch?v=GtDSfYq4sPg?t=765)
 
 [^5]: vidéos sur le flétrissage :
 
-    \- [red tea withering](https://youtube.com/kk7fA1-t7YA?t=345)  
-    \- [_Pǔ'ěr_ tea withering](https://youtube.com/ZAcpNMRY4LE?t=587)
+    \- [red tea withering](https://youtube.com/watch?v=kk7fA1-t7YA?t=345)  
+    \- [_Pǔ'ěr_ tea withering](https://youtube.com/watch?v=ZAcpNMRY4LE?t=587)
 
-[^6]: [_WūLóng_ tea oxydation](https://youtube.com/CS-KCBmY2pA?t=640)
+[^6]: [_WūLóng_ tea oxydation](https://youtube.com/watch?v=CS-KCBmY2pA?t=640)
 
-[^7]: [red tea rolling machine](https://youtube.com/kk7fA1-t7YA?t=437)
+[^7]: [red tea rolling machine](https://youtube.com/watch?v=kk7fA1-t7YA?t=437)
 
-[^8]: [green tea fixation](https://youtube.com/_KxwUpEEq64?t=614)
+[^8]: [green tea fixation](https://youtube.com/watch?v=_KxwUpEEq64?t=614)
 
 [^9]: [_LóngJǐng_ tea reportage](https://youtube.com/watch?v=7DmnpLY-V68)
 
@@ -61,21 +61,21 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^11]: . [Réaction de Maillard](https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard)
 
-[^12]: . [sweltering](https://youtube.com/PhaeOHivt6s?t=342)
+[^12]: . [sweltering](https://youtube.com/watch?v=PhaeOHivt6s?t=342)
   
 [^13]: . vidéos de façonnage :
 
-    \- [_WūLóng_ tea rolling](https://youtube.com/CS-KCBmY2pA?t=745)  
-    \- [_Pǔ'ěr_ tea cake](https://youtube.com/syDZMKuU1tY?t=22)
+    \- [_WūLóng_ tea rolling](https://youtube.com/watch?v=CS-KCBmY2pA?t=745)  
+    \- [_Pǔ'ěr_ tea cake](https://youtube.com/watch?v=syDZMKuU1tY?t=22)
 
 [^14]: . vidéos de séchage :
 
-    \- [white tea drying](https://youtube.com/GtDSfYq4sPg?t=1981)  
-    \- [four de séchage industriel](https://youtube.com/ftMU1J-4Jvg)
+    \- [white tea drying](https://youtube.com/watch?v=GtDSfYq4sPg?t=1981)  
+    \- [four de séchage industriel](https://youtube.com/watch?v=ftMU1J-4Jvg)
 
-[^15]: . [_WūLóng_ roasting](https://youtube.com/CS-KCBmY2pA?t=1711)
+[^15]: . [_WūLóng_ roasting](https://youtube.com/watch?v=CS-KCBmY2pA?t=1711)
 
 [^16]: . vidéos sur la fermentation
 
-    \- [_Shēng Chá_ fermentation](https://youtube.com/d2BekCvAZqM?t=448)  
-    \- [_Shú Chá_ fermentation](https://youtube.com/oI4yDyH1oUM)
+    \- [_Shēng Chá_ fermentation](https://youtube.com/watch?v=d2BekCvAZqM?t=448)  
+    \- [_Shú Chá_ fermentation](https://youtube.com/watch?v=oI4yDyH1oUM)

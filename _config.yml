@@ -3,7 +3,7 @@ description: >
   Collectif qui explore le monde du thé de tradition Chinoise. Nous vous proposons des ressources pour apprendre, approfondir ou découvrir les types de thé : vert, blanc, jaune, wulong, rouge, noir et Pu'Er et les ustensiles : Théière, Gaiwan et autres.
 author: pntbr
 email: pntbr@scopyleft.fr
-repository: brutdethe/site.git
+repository: brutdethe/site
 
 encoding: UTF-8
 kramdown:
