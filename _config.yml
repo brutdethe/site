@@ -4,6 +4,7 @@ description: >
 author: pntbr
 email: pntbr@scopyleft.fr
 repository: brutdethe/site
+url: "https://www.brutdethé.fr"
 
 encoding: UTF-8
 kramdown:
@@ -45,6 +46,7 @@ collections:
     output: true
 
 plugins:
+  - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-github-metadata
   - jekyll-relative-links

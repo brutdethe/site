@@ -9,3 +9,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-github-metadata"
 gem "jekyll-relative-links"
 gem "jekyll-titles-from-headings"
+gem 'jekyll-sitemap', '~> 1.4'
