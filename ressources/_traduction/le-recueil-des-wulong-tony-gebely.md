@@ -299,7 +299,7 @@ Liqueur _Gāo Shān_ (_Jīn Xuān_ de Ali Shan)
 
 Littéralement haute montagne, _Gāo Shān_ est une désignation donnée aux _WūLóng_ cultivés à une altitude supérieure à 1000 mètres. Les régions de culture les plus connues au-dessus de 1000 mètres sont _ĀlǐShān_, _ShānLín Xī_, _Lǐ Shān_ et _DàYǔ Lǐng_. _DàYǔ Lǐng_ est la montagne la plus haute, à 2400 mètres. Les thés cultivés dans ces régions sont généralement moins oxydés et non torréfiés afin de mettre en valeur les qualités particulières que ces thés de haute montagne possèdent. _Qīng Xīn_, _Jīn Xuān_, _Cuìyù_ et _SìJì Chūn_ sont les cultivars de théier les plus populaires cultivés dans les régions de haute montagne.
 
-### Célèbres cultivars _WūLóng_ de Taiwan
+### Célèbres cultivars _WūLóng_ de Taïwan
 
 Ces cultivars ne sont parfois vendus que par leur nom, d'autres fois ils sont cultivés au-dessus de 1000 m et appelés _Gāo Shān_ . Si je les mentionne ici, c'est parce que vous les verrez souvent appelés par leur nom.
 
