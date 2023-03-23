@@ -9,9 +9,9 @@ title: Brut de thé
 
 {% include uvp.md %}
 
-Avec plaisir, nous vous annonçons la [première édition](https://gongfucha.xn--brutdeth-i1a.fr) du festival - Si vous souyhaitez nous contacter : coucou[@]brutdethe.fr :
+Avec plaisir, nous vous annonçons la [seconde édition](https://gongfucha.xn--brutdeth-i1a.fr) du festival - Si vous souyhaitez nous contacter : coucou[@]brutdethe.fr :
 
-[![Festival GongFuCha](https://gongfucha.xn--brutdeth-i1a.fr/assets/images/affiche-gongfucha.jpg)](https://gongfucha.xn--brutdeth-i1a.fr)
+[![Festival GongFuCha](https://gongfucha.xn--brutdeth-i1a.fr/assets/images/affiche-gongfucha-2023.jpg)](https://gongfucha.xn--brutdeth-i1a.fr)
 
 ## Foire aux devinettes 
 
