@@ -9,4 +9,4 @@ Le site [https://www.gongfucha.fr](https://www.gongfucha.fr) est édité par Yal
 
 Entreprise répertoriée sous le numéro d’immatriculation 899 032 494 et le code APE 1083-Z auprès du des greffes du tribunal de Foix et dont le siège social est 15, rue de la montagen - 09320 Massat.
 
-Directeur de la publication : Yalin Cheng et Stéphane Langlois : coucou@brutdethe.fr
+Directeur de la publication : Yalin Cheng et Stéphane Langlois : coucou@gongfucha.fr
