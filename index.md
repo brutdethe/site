@@ -9,7 +9,7 @@ title: GōngFūChá - 工夫茶
 
 {% include uvp.md %}
 
-C'est avec enthousiasme que nous vous annonçons la troisième édition du [festival GōngFūChá 工夫茶](https://festival.gongfucha.fr) - Si vous souhaitez nous contacter : <a href="mailto:coucou@gongfucha.fr">coucou[@]gongfucha.fr</a>. Les photos de la [première édition](https://festival.gongfucha.fr/2022) sont accessibles à l'adresse suivante : [https://photo.brutdethé.fr](https://photo.brutdethé.fr)
+C'est avec enthousiasme que nous vous annonçons la troisième édition du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr) - Si vous souhaitez nous contacter : <a href="mailto:coucou@gongfucha.fr">coucou[@]gongfucha.fr</a>. Les photos de la [première édition](https://festival.gongfucha.fr/2022) sont accessibles à l'adresse suivante : [https://photo.brutdethé.fr](https://photo.brutdethé.fr)
 
 [<img src="https://festival.gongfucha.fr/assets/images/affiche-gongfucha-2025.jpg" alt="Festival GongFuCha" width="60%" />](https://festival.gongfucha.fr)
 
