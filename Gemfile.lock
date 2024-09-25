@@ -74,7 +74,7 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -102,6 +102,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    webrick (1.8.2)
 
 PLATFORMS
   x86_64-linux
@@ -113,6 +114,8 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-sitemap (~> 1.4)
   jekyll-titles-from-headings
+  liquid (~> 4.0.3)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.24
