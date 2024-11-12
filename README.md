@@ -12,3 +12,8 @@ par: <l'identifiant github de la personne contributrice>
 description: >
     Et là, du texte, plein de texte même, ...
 ```
+
+## En local 
+``` bash
+bundle exec jekyll serve --livereload
+```
