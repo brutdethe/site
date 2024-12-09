@@ -9,13 +9,13 @@ Si vous souhaitez contribuer, vous trouverez ci-dessous quelques indications pou
 ## Les liens
 
 - Le site Web  
-📎 [brutdethé.fr](https://www.gongfucha.fr)  
+📎 [gongfucha.fr](https://www.gongfucha.fr)  
 
 - Pour suivre le travail effectué et les choses qu'on aimerait faire :  
 📎 [Liste des tâches](https://github.com/orgs/brutdethe/projects/1?fullscreen=true)
 
 - Le site De l'API-tea  
-📎 [api-tea.brutdethé.fr](https://api-tea.brutdethé.fr/)  
+📎 [api-tea.gongfucha.fr](https://api-tea.gongfucha.fr/)  
   
 ### Liens pour contribuer
 

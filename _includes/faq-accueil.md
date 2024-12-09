@@ -10,7 +10,7 @@
 </script>
 
 Pourquoi ce site ?  
-: Très envie d'apprendre et de partager avec d'autres personnes ce que nous rencontrons sur la route du Thé. Vous trouverez ici, des [articles techniques](/base), des expériences, des témoignages et une petite [boutique](https://boutique.brutdethé.fr) remplie d'ustensiles et de Thés fabriqués artisanalement.
+: Très envie d'apprendre et de partager avec d'autres personnes ce que nous rencontrons sur la route du Thé. Vous trouverez ici, des [articles techniques](/base), des expériences, des témoignages et une petite [boutique](https://boutique.gongfucha.fr) remplie d'ustensiles et de Thés fabriqués artisanalement.
 
 Qui se cache derrière GōngFūChá - 工夫茶 ?  
 : La réponse simple afficherait les personnes qui [composent la structure](/mentions-legales) : Stéphane et Yalin et on passerait tranquillement à côté de la complexité. Pour être plus juste, toutes les rencontres vivifiantes que nous faisons sur la route du Thé, nous inspirent et nous lient et aujourd'hui on peut chuchoter que rien ne serait possible sans [Manon](https://manonclouzeau.com), [Thomas](https://www.facebook.com/leslandesvivantes/), [Perrine](https://www.perrinepottiez.com/) et [Jé](https://www.theiere-tasse.com/) avec le plaisir de constater que la liste s'agrandit de jour en jour.
