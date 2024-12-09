@@ -3,7 +3,7 @@ layout: page
 title: GōngFūChá - 工夫茶
 ---
 
-![](/assets/media/accueil_2.jpg)
+![Scène de thé en forêt](/assets/media/accueil_1.jpg)
 
 # Explorer la tradition chinoise du Thé
 
