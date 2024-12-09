@@ -1,24 +1,35 @@
 ---
 title: Comment préparer une théière en grès - 開壺 - KāiHú 
-par: Thaïs
+par: Ya Lin
 description: >
   Les théières en grès non émaillé achetées neuves ne doivent pas être utilisées sans préparation initiale.
 ---
 
-Nous vous proposons deux méthodes, dans les deux cas il faudra préalablement choisir un type de thé qui sera exclusivement réservé à la théière. 
+# 為什麼要開壺 (紫砂壺 - zǐshāhú)？
 
-# Méthode douce (traditionnelle)
+紫砂壺在燒製的過程中，有些礦泥顆粒或者粉塵會藏在壺身的小縫隙中，因此開壺的目的在於把這些顆粒塵埃煮出來，清理乾淨，以免正式使用時會隨著茶水被泡出，導致茶湯混濁，影響茶湯味道，甚至影響健康。
 
-1. Rincez l'intérieur et l'extérieur de votre théière à l'eau froide.
-2. Rincez l'intérieur et l'extérieur de la théière à l'eau bouillante deux fois. 
-3. Remplissez la théière d'eau bouillante puis laissez reposer pendant une heure. 
-4. Videz l'eau de la théière et remplissez jusqu'à moitié avec le thé choisi puis ajoutez de l'eau bouillante. Laissez reposer 72 heures. Si le thé que vous voulez utiliser exclusivement pour la théière est un 黑茶 - _HēiChá_ (noir), un 烏龍 _WūLóng_ ou un 紅茶 - _HóngChá_ (rouge), répétez l'opération deux fois.
+## 最簡易的開壺方式：
 
-# Méthode forte (optimale)
+1. 先準備好清水，將壺內外的灰塵擦洗乾淨。
+2. 醒壺：開水沖淋壺身，讓紫砂壺的毛細孔受熱擴張。
+3. 清理乾淨之後將水倒出。
+4. 選用茶葉泡茶開壺，遵循「一壺泡同一類茶」的原則。例如烏龍茶、綠茶、普洱茶或紅茶。
+5. 泡到等水冷卻之後，再次清洗，開壺就完成了。
 
-1. Rincez l'intérieur et l'extérieur de votre théière à l'eau froide, puis deux fois avec de l'eau bouillante. Après le deuxième rinçage, laissez l'eau bouillante dans la théière pendant une heure. 
-2. Placez au fond d'une casserole un tissu épais pour protéger votre théière. Déposez dessus délicatement votre théière.  Ajoutez le thé que vous voulez utiliser dans l'eau de la casserole en quantité importante, environ 20 grammes par litre. Faites bouillir l'ensemble pendant 2 heures en rajoutant de l'eau chaude régulièrement.
-3. À l'issue de la phase d'ébullition, laissez reposer l'ensemble pendant 3 jours, en prenant soin de couvrir la casserole. Remuez l'eau fréquemment pour éviter les dépôts de surface. 
+---
+
+# Pourquoi préparer une théière en terre cuite (紫砂壺 - zǐshāhú) ?  
+
+Lors du processus de cuisson, certaines particules minérales ou poussières peuvent se loger dans les petits interstices de la théière. L’objectif de 開壺 - KāiHú l’ouverture de la théière est d’éliminer ces particules et poussières en les faisant bouillir, afin de nettoyer la théière en profondeur. Cela évite que, lors de son utilisation, ces résidus se mêlent à l’infusion, troublent le thé ou altèrent son goût, voire affectent la santé.  
+
+## Méthode simple pour 開壺 - KāiHú  l'ouverture d'une théière :  
+
+1. Préparez de l’eau claire et nettoyez soigneusement l’intérieur et l’extérieur de la théière pour enlever la poussière.  
+2. Réveillez la théière en versant de l’eau bouillante sur son corps pour que ses pores capillaires se dilatent sous l’effet de la chaleur.  
+3. Une fois bien nettoyée, videz l’eau de la théière.  
+4. Utilisez des feuilles de thé pour préparer une infusion dédiée à l’ouverture de la théière. Respectez le principe selon lequel une théière est dédiée à une seule catégorie de thé (comme le thé Oolong, le thé vert, le thé Pu’er ou le thé noir).  
+5. Laissez l’infusion refroidir, puis nettoyez à nouveau la théière. La préparation est alors terminée.  
 
 ---
 
@@ -26,4 +37,4 @@ Votre théière est prête à être utilisée avec le type de thé que vous avez
 
 ---
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FS31ws3NIMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn6vPsH_0lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
