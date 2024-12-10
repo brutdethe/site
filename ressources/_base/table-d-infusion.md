@@ -30,7 +30,7 @@ _inspiration [^1]_
 
 > Nous vous conseillons de ne pas trop vous accrocher à cette table, elle peut servir de point de départ pour vos infusions.  
 > Nous imaginons qu'avec le temps vous apprendrez à ajuster ces valeurs à votre contexte, à vos goûts, aux spécificités des thés et à vos ustensiles.
-> Pour montrer sa fragilité, il n'y a, par exemple, pas vraiment d'intérêt à utiliser cette approche avec les 黑茶 _Hēi Chá_ car les infusions pour ce type de thé sont uniformes et il est préférable d'infuser [autrement](/assets/media/zhu-pao-fa).
+> Pour montrer sa fragilité, il n'y a, par exemple, pas vraiment d'intérêt à utiliser cette approche avec les 黑茶 _Hēi Chá_ car les infusions pour ce type de thé sont uniformes et il est préférable d'infuser [autrement](../intermediaire/zhu-pao-fa).
 
 ---
 #### Notes
