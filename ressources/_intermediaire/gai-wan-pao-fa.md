@@ -45,7 +45,11 @@ L'utilisation du **_蓋碗_** est simple et ne requiert que de la pratique pour 
 > **Conseil :**  
 > Travaillez les premières manipulations avec le **_蓋碗_** vide, puis avec de l'eau froide. Cela permet de mieux appréhender le mouvement et la technique avant d'ajouter le thé.
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOmDIB7o2So" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+---
 
 ## GàiWǎn vs Théière - 茶壺 _CháHú_
 
