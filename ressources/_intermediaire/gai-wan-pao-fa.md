@@ -1,6 +1,6 @@
 ---
 title: 蓋碗泡法 - PàoFǎ - l'infusion au gaiwan
-par: ThaisThe
+par: Thaïs puis pntbr
 description: >
   Bien qu'il existe une myriade d'outils pour infuser le thé, le plus simple, et peut-être le plus élégant, est le **_蓋碗_**.
 ---
@@ -51,7 +51,7 @@ L'utilisation du **_蓋碗_** est simple et ne requiert que de la pratique pour 
   
 ---
 
-## GàiWǎn vs Théière - 茶壺 _CháHú_
+## 蓋碗 vs Théière - 茶壺 _CháHú_
 
 Bien que le **_蓋碗_** et la théière **_茶壺_ CháHú** soient tous deux utilisés pour infuser le thé,
 ils offrent des expériences de dégustation distinctes.
