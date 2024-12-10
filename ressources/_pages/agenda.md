@@ -4,6 +4,8 @@ description: >
   Pour nous suivre ou nous rencontrer
 ---
 
+## Le prochain grand rendez-vous
+
 ## Les journées de cogitation sur le thé
 
 Ces journées sont organisées sous la forme de randos-urbaines. Un parcours de lieux insolites est proposé aux participant·e·s.
