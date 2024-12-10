@@ -10,7 +10,7 @@ description: >
 
 ## Origine et Transmission du 工夫茶 - GōngFūChá
 
-La méthode traditionnelle taiwanaise de préparation du thé, appelée **工夫茶 - GōngFūChá**, trouve ses origines dans la région de Chaoshan, dans le Guangdong. Elle met en avant la maîtrise technique et le raffinement des ustensiles à thé. Avec la migration des Minnans, cette technique a été introduite à Taïwan, où elle est devenue un art prisé par les lettrés, posant les bases du développement de l'**art du thé 茶藝 - CháYì** taïwanais dans les années 1970.
+La méthode traditionnelle taiwanaise de préparation du thé, appelée **工夫茶 - GōngFūChá**, trouve ses origines dans la région de 潮州 - CháoZhōu , dans le 廣東 - GuǎngDōng en Chine. Elle met en avant la maîtrise technique et le raffinement des ustensiles à thé. Avec la migration des Minnans, cette technique a été introduite à Taïwan, où elle est devenue un art prisé par les lettrés, posant les bases du développement de l'**art du thé 茶藝 - CháYì** taïwanais dans les années 1970.
 
 ---
 
