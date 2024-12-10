@@ -1,6 +1,6 @@
 ---
 title: 蓋碗泡法 - PàoFǎ - l'infusion au gaiwan
-par: ThaisThe
+par: Thaïs puis pntbr
 description: >
   Bien qu'il existe une myriade d'outils pour infuser le thé, le plus simple, et peut-être le plus élégant, est le **_蓋碗_**.
 ---
@@ -51,7 +51,7 @@ L'utilisation du **_蓋碗_** est simple et ne requiert que de la pratique pour 
   
 ---
 
-## GàiWǎn vs Théière - 茶壺 _CháHú_
+## 蓋碗 vs Théière - 茶壺 _CháHú_
 
 Bien que le **_蓋碗_** et la théière **_茶壺_ CháHú** soient tous deux utilisés pour infuser le thé,
 ils offrent des expériences de dégustation distinctes.
@@ -62,6 +62,6 @@ Ces caractéristiques permettent de préserver les parfums qui sont, par nature,
 
 En revanche, la théière **_茶壺_ CháHú**, souvent fabriquée en argile ou en terre cuite, possède une "mémoire" qui absorbe et enrichit les arômes au fil des infusions.
 Cette caractéristique permet d’optimiser la structure du thé en gérant efficacement les tanins et l’astringence. La théière favorise ainsi l’équilibre entre la libération des tanins et la prévention d’une astringence excessive,
-ce qui met en valeur les thés plus "strcturés" comme les **_烏龍茶_ (Wūlóng Chá)**.
+ce qui met en valeur les thés plus "structurés" comme les **_烏龍茶_ Wūlóng Chá** (thés oolong).
 
 Pour la suite, peut-être que cette [table d'infusion](../base/table-d-infusion) pourra vous aider pour débuter ?
