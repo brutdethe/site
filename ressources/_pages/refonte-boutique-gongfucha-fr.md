@@ -7,7 +7,7 @@ layout: page
 
 ## On ouvre l'échoppe en ligne pour de vrai
 
-> https://boutique.gongfucha.fr
+> Pour la voir : [https://boutique.gongfucha.fr](https://boutique.gongfucha.fr)
 
 Après deux mois à bricoler, on est enfin prêt à vous montrer la nouvelle version de notre échoppe en ligne.
 Ça n’a pas toujours été simple, mais au moins on l’a fait comme on l’entend : sans surcharger, sans courir après la dernière techno à la mode, et sans céder à la flemme de tout confier à un géant du web.
@@ -45,6 +45,6 @@ Pour les paiements, on bosse encore avec Stripe. Est-ce qu’ils sont parfaits ?
 Nous avons en tête que ce n'est pas fini, qu'il reste beaucoup de choses à régler, à retirer, à simplifier.
 Nous allons essayer de continuer à intégrer les améliorations suggérées par vos retours.
 
-N'hésitez pas à nous jeter gentiment des tomates, ça pourrait nous donner l'envie d'appeler la prochaine version : la bolognaise
+N'hésitez pas à nous jeter gentiment des tomates, ça pourrait nous donner l'envie d'appeler la prochaine version : _la bolognaise_
 
 Vous pouvez suivre nos activités [ici](/pages/agenda)
