@@ -5,7 +5,7 @@ description: >
 layout: page
 ---
 
-![](/assets/media/accueil_2.jpg)
+![](/assets/media/accueil_1.jpg)
 
 # Explorer la tradition chinoise du Thé
 
