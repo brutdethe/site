@@ -5,6 +5,8 @@ description: >
 layout: page
 ---
 
+Massat, le 14 décembre 2024
+
 ## On ouvre l'échoppe en ligne pour de vrai
 
 > Pour la voir : [https://boutique.gongfucha.fr](https://boutique.gongfucha.fr)

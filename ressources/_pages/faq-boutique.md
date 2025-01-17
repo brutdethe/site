@@ -5,7 +5,7 @@ description: >
 layout: page
 ---
 
-![](/assets/media/accueil_1.jpg)
+![](/assets/media/gongfucha.jpg)
 
 # Explorer la tradition chinoise du Thé
 

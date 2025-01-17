@@ -12,6 +12,9 @@
 J'ai remarqué que vos thés étaient tous au même prix, c'est un peu n'importe quoi, non ?  
 : Dans l'absolu, on croit qu'il n'y a pas de bon ou de mauvais thé, tout dépend de la saison, du contexte, de l'heure et surtout de vos envies. On imagine que le prix influence le choix. Nous avons choisi de proposer un prix unique pour ne pas hiérarchiser les thés et vous inviter à écouter votre envie de laisser inviter un thé dans votre tasse. Ça pourrait être un thé Pu'Er pour mieux supporter la rigueur de l'hiver ; un thé vert, Pour bien démarrer la journée ; un WuLong, pour déguster avec une amie retrouvée ; ce thé blanc, fidèle compagnon, de vos instants lecture ; ou encore un thé inconnu pour vous laisser surprendre.
 
+Je suis un désorienté•e j'ai l'impression que la boutique n'est plus la même ?  
+: Oui, c'est vrai, on a tout recodé, consolidé, amélioré, vous trouverez un petit article dédié [ici](/pages/refonte-boutique-gongfucha-fr)
+
 Je ne retrouve pas les notes aromatiques décrites habituellement ?
 : En circulant sur ce site, vous trouverez très peu de descriptions sur les parfums, les arômes des thés. En Chine et à Taïwan, ce qui nous incite à acheter un thé pour la première fois n’est pas tant l’appréciation des arômes que la curiosité de découvrir ce nouveau thé. En nous fiant seulement aux arômes indiqués, nous pouvons rater de belles surprises. Par ailleurs, le thé est tellement complexe et le ressenti de chacun tellement différent, qu’il en devient dérisoire de décrire des arômes. Nous vous invitons à nous suivre dans cette démarche et à prendre le risque de découvrir des thés que vous n’oseriez pas tester autrement.
 
