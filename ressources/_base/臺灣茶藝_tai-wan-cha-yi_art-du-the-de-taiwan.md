@@ -11,7 +11,7 @@ Avec les migrations des communautés **閩南 - MǐnNán**, particulièrement en
 
 L'art du thé taïwanais s'appuie sur les bases du **工夫茶 - GōngFūChá** de **潮州 - CháoZhōu** et de **閩南 - MǐnNán**, tout en développant de nouvelles dimensions qui reflètent des caractéristiques variées et spontanées.
 
-Le terme « **茶藝 - CháYì** » (art du thé) est un néologisme créé par le monde du thé taïwanais au milieu des années 1970. On ne le trouve ni dans le **辭海 - CíHǎi** (grand dictionnaire de référence chinois), ni dans les textes anciens. « **茶藝 - CháYì** » se veut une réponse au « **茶道 - Cha Dō** » japonais. À l’époque, les experts du thé estimaient que le « Cha Dō » était trop rigide et empreint de religiosité, ce qui le rendait incompatible avec les caractéristiques quotidiennes et spontanées de la culture du thé taïwanaise. (Source : https://openmuseum.tw/)
+Le terme « **茶藝 - CháYì** » (art du thé) est un néologisme créé par le monde du thé taïwanais au milieu des années 1970. On ne le trouve ni dans le **辭海 - CíHǎi** (grand dictionnaire de référence chinois), ni dans les textes anciens. « **茶藝 - CháYì** » se veut une réponse au « **茶道 - ChaDō** » japonais. À l’époque, les experts du thé estimaient que le « Cha Dō » était trop rigide et empreint de religiosité, ce qui le rendait incompatible avec les caractéristiques quotidiennes et spontanées de la culture du thé taïwanaise. (Source : https://openmuseum.tw/)
 
 Influencée par les cultures chinoise et japonaise, la culture du thé taïwanaise, ou **臺灣茶藝 - TáiWān CháYì**, a progressivement acquis une identité unique, devenue emblématique de Taïwan.
 

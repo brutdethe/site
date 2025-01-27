@@ -6,7 +6,7 @@ description: >
 
 ---
 
-# La pratique de 養壺 (Yǎng Hú)
+# La pratique de 養壺 (YǎngHú)
 
 ## Nourrir et cultiver l’âme de la théière
 
@@ -24,7 +24,7 @@ L’essence de 養壺 - YǎngHú repose sur l’utilisation de la **première in
 
 ---
 
-## Analyse des sinogrammes de 養壺 - Yǎng Hú
+## Analyse des sinogrammes de 養壺 - YǎngHú
 
 ### 養 (Yǎng) : Nourrir, élever, cultiver
 - **Radical** : Le radical **⺷ (羊, yáng)** symbolise "mouton", synonyme d’abondance et de bien-être.
