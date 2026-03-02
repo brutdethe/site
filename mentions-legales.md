@@ -1,12 +1,58 @@
 ---
 layout: page
 title: Mentions légales
+description : Les mentions légales qui sont obligatoires
 ---
 
-## Mention légales
+## Mentions légales
 
-Le site [https://www.gongfucha.fr](https://www.gongfucha.fr) est édité par Yalin Cheng et Stéphane Langlois, il est hébergé par [Github](https://github.com).
+Les sites :
 
-Structure répertoriée sous le numéro d’immatriculation 899 032 494 et le code APE 94.99Z auprès du des greffes du tribunal de Foix et dont le siège social est 15, rue de la montagne - 09320 Massat.
+- https://www.gongfucha.fr  
+- https://boutique.gongfucha.fr  
+- https://photos.gongfucha.fr  
+- https://festival.gongfucha.fr  
 
-Directeur de la publication : Yalin Cheng et Stéphane Langlois : coucou@gongfucha.fr
+sont édités par :
+
+Association VIA  
+SIRET : 899 032 494 
+1267, route du Taus  
+09320 Soulan  
+France  
+
+Représentée par :  
+Ya-Lin Cheng & Stéphane Langlois  
+
+Directrice et directeur de la publication :  
+Ya-Lin Cheng & Stéphane Langlois  
+
+---
+
+### Hébergement
+
+Les sites sont hébergés en Allemagne par :
+
+OVH SAS  
+2 rue Kellermann  
+59100 Roubaix  
+France   
+
+---
+
+### Données personnelles
+
+Les sites ne collectent aucune donnée personnelle.
+
+Les éventuels paiements effectués sur boutique.gongfucha.fr sont traités par des prestataires externes :
+
+- Stripe (https://stripe.com/fr/legal)  
+- Square (https://squareup.com/fr/fr/legal/general/dc)
+
+Ces prestataires sont responsables du traitement des données liées aux paiements.
+
+---
+
+### Cookies
+
+Les sites n’utilisent aucun cookie de suivi ou publicitaire.
